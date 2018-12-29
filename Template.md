@@ -1,5 +1,5 @@
 # [Your Name]
-This is a template for your 100 Days of Code log. **DO NOT MODIFY THIS**. Instead, create a new file called "MyName.md" and copy this template there. Edit this to remove all template content and replace with your own.
+This is a template for your 100 Days of Code log. **DO NOT MODIFY THIS**. Instead, create a new file called "Readme.md" in your directory and copy this template there. Edit this to remove all template content and replace with your own.
 
 Write a brief description about yourself and what you do. Write about what you want to accomplish in these 100 days of code. Feel free to include links to your github repos!
 
