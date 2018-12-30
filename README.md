@@ -23,9 +23,9 @@
 * A community where you can always discuss your troubles seek mentorships etc.
  
 ## Rules:
-*  fill the [form](https://goo.gl/forms/64osD7FxMaIquX8g2)
-*  make a commitment on Twitter on 1st January with #100DaysOfCode and #PyJaipur or #PyJaipurIsAwesome in order to get elligble for rewards from PyJ.
-* **in this repo find the name with your folder you can update readme.md in your folder for daily logs start with your Introduction.**
+- [ ]  fill the [form](https://goo.gl/forms/64osD7FxMaIquX8g2)
+- [ ]  make a commitment on Twitter on 1st January with #100DaysOfCode and #PyJaipur or #PyJaipurIsAwesome in order to get elligble for rewards from PyJ.
+- [ ] **in this repo find the name with your folder you can update readme.md in your folder for daily logs start with your Introduction.**
 
 
 *if you still have doubt about anything either post it in issues or at out [telegram group](https://web.telegram.org/#/im?p=@pyjaipur)*
