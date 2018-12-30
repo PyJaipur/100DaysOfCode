@@ -6,6 +6,8 @@ I've done some projects on IOT. I was into AI and Machine learning but after kno
 As a fresher i don't have a working experience, but i do have the will to learn. 
 In this upcoming time, taking #100DaysofCode as a challenge i'd be learning about android develpoment and language C++. And I've rolled into a Machine learning course as well just to have an idea about how things work around in advance alogs :')
 
+# Happy Coding 
+
 ### Day 1
 
 
