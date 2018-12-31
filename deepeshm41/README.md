@@ -1,4 +1,4 @@
-# Deepesh Menghani
+# Deepesh Menghani - Btech CSE 3rd yr JECRC University
 
 ### Day 1
 
