@@ -1,6 +1,6 @@
 # Bharat Purohit
 
-Bharat Purohit Here
+Bharat Purohit Here,
 
 Pursuing Graduate studies in Converging Technologies, leading to a career in Research.
 i get more interest in automting stuff. my interest lies in Neural networks, Datascience and converging aspect of Neuro & Cognitive Science in Computer Science.
