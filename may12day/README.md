@@ -1,9 +1,15 @@
 # Mayank Devnani
 
-### Day 1
+* Pre-Final Year CSE
+* Machine Learning Intern at TensaX Innovation Lab
 
+### Plans for 100DaysOfCode
 
-### Day 2
+- Improving Algorithmic thinking
+- Solving some Kaggle Problems
+- Improving Python Skills
 
+### Day 0
 
-### Day 3
+* Prepared My Introduction Here and Planning here.
+
