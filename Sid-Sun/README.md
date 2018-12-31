@@ -1,5 +1,8 @@
 # Sidharth Soni
 
+### Day 0
+Start new project, structuring done
+
 ### Day 1
 
 
