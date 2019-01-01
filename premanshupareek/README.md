@@ -1,2 +1,9 @@
-* Intro
-* day-0
+# Premanshu Pareek
+
+### Day 1
+
+
+### Day 2
+
+
+### Day 3
