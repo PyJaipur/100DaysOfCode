@@ -14,5 +14,5 @@ My name is Premanshu Pareek. I am Computer Science and Engineering graduate from
 3. Topics Covered 
       * Developing RESTful web appication using the Python framework Flask
       * Implementing third party OAuth authentication
-      * Proper use of various HTTP methods.
-      * Implementing CRUD functionality to the website.
+      * Proper use of various HTTP methods
+      * Implementing CRUD functionality to the website
