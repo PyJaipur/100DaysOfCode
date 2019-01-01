@@ -12,8 +12,9 @@ Start of the #100DaysOfCode is really a great start to 2k19.
   * Make a good python project.
   
 ### Day 1
-  * Did planning for the next upcomming 100 days.
-  * Practised problem 'Queen Attack II' on hackerrank, still trying that quesiton. Have used 2 approaches till now:
+  * Did planning for the upcomming 100 days.
+  * Practised problem 'Queen Attack II' on [hackerrank] (https://www.hackerrank.com/challenges/queens-attack-2/problem)
+    still trying that quesiton. Have used 2 approaches till now:
         -> First one was having a huge space complexity.
         -> Successed to overcome the space complexity issue and with this present approach , passed 13 out of 21 test cases.
         -> Still making efforts to solve the problem.
