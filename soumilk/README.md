@@ -2,7 +2,7 @@
 Start of the #100DaysOfCode is really a great start to 2k19.
 * Pre- final year CSE 
 * JECRC foundation
-* Mostly use C++ for coding but sometines use Pythin as well.
+* Mostly use C++ for coding but sometines use Python as well.
 
 # Target for the upcomming 100 Days
   * Get a strong grip on DSA.
