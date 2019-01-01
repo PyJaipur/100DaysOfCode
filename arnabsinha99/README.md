@@ -19,6 +19,22 @@ These would be my aim for the next 100 days:-
 
 ### Day 1
 
+I learnt the Bootstrap and JavaScript part of the following course: Python and Django Full Stack Web Developer Bootcamp
+
+These were the following things I learnt and practised it hands on:-
+
+* Grids in Bootstrap 4
+
+* alert() statement, console.log() statement and prompt() statement
+
+* Connecting JS file to HTML file using "script" statement 
+
+* Operators, Control flow, while loops, for loops, functions, arrays and objects in JS followed by practising various codes in it.
+
+I also solved problem 1095A on Codeforces. Solution is [here](https://ideone.com/qFVv2l)
+
+I also added contributed to my project whose link is [here](https://github.com/arnabsinha99/Site-honn-te) . This is my personal website which I am to build. 
+
 
 ### Day 2
 
