@@ -4,11 +4,16 @@
  * Plans for 100DaysOfCode
  
 # Improving Algorithmic thinking.
- * Solving some Kaggle Problems.
- * Improving Python Skills with #project euler and #leetcode.
- * publish 2 research papers on decision tree and KNN.
- * reading 10 books (Technical/Non-Technical)
+  Solving some Kaggle Problems.
+ - [ ] Improving Python Skills with #project euler and #leetcode.
+ - [ ] publish 2 research papers on decision tree and KNN.
+ - [ ] reading 10 books (Technical/Non-Technical)
+  follow up 3 months path by @siraj raval for Data science in 100 days.
+                                   - [ ] month 1
+                                   - [ ] month 2
+                                   - [ ] month 2
  
 ## Day - -1 : Jan 1st 2019
 ###### Prepared My Introduction Here and Planning here.
+###### Started working with datacamp path to data science and machine learning & started solving chllenges.
 
