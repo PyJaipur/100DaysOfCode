@@ -8,7 +8,10 @@ As my new year's resolution, I commit to take **#100DaysOfCode** challenge as a 
 ## Happy Coding!
 
 ### Day 1
+Solved problems related to Binary Trees and Linked Lists on leetcode.
+Can be checked out [here](https://leetcode.com/ravi4kumawat).
 
+Gradually progressing in ML course and Django docs. Learnt about Uni and Multi-variate linear regression and gradient descent.
 
 ### Day 2
 
