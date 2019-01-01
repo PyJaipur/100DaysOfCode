@@ -16,16 +16,27 @@
 
 ## What from PyJaipur Community:
 
-* some swags
-* possible internship opportunity
-* Assured Certificates from PyJaipur.
-* listing on our Github repo where you can log your progress.
+* Some Swags.
+* Possible internship opportunity.
+* **Assured Certificates from PyJaipur**.
+* Listing on our Github repo where you can log and update your progress.
 * A community where you can always discuss your troubles seek mentorships etc.
  
 ## Rules:
-- [ ]  fill the [form](https://goo.gl/forms/64osD7FxMaIquX8g2)
-- [ ]  make a commitment on Twitter on 1st January with #100DaysOfCode and #PyJaipur or #PyJaipurIsAwesome in order to get elligble for rewards from PyJ.
-- [ ] **in this repo find the name with your folder you can update readme.md in your folder for daily logs start with your Introduction.**
+- [ ]  Fill the [Form](https://goo.gl/forms/64osD7FxMaIquX8g2)
+- [ ] Join the [Telegram Group](https://web.telegram.org/#/im?p=@pyjaipur)
+- [ ]  Make a commitment on Twitter on 1st January with #100DaysOfCode and #PyJaipur or #PyJaipurIsAwesome in order to get elligble for rewards from PyJ.
+- [ ] **In this repo find the folders with the Username, you can update README.md in your folder for daily logs start with your Introduction.**
 
+## Project Ideas:
 
-*if you still have doubt about anything either post it in issues or at out [telegram group](https://web.telegram.org/#/im?p=@pyjaipur)*
+### Leetcode
+LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+
+### Project Euler
+
+Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
+
+Link: [Main Website](https://projecteuler.net) , [Hackerrank](https://www.hackerrank.com/contests/projecteuler/challenges)
+
+*If you still have doubt about anything either post it in issues, or at out [telegram group](https://web.telegram.org/#/im?p=@pyjaipur)*
