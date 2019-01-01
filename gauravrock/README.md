@@ -9,6 +9,7 @@
  - [ ] publish 2 research papers on decision tree and KNN.
  - [ ] reading 10 books (Technical/Non-Technical)
  - [ ] follow up 3 months path by @sirajraval for Data science in 100 days.
+ - [ ] Read the Book - Learn python the hard way 3
   
   
 ## Day - -1 : Jan 1st 2019
