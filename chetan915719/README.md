@@ -12,3 +12,6 @@
 #### T-101
 * Learned How to use GitHub
 * Prepared My Introducation Here and Planning here.
+#### T-102
+* Practice Python on HackerRank
+* Few Chapters on Networking
