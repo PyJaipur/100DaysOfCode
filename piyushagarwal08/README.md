@@ -11,6 +11,7 @@ i have decided to continue my work on sqllite from tomorrow.
 in terms of code, created a simple code to find if certain array contains similar elements (contains_duplicate.py).
 
 ### Day 2
-
+not much just studied some basic query language that can be used over sqllite.
+creating tables, adding or deleting data or updating it.
 
 ### Day 3
