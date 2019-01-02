@@ -15,4 +15,8 @@
 ## Day - -1 : Jan 1st 2019
 - Prepared My Introduction Here and Planning here.
 - Started working with datacamp path to data science and machine learning & started solving chllenges.:+1:
+## Day - -2 : Jan 2nd 2019
+- completed the datacamp introduction to python for data science.(it was a great introduction in a very subtle and efficient way to get a glimpse of library like NUMPY and compare it with lists in python) [here certificate](https://www.datacamp.com/statement-of-accomplishment/course/9e38d8d76524521571c801d81ce11a19707a896c)
+- worked with linear regression algorithms and started to implement using jupyter notebook.
+- learned the basic of web scraping using python.
 
