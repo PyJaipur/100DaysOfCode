@@ -6,6 +6,7 @@
   #### 3)start python 
   #### 4)learn more of hardware hacking 
 ### Day 1: 1st january
-#### Today i practiced functions in C , recursion and arrays. 
+##### Today i practiced functions in C , recursion and arrays. 
 ### Day 2
+##### Did'nt do much today,just revised kali linux by practising some tools,google dork commands,aircrack and footprinting.
 ### Day 3
