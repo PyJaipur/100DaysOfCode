@@ -9,7 +9,17 @@ In this upcoming time, taking #100DaysofCode as a challenge i'd be learning abou
 # Happy Coding 
 
 ### Day 1
+Today I learned about overall model process of supervised and unsupervised learning
+later following to linear regression and some examples. Also I've been tracking progress
+of my friend @DeadVampire aka Alucard about Binary trees and linked lists :3 .
 
+Also on the android development side :-
+
+- [x] Started with kotlin.
+- [x] Understanding the basic layout of App.
+- [ ] Creating Resources with strings.
+- [ ] More about constraints.
+- [ ] Made an interactive App.
 
 ### Day 2
 
