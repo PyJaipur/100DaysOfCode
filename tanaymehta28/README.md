@@ -13,8 +13,10 @@ Also, I have added a class of operators called "MatrixOps" which currently has o
 /\Plans: To add Tensor generation and Tensors of more than 3 ranks (preferable upto 8 dimensions would work, unless you are a high-energy physicist at fermilab!(pun there.))
 
 ### Day 2
++Added
+1. A Linear regression model in Python (Numpy) is added. It does multivariate Linear Regression on Boston House Pricing Dataset. It is still under work, but most of it works just fine. It is implemented in Python by only using Two External Libraries, i.e; Numpy and Pandas.
 
-
+/\Plans: To make it more memory efficient and decrease it's time complexity.
 ### Day 3
 
 
