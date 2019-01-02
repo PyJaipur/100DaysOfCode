@@ -20,6 +20,10 @@ Start of the #100DaysOfCode is really a great start to 2k19.
         -> Still making efforts to solve the problem.
         
 ### Day 2
+  * Finially did the question Queen's attack II in both python and c++, although the logic is same.
+  * You can checkout both the solutions in my repository (https://github.com/soumilk/HackerRank_Programs/tree/master/implementation)
+  * Leetcode Question solved -> 217.Contains Duplicate.
+  * Leetcode Question solved -> 219.Contains Duplicate II.
 
 
 ### Day 3
