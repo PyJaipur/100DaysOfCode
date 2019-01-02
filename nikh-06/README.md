@@ -6,7 +6,7 @@ I am a First Year IT student at Manipal University Jaipur.I am currently learnin
 
 Today I started my day by making a Rock Paper Scissor game then I moved forward in my Python Course learning List and List Comprehensions and practised it and I also started Hackerank and solved some easy problems on it.
 
-### Day 3
+### Day 2
 
 Today I learned basics of Dictionary and some methods related to it and I continued solving problems on HackerRank as well as started solving problems on Leetcode also.
 
