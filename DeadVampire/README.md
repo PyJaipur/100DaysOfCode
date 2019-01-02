@@ -14,6 +14,10 @@ Can be checked out [here](https://leetcode.com/ravi4kumawat).
 Gradually progressing in ML course and Django docs. Learnt about Uni and Multi-variate linear regression and gradient descent.
 
 ### Day 2
+The same as usual daily routine of Problem Solving on leetcode and hackerrank.
 
+Progress in ML - Octave/Matlab setup and basics, Intro to R and polynomial regression.
+
+Django and backend basics.
 
 ### Day 3
