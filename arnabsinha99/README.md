@@ -38,5 +38,13 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 ### Day 2
 
+* I learnt the meaning of Document Object Model (DOM) in JavaScript today. I also learnt how to use functions such as addEventListener() and others to interact with the website. I used this to generate random colors on the header of my website that I am building.
+
+* Following is the query I had posted today on [StackOverflow](https://stackoverflow.com/questions/54003762/getelementbyid-function-is-returning-null-for-existing-header-id/54003818?noredirect=1#comment94850062_54003818)
+
+* I learnt the basics of JQuery which includes the use  of $ sign. 
+
+* I solved the problem [Single Number](https://leetcode.com/problems/single-number/) and my submission is available [here](https://leetcode.com/submissions/detail/198499974/)
+
 
 ### Day 3
