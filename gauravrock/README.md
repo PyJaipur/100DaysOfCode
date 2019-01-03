@@ -19,4 +19,6 @@
 - completed the datacamp introduction to python for data science.(it was a great introduction in a very subtle and efficient way to get a glimpse of library like NUMPY and compare it with lists in python) [here certificate](https://www.datacamp.com/statement-of-accomplishment/course/9e38d8d76524521571c801d81ce11a19707a896c)
 - worked with linear regression algorithms and started to implement using jupyter notebook.
 - learned the basic of web scraping using python.
-
+## Day - -3 : Jan 3rd 2019
+- worked with web crawler and scraping using python and packages like Http requests and BeautifulSoup to crawl the links and images and tried to make a youtube downloader(but failed suddenly due to strong regex of youtube but will try again!:sweat_smile:).
+- also had a hands of some packages of python for ML and datascience such as Matplotlib , pandas etc from datacamp.
