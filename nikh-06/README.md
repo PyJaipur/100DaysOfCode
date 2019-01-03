@@ -10,5 +10,9 @@ Today I started my day by making a Rock Paper Scissor game then I moved forward 
 
 Today I learned basics of Dictionary and some methods related to it and I continued solving problems on HackerRank as well as started solving problems on Leetcode also.
 
+### Day 3
+
+Today I started Harvard CS50 in which I leraned basics of C language then I continued solving problmes on HackerRank.
+
 
 
