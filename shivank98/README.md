@@ -19,3 +19,7 @@
   * couple of problem on Leetcode.
   * mailed a typo on geekforgeeks to them.
   * started writing a medium blog on some Python builtin function(enumerate today).
+ * ### Day T-99/2: Jan 3rd 2019
+  * Solved a couple of problems on Hackerrank || Leetcode
+ * ### Day T-98/3: Jan 4 2019
+ 
