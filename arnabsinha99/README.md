@@ -48,3 +48,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 
 ### Day 3
+
+* Progressed on my website. 
+
+* Solved [this](https://leetcode.com/problems/two-sum/) and [here](https://leetcode.com/submissions/detail/198743978/)
