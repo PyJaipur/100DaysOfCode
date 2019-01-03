@@ -1,5 +1,5 @@
 # Solution statement for the problem statement of Day 2.
-# Source Project Euler : https://leetcode.com/problems/single-number
+# Source Leetcode : https://leetcode.com/problems/single-number
 # Statement : Given a non empty array of integers, every element is repeated twice except for one,
 # find that single unique number
 # Author : Deathcode aka carotkut94
