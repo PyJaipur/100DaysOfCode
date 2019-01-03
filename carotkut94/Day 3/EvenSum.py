@@ -7,7 +7,7 @@
 #
 # By considering the terms in the Fibonacci sequence whose values do not exceed four million,
 # find the sum of the even-valued terms.
-# find that single unique number
+
 # Author : Deathcode aka carotkut94
 
 # I started with the bruteforce approach by generating fibonacci number and checking it
