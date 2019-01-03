@@ -21,3 +21,8 @@ Progress in ML - Octave/Matlab setup and basics, Intro to R and polynomial regre
 Django and backend basics.
 
 ### Day 3
+Learnt and solved more about data structures and algorithms.
+
+Examined and tried replicating standard libraries/modules on various functions and structures.
+
+Progress in ML - Feature scaling, Learning Rate, polynomial regression basics.
