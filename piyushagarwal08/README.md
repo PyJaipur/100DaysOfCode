@@ -15,3 +15,5 @@ not much just studied some basic query language that can be used over sqllite.
 creating tables, adding or deleting data or updating it.
 
 ### Day 3
+working over web scrapping program, still unable to resolve the issues.
+trying to scrap data from a webpage.
