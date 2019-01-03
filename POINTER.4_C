@@ -1,0 +1,16 @@
+//for finding value of num after increament
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+int num,*pnum;
+pnum=&num;
+*pnum=10;
+printf("\n *pnum=%d",*pnum);
+printf("\n num=%d",num);
+*pnum=*pnum+1;
+printf("\n after increament *pnum=%d",*pnum);
+printf("\n after increament num=%d",num);
+getch();
+}
