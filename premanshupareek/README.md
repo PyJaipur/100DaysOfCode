@@ -16,3 +16,10 @@ My name is Premanshu Pareek. I am Computer Science and Engineering graduate from
       * Implementing third party OAuth authentication
       * Proper use of various HTTP methods
       * Implementing CRUD functionality to the website
+      
+## Day 2
+1. Started the work on the Project - Item Catalog
+2. Created the database schema for the app
+3. Learned and used the SQLAlchemy to setup the database
+4. Created the mockups/designs for the website
+5. Completed Applied Visual Design module on FreeCodeCamp
