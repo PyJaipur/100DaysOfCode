@@ -10,3 +10,7 @@ Hi! I love to spend time with my computer.
 
 - Solved 2 problems form SPOJ. (ACODE & EIGHTS)
 
+### Day 3 ( 03-01-2019 )
+
+- Solved 2 problems form SPOJ. (PALIN & HANGOVER)
+
