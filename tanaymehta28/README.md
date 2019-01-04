@@ -17,10 +17,22 @@ Also, I have added a class of operators called "MatrixOps" which currently has o
 1. A Linear regression model in Python (Numpy) is added. It does multivariate Linear Regression on Boston House Pricing Dataset. It is still under work, but most of it works just fine. It is implemented in Python by only using Two External Libraries, i.e; Numpy and Pandas.
 
 /\Plans: To make it more memory efficient and decrease it's time complexity.
-### Day 3
 
+### Day 3
++Added
+1. On Day 02, I added Linear Regression in Plain old Numpy, that was great for skills and all but it lacked good accuracy and memory efficiency. That's Why I have made another Linear Regression Model but now in Core Tensorflow (NO HIGH LEVEL API, I hate these Keras, sklearn and tf.estimator api's).
+
+/\Plans: Tomorrow I will add a simple data Visualisation model in Javascript made in D3.js
 
 ### Day 4
-
++Added
+1. Today I made the front-end of a Web-app (under serious development), this web app will have it's backend made upon NodeJS (S.O.L.I.D Principles). So far only the Front-end is done and dusted, although, there are lots of changes coming to it.
+/\Plans: Best development happens when you do things the unplanned way!
 
 ### Day 5
+
+
+### Day 6
+
+
+### Day 7

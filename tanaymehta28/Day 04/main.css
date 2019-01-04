@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Happy+Monkey|Lobster|Thasadith|Ubuntu');
+
+body{
+  background-image: linear-gradient(to left,blue,purple);
+}
+
+#head{
+  color: black;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  font-size: 70px;
+}
+#info{
+  font-family: 'Anton', sans-serif;
+  font-size: 25px;
+  text-align: center;
+}
+
+form{
+  text-align:center;
+}
+
+input[type=text], textarea{
+  border: 0;
+  border-bottom: 2px solid blue;
+  background: transparent;
+  margin-right:12px;
+  font-family:"Thasadith", sans-serif;
+  font-size: 20px;
+  color:white
+}
+textarea{
+  width:30%;
+  height:100px;
+  display:inline-block;
+  resize:none;
+}
+input[type=text]{
+  margin:12px;
+}
+label{
+  font-family: "Thasadith", sans-serif;
+  font-size:22px;
+}
+
+#go{
+  width:80px;
+  height:35px;
+  margin-top:22px;
+  border-radius:7px;
+  border:none;
+  font-family:Thasadith;
+  font-weight:bold;
+  background:blue;
+}
+#go:hover{
+  background: darkblue;
+}
+label{
+  color:white;
+}
