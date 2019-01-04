@@ -22,4 +22,8 @@
  * ### Day T-99/2: Jan 3rd 2019
   * Solved a couple of problems on Hackerrank || Leetcode
  * ### Day T-98/3: Jan 4 2019
+  * Solved couple of problems on Leetcode.
+  * Wrote a [blog](https://medium.com/@shivankgautam/more-on-python-1621213b40de) on Medium
+* ### Day T-97/4 : Jan 5 2019
+ * 
  
