@@ -30,4 +30,4 @@ Start of the #100DaysOfCode is really a great start to 2k19.
   * Read about binary heaps from geeks for geeks.
 
 ### Day 4
-  * 
+  * Solved Hackerrank problem Funny String (https://www.hackerrank.com/challenges/funny-string/problem), you can check out my solution in (https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/Funny%20String.cpp).
