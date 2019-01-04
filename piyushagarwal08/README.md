@@ -17,3 +17,6 @@ creating tables, adding or deleting data or updating it.
 ### Day 3
 working over web scrapping program, still unable to resolve the issues.
 trying to scrap data from a webpage.
+
+### Day 4
+couldn't get time today for coding but still tried to learn and understand the concept of database design and modelling felt somewhat similar to dfd.
