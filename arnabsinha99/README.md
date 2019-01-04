@@ -52,3 +52,11 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Progressed on my website. 
 
 * Solved [this](https://leetcode.com/problems/two-sum/) and [here](https://leetcode.com/submissions/detail/198743978/)
+
+### Day 4
+
+* Implemented SVM on Jupyter Notebook
+
+* Learnt the various functions like classification_report() , confusion_matrix() in sklearn 
+
+* Tried to solve the first problem of CodeChef January Long Challenge
