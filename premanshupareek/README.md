@@ -23,3 +23,8 @@ My name is Premanshu Pareek. I am Computer Science and Engineering graduate from
 3. Learned and used the SQLAlchemy to setup the database
 4. Created the mockups/designs for the website
 5. Completed Applied Visual Design module on FreeCodeCamp
+
+## Day 3
+1. Read the Flask documentation
+2. Created the HTML templates for the website pages
+
