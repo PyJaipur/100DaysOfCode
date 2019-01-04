@@ -2,7 +2,7 @@
 Start of the #100DaysOfCode is really a great start to 2k19.
 * Pre- final year CSE 
 * JECRC foundation
-* Mostly use C++ for coding but sometines use Python as well.
+* Mostly use C++ for coding but sometimes use Python as well.
 
 # Target for the upcomming 100 Days
   * Get a strong grip on DSA.
@@ -25,5 +25,9 @@ Start of the #100DaysOfCode is really a great start to 2k19.
   * Leetcode Question solved -> 217.Contains Duplicate.
   * Leetcode Question solved -> 219.Contains Duplicate II.
 
+### Day 3 
+  * Arrived Jaipur from hometown.
+  * Read about binary heaps from geeks for geeks.
 
-### Day 3
+### Day 4
+  * 
