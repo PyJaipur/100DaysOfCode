@@ -26,3 +26,8 @@ Learnt and solved more about data structures and algorithms.
 Examined and tried replicating standard libraries/modules on various functions and structures.
 
 Progress in ML - Feature scaling, Learning Rate, polynomial regression basics.
+
+### Day 4
+Progress in ML - MATLAB/OCTAVE programming, R, solved some examples on multi variate linear regression.
+
+Will push all my work since day 1 someday later as Internet connection is not stable here.
