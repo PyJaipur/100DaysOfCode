@@ -25,5 +25,7 @@
   * Solved couple of problems on Leetcode.
   * Wrote a [blog](https://medium.com/@shivankgautam/more-on-python-1621213b40de) on Medium
 * ### Day T-97/4 : Jan 5 2019
+  * Moved my head around with some Codechef problems.
+* ### Day T-96/5 : Jan 6 2019
   * 
  

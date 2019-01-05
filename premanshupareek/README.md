@@ -28,3 +28,6 @@ My name is Premanshu Pareek. I am Computer Science and Engineering graduate from
 1. Read the Flask documentation
 2. Created the HTML templates for the website pages
 
+## Day 4
+1. Created a local server using Python that handles the HTTP requests for the app
+2. Implemented the Read functionality - the app now fetches the data from the database and displays it
