@@ -31,3 +31,8 @@ Progress in ML - Feature scaling, Learning Rate, polynomial regression basics.
 Progress in ML - MATLAB/OCTAVE programming, R, solved some examples on multi variate linear regression.
 
 Will push all my work since day 1 someday later as Internet connection is not stable here.
+
+### Day 5
+Progress in ML - Polynomial regression practice examples, logistic regression.
+
+Solved some more problems on leetcode on data structures and oop.
