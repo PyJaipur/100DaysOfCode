@@ -31,3 +31,14 @@ On day three I choose the problem of finding the sum of even fibonacci numbers u
 By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.`
 
 This problem can be found at https://projecteuler.net/problem=2
+
+
+# Day 4 (Done on 5th day)
+
+On day 5th I solved a problem of array rotation which is asked quiet a lot in interviews
+
+### Problem Statement
+`A left rotation operation on an array shifts each of the array's elements 1 unit to the left. For example, if 2 left rotations are performed on array [1,2,3,4,5] , then the array would become [3,4,5,1,2].
+Given an array a of n integers and a number,d, perform d left rotations on the array. Return the updated array to be printed as a single line of space-separated integers.`
+
+This problem can be found at https://www.hackerrank.com/challenges/ctci-array-left-rotation
