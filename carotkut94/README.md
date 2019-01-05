@@ -42,3 +42,13 @@ On day 5th I solved a problem of array rotation which is asked quiet a lot in in
 Given an array a of n integers and a number,d, perform d left rotations on the array. Return the updated array to be printed as a single line of space-separated integers.`
 
 This problem can be found at https://www.hackerrank.com/challenges/ctci-array-left-rotation
+
+
+# Day 5 
+On day 5th I solved two problems in order to compensate for day 4, this problem is also from HackerRank
+
+### Problem Statement
+This problem is quiet big to type in here, and hard to copy paste, I would rather, suggest to follow the link
+
+
+This problem can be found at https://www.hackerrank.com/challenges/2d-array
