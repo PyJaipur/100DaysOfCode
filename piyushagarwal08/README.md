@@ -20,3 +20,7 @@ trying to scrap data from a webpage.
 
 ### Day 4
 couldn't get time today for coding but still tried to learn and understand the concept of database design and modelling felt somewhat similar to dfd.
+
+### Day 5
+created a program to calculate the number of similar domains present in a text file using database language that is sql and python.
+helped me learn how to use a database(basic).
