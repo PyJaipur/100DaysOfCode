@@ -24,3 +24,5 @@
 - also had a hands on some packages of python for ML and datascience such as Matplotlib , pandas etc from datacamp.
 ## Day - -4 : Jan 4th 2019
 - worked with Matplotlib and pandas .These python packages are great when it comes to data visualization and Data munging in python).
+## Day - - : Jan 5th 2019
+- Read the book Learn python3 the hard way by ZED A. SHAW(a wonderful book to learn the core of python with every great detail)
