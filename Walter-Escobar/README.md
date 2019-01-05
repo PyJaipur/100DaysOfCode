@@ -35,5 +35,15 @@ this gives a good idea as to how itll perform with out of sample data.
 
 was able to find the best value for n in Knn by plotting different values and accuracy on a graph using pyplot.
 learning about what high/low variance and bias mean.
+
+### day 4 - 
+
+continued with the data school tutorials.
+
+used pandas and seaborn on a new dataset to first import a csv. used methods and functions from pandas to modify the csv according to my requirements.
+
+using seaborn i was able to plot the best fit line across the scatterplot formed. (the dataset imported had a continuous variable, thus used regression)
+
+I now have some idea on how data is studied and manipulated to make analysis easier.
             
             
