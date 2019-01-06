@@ -20,15 +20,15 @@ I mainly plan to finish the exercises of [Data Structures and Algorithms in Pyth
 * Get inital setup done using trees to calculate distance for Spell Checker with The Levenshtein Algorithm.
 
 
-| Day        | Topic           | Estimated Time|  Actual Time |
-| ---------- |  :-------------:|         -----:|        -----:|
-| 1          |                 |               |              |
-| 2          |                 |               |              |
-| 3          |                 |               |              |
-| 4          |                 |               |              |
-| 5          |                 |               |              |
-| 6          |                 |               |              |
-| 7          |                 |               |              |
+| Day        | Topic           | Estimated Time|  Actual Time | Clocked Timings |
+| ---------- |  :-------------:|         -----:|        -----:|        --------:|
+| 1          |OOPS - P.33-P.35 |  1Hr          |1Hr 10min     |7:00 PM -8:10 PM |
+| 2          |     -           |  1Hr          |   -          |   -             |
+| 3          |     -           |  1Hr          |   -          |   -             |
+| 4          |OOPS - P.36      |  1Hr          | 2hr          |7:00 PM -8:00PM  |
+| 5          |                 |               |              |                 |
+| 6          |                 |               |              |                 |
+| 7          |                 |               |              |                 |
 
 
 

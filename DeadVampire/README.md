@@ -8,9 +8,31 @@ As my new year's resolution, I commit to take **#100DaysOfCode** challenge as a 
 ## Happy Coding!
 
 ### Day 1
+Solved problems related to Binary Trees and Linked Lists on leetcode.
+Can be checked out [here](https://leetcode.com/ravi4kumawat).
 
+Gradually progressing in ML course and Django docs. Learnt about Uni and Multi-variate linear regression and gradient descent.
 
 ### Day 2
+The same as usual daily routine of Problem Solving on leetcode and hackerrank.
 
+Progress in ML - Octave/Matlab setup and basics, Intro to R and polynomial regression.
+
+Django and backend basics.
 
 ### Day 3
+Learnt and solved more about data structures and algorithms.
+
+Examined and tried replicating standard libraries/modules on various functions and structures.
+
+Progress in ML - Feature scaling, Learning Rate, polynomial regression basics.
+
+### Day 4
+Progress in ML - MATLAB/OCTAVE programming, R, solved some examples on multi variate linear regression.
+
+Will push all my work since day 1 someday later as Internet connection is not stable here.
+
+### Day 5
+Progress in ML - Polynomial regression practice examples, logistic regression.
+
+Solved some more problems on leetcode on data structures and oop.
