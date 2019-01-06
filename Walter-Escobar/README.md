@@ -46,4 +46,15 @@ using seaborn i was able to plot the best fit line across the scatterplot formed
 
 I now have some idea on how data is studied and manipulated to make analysis easier.
             
+### day 5 - 
+
+Contined with the data school tutorials.
+
+learned how to use evaluation metrics to get more accurate results with regression problems. This time I imported LinearRegression from the sklearn library.
+Starting to understand what the B1,2,3 coeffiecients mean in the regression formula. 
+learned how to obtain those values for a particular problem.
+
+used metrics from the sklearn library to evaluate predictions. learned the differences between MAE, MSE, RMSE and how to use them
+
+
             
