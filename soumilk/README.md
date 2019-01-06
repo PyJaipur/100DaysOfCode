@@ -31,4 +31,9 @@ Start of the #100DaysOfCode is really a great start to 2k19.
 
 ### Day 4
   * Solved Hackerrank problem Funny String (https://www.hackerrank.com/challenges/funny-string/problem), you can check out my solution in (https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/Funny%20String.cpp).
-  * Solved Hackerrank problem Encryption (https://www.hackerrank.com/challenges/encryption/problem), solution at (https://github.com/soumilk/HackerRank_Programs/blob/master/implementation/Encryption.cpp)
+  * Solved Hackerrank problem Encryption (https://www.hackerrank.com/challenges/encryption/problem), solution at (https://github.com/soumilk/HackerRank_Programs/blob/master/implementation/Encryption.cpp).
+
+### Day 5
+  * Read about sorting algorithums.( Selection sort, bubble sort, insertion sort ).
+  * Solved a question, "The time in words" (https://www.hackerrank.com/challenges/the-time-in-words/problem) and solution at (https://github.com/soumilk/HackerRank_Programs/blob/master/implementation/The%20Time%20in%20Words.cpp).
+  
