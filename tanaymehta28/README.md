@@ -30,9 +30,28 @@ Also, I have added a class of operators called "MatrixOps" which currently has o
 /\Plans: Best development happens when you do things the unplanned way!
 
 ### Day 5
++Added
+1. Today I learned and implemented Ray Tracing Algorithm in Python 3.5 using Numpy as Matplotlib. This Algorithm Imlpements the State-of-the are ray tracing algorithm and uses it render an image and save it too.
 
+/\Plans: Tommorow I will Implement Logistic Regression in Python using Only Numpy (and sckit-learn for Data Loading). This will be done on Iris Dataset. 
 
 ### Day 6
++Added
+1. Today, I performed Logistic Regression in Python (Numpy) without using any external functions (like LinearRegressor in Keras, etc). This can serve as an assignment implmentation of Andrew NG's Machine Learning course's (on Coursera) 3rd/4rth Week. It only uses Scikit-learn for importing training data. This is done on Iris Dataset.
+
+/\Plans: Honestly! I don't know!!
 
 
 ### Day 7
+
+
+
+### Day 8
+
+
+
+### Day 9
+
+
+
+### Day 10
