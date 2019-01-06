@@ -27,5 +27,7 @@
 * ### Day T-97/4 : Jan 5 2019
   * Moved my head around with some Codechef problems.
 * ### Day T-96/5 : Jan 6 2019
+  * LeetCode 
+* ### Day T-95/6: Jan 7 2019.
   * 
  
