@@ -60,3 +60,10 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Learnt the various functions like classification_report() , confusion_matrix() in sklearn 
 
 * Tried to solve the first problem of CodeChef January Long Challenge
+
+
+### Day 5
+
+* Implemented SVM in a different way, using GridSearchCV, in Jupyter Notebook.
+
+* Solved the first problem of CodeChef Lomg Challenge successfully. 
