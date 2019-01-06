@@ -67,3 +67,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Implemented SVM in a different way, using GridSearchCV, in Jupyter Notebook.
 
 * Solved the first problem of CodeChef Lomg Challenge successfully. 
+
+### Day 6
+
+* I solved the second question of Codeforces long challenge and also looked up the concepts and code of NLP in Machine Learning.
