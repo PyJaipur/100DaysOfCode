@@ -22,3 +22,6 @@ Hi! I love to spend time with my computer.
 
 - Spent all the time trying to understand binary search article by topcoder. Still trying.
 
+### Day 6 ( 06-01-2019 )
+
+- Solved 1 problem from codechef jan long contest. Slacked off.
