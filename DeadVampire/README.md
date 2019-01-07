@@ -26,3 +26,23 @@ Learnt and solved more about data structures and algorithms.
 Examined and tried replicating standard libraries/modules on various functions and structures.
 
 Progress in ML - Feature scaling, Learning Rate, polynomial regression basics.
+
+### Day 4
+Progress in ML - MATLAB/OCTAVE programming, R, solved some examples on multi variate linear regression.
+
+Will push all my work since day 1 someday later as Internet connection is not stable here.
+
+### Day 5
+Progress in ML - Polynomial regression practice examples, logistic regression.
+
+Solved some more problems on leetcode on data structures and oop.
+
+### Day 6
+Progress in ML - None, didn't get much time today
+
+Solved some more problems on leetcode (mainly binary trees) and hackerrank, gradually attempting more difficult problems.
+
+### Day 7
+Progress in ML - Reimplemented Andrew Ng's linear regression exercise in Python and R.
+
+*Let's Start Django* from today.
