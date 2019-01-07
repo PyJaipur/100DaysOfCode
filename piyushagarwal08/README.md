@@ -28,3 +28,6 @@ helped me learn how to use a database(basic).
 ### Day 6
 Created a prpgram to extract text from a webpage and save it in a text file using Request and BeautifulSoup libraray.
 
+### Day 7
+Learned new term Happy numbers and unhappy numbers.
+Tried to create a program to find happy numbers in a certain range(not completed)
