@@ -24,3 +24,7 @@ couldn't get time today for coding but still tried to learn and understand the c
 ### Day 5
 created a program to calculate the number of similar domains present in a text file using database language that is sql and python.
 helped me learn how to use a database(basic).
+
+### Day 6
+Created a prpgram to extract text from a webpage and save it in a text file using Request and BeautifulSoup libraray.
+
