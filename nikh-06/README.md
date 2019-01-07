@@ -26,3 +26,6 @@ Today I moved forward in my Python Course and learned more about Dictionary and 
 
 Today I solved many problems related to Dictionary in Python. Started 2nd Lecture of Harvard CS50. I realise I enjoy coding in C more because it just seems like I am giving instruction to Computer Directly whereas in Python It seems like I am talking to just another person.Though I am very newbie to make any comparison between Python and C (But still just a thought).
 
+### Day 7
+
+Today I created a data model of a spotify playlist. Made a program which save playlist for different user allowing them to update their paylist and I am thinking to update this program further more.Then I solved some problems on HackerRank.
