@@ -29,5 +29,7 @@
 * ### Day T-96/5 : Jan 6 2019
   * LeetCode 
 * ### Day T-95/6: Jan 7 2019.
-  * 
+  * Read some articles.
+* ### Day T-94/7: Jan 8 2019
+  *
  
