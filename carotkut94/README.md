@@ -52,3 +52,14 @@ This problem is quiet big to type in here, and hard to copy paste, I would rathe
 
 
 This problem can be found at https://www.hackerrank.com/challenges/2d-array
+
+
+# Day 6
+On day 6th I solved a pretty basic problem as i was not having that much to dive into something mathematical
+
+
+### Problem Statement
+This problem is quiet big to type in here, and hard to copy paste, I would rather, suggest to follow the link
+
+
+This problem can be found at https://www.hackerrank.com/challenges/30-inheritance/problem

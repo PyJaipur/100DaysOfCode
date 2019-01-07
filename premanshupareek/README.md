@@ -31,3 +31,12 @@ My name is Premanshu Pareek. I am Computer Science and Engineering graduate from
 ## Day 4
 1. Created a local server using Python that handles the HTTP requests for the app
 2. Implemented the Read functionality - the app now fetches the data from the database and displays it
+
+## Day 5
+1. Added Create, Update and Delete functionality
+2. Completed Intro to JavaScript course on Udacity
+3. Started a Course on Udemy - JavaScript Algorithms and Data Structures Masterclass by Colt Steele
+
+## Day 6
+1. Completed Section 2 and 3 from Udemy course
+2. Practiced JavaScript algorithms from course

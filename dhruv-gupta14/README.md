@@ -35,3 +35,9 @@ I solved two problems today provided in the telegram group. Submission of which 
 I learnt backtracking algorithm.
 
 I moved further on my algorithmic course.
+
+### Day 5
+
+I moved further in my algorithmic course covering divide and conquer algorithms.
+
+Solved problem 1 of codechef long challenge and tried solving second.
