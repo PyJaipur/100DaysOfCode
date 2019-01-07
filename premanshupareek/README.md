@@ -40,3 +40,7 @@ My name is Premanshu Pareek. I am Computer Science and Engineering graduate from
 ## Day 6
 1. Completed Section 2 and 3 from Udemy course
 2. Practiced JavaScript algorithms from course
+
+## Day 7
+1. Learned about OAuth
+2. Created third-party sign for the web application using Google's authentication services
