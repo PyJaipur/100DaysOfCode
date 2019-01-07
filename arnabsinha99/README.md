@@ -71,3 +71,9 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 6
 
 * I solved the second question of Codeforces long challenge and also looked up the concepts and code of NLP in Machine Learning.
+
+### Day 7
+
+* Learnt the basics of Tensorflow and practised it on Jupyter labs. 
+
+
