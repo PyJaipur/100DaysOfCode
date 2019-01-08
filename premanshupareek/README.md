@@ -36,3 +36,12 @@ My name is Premanshu Pareek. I am Computer Science and Engineering graduate from
 1. Added Create, Update and Delete functionality
 2. Completed Intro to JavaScript course on Udacity
 3. Started a Course on Udemy - JavaScript Algorithms and Data Structures Masterclass by Colt Steele
+
+## Day 6
+1. Completed Section 2 and 3 from Udemy course
+2. Practiced JavaScript algorithms from course
+
+## Day 7
+1. Learned about OAuth
+2. Created third-party sign for the web application using Google's authentication services
+

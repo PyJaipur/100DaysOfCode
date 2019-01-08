@@ -28,7 +28,6 @@
 - Read the book Learn python3 the hard way by ZED A. SHAW(a wonderful book to learn the core of python with every great detail)
 ## Day - -6 : Jan 6th 2019
 - completed the datacamp's intermediate to python for data science.(it was a great introduction in a very subtle and efficient way to get a glimpse of library like matplotlib and using hacker statistics to solve some data science problem) [here certificate](https://www.datacamp.com/statement-of-accomplishment/course/84d76fa4bda94d6669c16b1e19a36539e1e56046)
-## Day - -7 : Jan 7th 2019
--worked with python automation and establish it using Jupyter notebook.
+
 
 

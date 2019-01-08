@@ -63,3 +63,13 @@ This problem is quiet big to type in here, and hard to copy paste, I would rathe
 
 
 This problem can be found at https://www.hackerrank.com/challenges/30-inheritance/problem
+
+# Day 7
+On day 7th I implemented an algorithm called "Merge Sort"
+
+
+You can read about merge sort at https://en.wikipedia.org/wiki/Merge_sort
+
+
+This  is a simple yet, an awesome sorting algorithm, which averages out to O(n log n) time complexity when it comes
+to sorting element in a list/array
