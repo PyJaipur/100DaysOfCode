@@ -41,3 +41,13 @@ I moved further on my algorithmic course.
 I moved further in my algorithmic course covering divide and conquer algorithms.
 
 Solved problem 1 of codechef long challenge and tried solving second.
+
+### Day 6
+
+I solved a programming assignment of my algorithmic course.
+
+Solved problem 2 of codechef long challenge.
+
+### Day 7
+
+Solved problem 3 of long challenge and practiced some questions on recursion.
