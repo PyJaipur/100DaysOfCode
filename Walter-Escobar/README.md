@@ -57,4 +57,13 @@ learned how to obtain those values for a particular problem.
 used metrics from the sklearn library to evaluate predictions. learned the differences between MAE, MSE, RMSE and how to use them
 
 
+### day 6 - 
+
+trying to implement and use what i learned in the tutorials
+downloaded the dataset for houseingprices available on kaggle.
+have been trying to understand various ways and the practices used to tackle such a problem.
+will be working on it for a few days .
+
+
+
             
