@@ -51,3 +51,8 @@ Solved problem 2 of codechef long challenge.
 ### Day 7
 
 Solved problem 3 of long challenge and practiced some questions on recursion.
+
+### Day 8
+
+Solved some questions on recursion, tried solving question 4 of long challenge and solved 1 question on codeforces.
+Also solved no. of inversions problem by enhanced merge sort method. 
