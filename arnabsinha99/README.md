@@ -76,4 +76,9 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * Learnt the basics of Tensorflow and practised it on Jupyter labs. 
 
+### Day 8
+
+* I learnt Linear regression in Tensorflow and implemented it on Jupyter Labs. 
+
+* I solved two questions on Codeforces. 
 
