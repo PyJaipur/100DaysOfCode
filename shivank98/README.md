@@ -31,5 +31,7 @@
 * ### Day T-95/6: Jan 7 2019.
   * Read some articles.
 * ### Day T-94/7: Jan 8 2019
-  *
+  * Solved a partial problem on codechef Jan challange.
+* ### Day T-93/8: Jan 9 2019
+  * 
  
