@@ -45,3 +45,6 @@ My name is Premanshu Pareek. I am Computer Science and Engineering graduate from
 1. Learned about OAuth
 2. Created third-party sign for the web application using Google's authentication services
 
+## Day 8
+1. Learned about Local Permission System - It protects pages based on each user and just whether the user is logged in
+2. Started Section 4 from the Udemy JS course
