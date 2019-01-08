@@ -43,11 +43,16 @@ Also, I have added a class of operators called "MatrixOps" which currently has o
 
 
 ### Day 7
-
-
++Added
+1. Today I codded out a Neural Network in Core Tensorflow (remember, I am Against any High-level APIs!). This Neural Network Classifies MNIST-Handwritten Images, but here's the catch; It does that without a Convolution Function! This although Decreases it's Accuracy, but it is a great representation on how powerfull even the most basic neural networks are.
+ 
+/\Plans: Why do I even have this Section here? 
 
 ### Day 8
++Added
+1. Today I coded out a simple Kernel (yes, an Operating System Kernel!) in Assemble_x86 and tried to boot in the QEMU-emulator. This is good only for representation purpose; but still teaches alot about Assembly_x86 Language.
 
+/\Plans: I am planning to add on some simple on-boot programs in C-lang that makes this new OS (I named it darkSpark) a bit more awesome.
 
 
 ### Day 9
