@@ -33,5 +33,7 @@
 * ### Day T-94/7: Jan 8 2019
   * Solved a partial problem on codechef Jan challange.
 * ### Day T-93/8: Jan 9 2019
+  * Codechef
+* ### Day T-92/9: Jan 10 2019
   * 
  
