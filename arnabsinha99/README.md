@@ -82,3 +82,8 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * I solved two questions on Codeforces. 
 
+### Day 9
+
+* Solved the question prescribed for Leetcode. 
+
+* Tried to improvise the code of Linear regression done yesterday on Tensorflow. 
