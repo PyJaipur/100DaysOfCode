@@ -48,3 +48,7 @@ My name is Premanshu Pareek. I am Computer Science and Engineering graduate from
 ## Day 8
 1. Learned about Local Permission System - It protects pages based on each user and just whether the user is logged in
 2. Started Section 4 from the Udemy JS course
+
+## Day 9
+1. Finished Section 4 of the Udemy JS course
+2. Added Styles to the Web App
