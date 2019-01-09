@@ -32,5 +32,6 @@
 -worked with python automation and establish it using Jupyter notebook.
 ## Day - -8 : Jan 8th 2019
 #day8 It's almost 1 week in #100DaysOfCode  or #100DaysOfMLCode. Today, worked with understanding the basic Neural net & backpropagation techniques to derive more accuracy.
-
+## Day - -9 : Jan 9th 2019
+- #day9 was worth in learning the basic of functions and Understanding the LEGB functions rules and also, working with folium🗺️ package for maps---this package if great to demonstrate the data over the world map.
 
