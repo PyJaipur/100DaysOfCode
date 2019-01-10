@@ -56,7 +56,13 @@ Also, I have added a class of operators called "MatrixOps" which currently has o
 
 
 ### Day 9
-
++Added
+1. Today I learned how to Classify MNIST-dataset images in Browser using Tensorflow.JS
+/\Plans: Oh boy, I am sleepy.
 
 
 ### Day 10
++Added
+1. Today I implemented the Normal Equation for Finding 'theta' in a Multi-variate Linear Regression Problem in Python using only Numpy and Pandas.
+
+/\ Plans: *This Section doesnot exist*
