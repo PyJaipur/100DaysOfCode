@@ -87,3 +87,9 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Solved the question prescribed for Leetcode. 
 
 * Tried to improvise the code of Linear regression done yesterday on Tensorflow. 
+
+### Day 10
+
+* Learnt about Anamoly detection and Gaussian distribution. 
+
+* Tried to solve Question 4 of Codechef Long Challenge. Will try to code it out once I get the Algo. 
