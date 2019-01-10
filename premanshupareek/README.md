@@ -52,3 +52,6 @@ My name is Premanshu Pareek. I am Computer Science and Engineering graduate from
 ## Day 9
 1. Finished Section 4 of the Udemy JS course
 2. Added Styles to the Web App
+
+## Day 10
+1. Took a break from Working on the project and Revised some basic algorithms and data structures
