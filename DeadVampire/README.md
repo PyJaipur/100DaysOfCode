@@ -51,3 +51,10 @@ Progress in ML - Reimplemented Andrew Ng's linear regression exercise in Python 
 Progress in ML - Logistic regression examples and exercise.
 Django - Queries and Database Layer.
 Same daily routine of problem solving on leetcode and hackerrank.
+
+### Day 9
+Progress in ML - More on Logistic regression, implementing from scratch.
+
+Django - Queries and forms.
+
+And some time spent on leetcode.
