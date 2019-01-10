@@ -43,5 +43,8 @@ Start of the #100DaysOfCode is really a great start to 2k19.
     Non-Divisible Subset (https://www.hackerrank.com/challenges/non-divisible-subset/problem) and solution for this problem is at (https://github.com/soumilk/HackerRank_Programs/blob/master/implementation/Non-Divisible%20subset.cpp).
     
 ### Day 9
+   * Solved Leetcode Questions :<br>
+     Two Sum : This question can be solved by simple approach but still, it took me some time to solve this one.<br>
+     Reverse Integer : This was a easy problem, only thing to keep in mind is the boundations upon the range of the number.<br> 
 
     
