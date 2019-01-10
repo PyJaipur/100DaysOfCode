@@ -15,4 +15,6 @@
 ##### today i did sniffing using wireshark and ettercap,social engineering and session hijacking also i learned in detail about 7 layers in OSI model and TCP/IP model and i did some more programs using array.
 ### Day 5
 ##### today i did SQL injection and mobile hacking using arch jailbreak and tried to find some bug in airtable site from bug bounty programs.
+### Day 6  
+##### Did 5-6 problems on codechef of C. 
 

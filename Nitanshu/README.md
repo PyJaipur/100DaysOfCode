@@ -25,3 +25,8 @@ Hi! I love to spend time with my computer.
 ### Day 6 ( 06-01-2019 )
 
 - Solved 1 problem from codechef jan long contest. Slacked off.
+
+### Day 7 ( 07-01-2019 )
+
+- Solved AutoLoan form TopCoder. In b/w solving 2 problems from codechef jan long contest.
+
