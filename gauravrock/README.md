@@ -34,4 +34,7 @@
 #day8 It's almost 1 week in #100DaysOfCode  or #100DaysOfMLCode. Today, worked with understanding the basic Neural net & backpropagation techniques to derive more accuracy.
 ## Day - -9 : Jan 9th 2019
 - #day9 was worth in learning the basic of functions and Understanding the LEGB functions rules and also, working with folium🗺️ package for maps---this package if great to demonstrate the data over the world map.
+## Day - -10 : Jan 10th 2019
+-completed the Python Data Science Toolbox (Part 1) and explored the core of functions in python including the lambda and various methods in functions like map and filter. Ultimately the goal was to work with the Dataset.
+[here certificate](https://www.datacamp.com/statement-of-accomplishment/course/24f17e2fadc17109b6fce16a10ddcd106ac6fcd6)
 
