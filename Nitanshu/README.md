@@ -30,3 +30,10 @@ Hi! I love to spend time with my computer.
 
 - Solved AutoLoan form TopCoder. In b/w solving 2 problems from codechef jan long contest.
 
+### Day 8 ( 08-01-2019 )
+
+- Was able to solve 3 problems in codechef long contest. 1 full and 2 partial.
+
+### Day 9 ( 09-01-2019 )
+
+- Solved SortEstimate from TopCoder and in b/w ABCDEF from SPOJ.
