@@ -36,3 +36,25 @@ Will push all my work since day 1 someday later as Internet connection is not st
 Progress in ML - Polynomial regression practice examples, logistic regression.
 
 Solved some more problems on leetcode on data structures and oop.
+
+### Day 6
+Progress in ML - None, didn't get much time today
+
+Solved some more problems on leetcode (mainly binary trees) and hackerrank, gradually attempting more difficult problems.
+
+### Day 7
+Progress in ML - Reimplemented Andrew Ng's linear regression exercise in Python and R.
+
+*Let's Start Django* from today.
+
+### Day 8
+Progress in ML - Logistic regression examples and exercise.
+Django - Queries and Database Layer.
+Same daily routine of problem solving on leetcode and hackerrank.
+
+### Day 9
+Progress in ML - More on Logistic regression, implementing from scratch.
+
+Django - Queries and forms.
+
+And some time spent on leetcode.

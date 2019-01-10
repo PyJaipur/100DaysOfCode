@@ -67,3 +67,23 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Implemented SVM in a different way, using GridSearchCV, in Jupyter Notebook.
 
 * Solved the first problem of CodeChef Lomg Challenge successfully. 
+
+### Day 6
+
+* I solved the second question of Codeforces long challenge and also looked up the concepts and code of NLP in Machine Learning.
+
+### Day 7
+
+* Learnt the basics of Tensorflow and practised it on Jupyter labs. 
+
+### Day 8
+
+* I learnt Linear regression in Tensorflow and implemented it on Jupyter Labs. 
+
+* I solved two questions on Codeforces. 
+
+### Day 9
+
+* Solved the question prescribed for Leetcode. 
+
+* Tried to improvise the code of Linear regression done yesterday on Tensorflow. 
