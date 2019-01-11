@@ -10,3 +10,7 @@ I am here to improve the coding skills in data structure .
 
 ### DAY 2
 * solved the second problem of the january challange of the codechef.
+
+
+### day 3
+* solved the third problem of the codechef january challange.
