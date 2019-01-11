@@ -74,4 +74,12 @@ also learned how to 'draw' on them (some basic shapes and polygons)
 Goal is object recognition. 
 i hope ill reach there by day 17
 
+
+### day 8 -
+
+attended the angular workshop today.
+learned how the framework works.
+set up the basic requirements for it to work. 
+will be following up with tutorials. 
+
             
