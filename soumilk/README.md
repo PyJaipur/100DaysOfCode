@@ -47,4 +47,6 @@ Start of the #100DaysOfCode is really a great start to 2k19.
      Two Sum : This question can be solved by simple approach but still, it took me some time to solve this one.<br>
      Reverse Integer : This was a easy problem, only thing to keep in mind is the boundations upon the range of the number.<br> 
 
-
+### Day 10
+   * Learned Deque from geeks for geeks. (https://www.geeksforgeeks.org/deque-set-1-introduction-applications/) 
+   * Learned about the fast exponiation and fast modulo multiplication.
