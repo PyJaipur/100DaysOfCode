@@ -49,4 +49,4 @@ Start of the #100DaysOfCode is really a great start to 2k19.
 
 ### Day 10
    * Learned Deque from geeks for geeks. (https://www.geeksforgeeks.org/deque-set-1-introduction-applications/) 
-   * Learned about the fast exponiation and fast modulo multiplication.
+   * Learned about the fast exponentiation and fast modulo multiplication.
