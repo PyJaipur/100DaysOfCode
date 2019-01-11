@@ -37,3 +37,7 @@ Hi! I love to spend time with my computer.
 ### Day 9 ( 09-01-2019 )
 
 - Solved SortEstimate from TopCoder and in b/w ABCDEF from SPOJ.
+
+### Day 10 ( 10-01-2019 )
+
+- Head banging over codechef long contest problems.
