@@ -93,3 +93,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Learnt about Anamoly detection and Gaussian distribution. 
 
 * Tried to solve Question 4 of Codechef Long Challenge. Will try to code it out once I get the Algo. 
+
+### Day 11
+
+* Learnt about K-Means Clustering Algorithm, Precision, Recall and Multivariate Gaussian Distribution in Machine Learning. 
