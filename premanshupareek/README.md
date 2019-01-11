@@ -55,3 +55,7 @@ My name is Premanshu Pareek. I am Computer Science and Engineering graduate from
 
 ## Day 10
 1. Took a break from Working on the project and Revised some basic algorithms and data structures
+
+## Day 11
+1. Learned about the APIs 
+2. Worked on implementing a JSON endpoint that serves the same information as displayed in the HTML endpoints for an item in the catalog
