@@ -16,5 +16,7 @@
 ### Day 5
 ##### today i did SQL injection and mobile hacking using arch jailbreak and tried to find some bug in airtable site from bug bounty programs.
 ### Day 6  
-##### Did 5-6 problems on codechef of C. 
+##### Did 5-6 problems on codechef of C.
+### Day 7-10
+##### my C is almost complete but in the upcomming week i will practice some more problems  and i have only 2 more topics left in the penetration testing and my networking conecepts are complete.
 
