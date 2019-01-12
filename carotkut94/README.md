@@ -75,7 +75,7 @@ This  is a simple yet, an awesome sorting algorithm, which averages out to O(n l
 to sorting element in a list/array
 
 
-# Day 7
+# Day 8
 On day 7th I implemented another sorting algorithm called "Quick Sort"
 
 
@@ -85,6 +85,16 @@ You can read about merge sort at https://en.wikipedia.org/wiki/Quick_sort
 This  is also an awesome sorting algorithm, which averages out to O(n log n) time complexity when it comes
 to sorting element in a list/array
 
-# Day 8
+# Day 9
 I encountered a problem of data dumping faced by my colleagues
 I wrote this script for them for data entry in data base
+
+
+# Day 10
+
+I work as an android app developer, and one of the major task is making the app multi-lingual 
+for that android has a mechanism of storing all of the string values in an xml file 
+with different languages, and at run time depending upon the locale of the user, the respective version of the file will
+be used for those string values
+
+So to translate these string values, i wrote this script.
