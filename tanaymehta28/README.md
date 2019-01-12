@@ -58,6 +58,7 @@ Also, I have added a class of operators called "MatrixOps" which currently has o
 ### Day 9
 +Added
 1. Today I learned how to Classify MNIST-dataset images in Browser using Tensorflow.JS
+
 /\Plans: Oh boy, I am sleepy.
 
 
@@ -66,3 +67,16 @@ Also, I have added a class of operators called "MatrixOps" which currently has o
 1. Today I implemented the Normal Equation for Finding 'theta' in a Multi-variate Linear Regression Problem in Python using only Numpy and Pandas.
 
 /\ Plans: *This Section doesnot exist*
+
+### Day 11
++Added
+1. Today, I implemented Gradient Descent Optimisation Algorithm in Python (numpy) for Optimising a given Weights Vector ('theta', in this case).
+
+/\ Plans: Unlike all other days, Tommorow I will Solve some Algorithm questions on Hackerrank (https://hackerrank.com)
+
+
+### Day 12
++Added
+1. Today, I solved 5 Algorithms and Data Structures Problem in Python and C++ on HackerRank Website. Hence, Their are no files in Day 12 Folder; except for one indicating the same. I have maintained the Dated Folders just for consistency.
+
+/\ Plans: Don't Really know 
