@@ -39,6 +39,8 @@
 * ### Day T-92/10: Jan 11 2019
   * Got familier with DataBricks.
 * ### Day T-91/11: Jan 12 2019
-  * 
+  * Read some coding interview questions.
+* ### Day T-90/12" Jan 13 2019
+  *
   
  
