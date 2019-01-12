@@ -39,4 +39,6 @@
 [here certificate](https://www.datacamp.com/statement-of-accomplishment/course/24f17e2fadc17109b6fce16a10ddcd106ac6fcd6)
 ## Day - -11 : Jan 11th 2019
 - #day11 Worked with open lane detection🛣️ using OpenCV, This is one of the computer vision problems to tackle in Self-driving cars🚗 in the 21st century i.e., to develop more precise algorithms for detection.🤖🧐
+## Day - -12 : Jan 12th 2019
+- worked with coding problem on hackearth and other hackerrank
 
