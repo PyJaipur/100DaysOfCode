@@ -84,3 +84,7 @@ You can read about merge sort at https://en.wikipedia.org/wiki/Quick_sort
 
 This  is also an awesome sorting algorithm, which averages out to O(n log n) time complexity when it comes
 to sorting element in a list/array
+
+# Day 8
+I encountered a problem of data dumping faced by my colleagues
+I wrote this script for them for data entry in data base
