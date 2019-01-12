@@ -59,3 +59,7 @@ My name is Premanshu Pareek. I am Computer Science and Engineering graduate from
 ## Day 11
 1. Learned about the APIs 
 2. Worked on implementing a JSON endpoint that serves the same information as displayed in the HTML endpoints for an item in the catalog
+
+## Day 12
+1. Worked on making the web app responsive
+2. Started the section 5 of the Udemy JS course
