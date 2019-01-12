@@ -31,3 +31,13 @@ Created a prpgram to extract text from a webpage and save it in a text file usin
 ### Day 7
 Learned new term Happy numbers and unhappy numbers.
 Tried to create a program to find happy numbers in a certain range(not completed)
+
+### Day 8
+
+
+### Day 9
+1. Learned how to crack a computer password without using any external software or drive.
+2. Tried to understand use of API 
+
+### Day 10
+Learned about relational database design and modelling 

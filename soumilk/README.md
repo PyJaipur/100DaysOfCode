@@ -37,3 +37,14 @@ Start of the #100DaysOfCode is really a great start to 2k19.
   * Read about sorting algorithums.( Selection sort, bubble sort, insertion sort ).
   * Solved a question, "The time in words" (https://www.hackerrank.com/challenges/the-time-in-words/problem) and solution at (https://github.com/soumilk/HackerRank_Programs/blob/master/implementation/The%20Time%20in%20Words.cpp).
   
+### Day 8
+  * Solved Hackerrank problems. <br>
+    Game of Thrones-I (https://www.hackerrank.com/challenges/game-of-thrones/submissions/code/95140716) and solution is available at (https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/Game%20Of%20Thrones-I.cpp).<br>
+    Non-Divisible Subset (https://www.hackerrank.com/challenges/non-divisible-subset/problem) and solution for this problem is at (https://github.com/soumilk/HackerRank_Programs/blob/master/implementation/Non-Divisible%20subset.cpp).
+    
+### Day 9
+   * Solved Leetcode Questions :<br>
+     Two Sum : This question can be solved by simple approach but still, it took me some time to solve this one.<br>
+     Reverse Integer : This was a easy problem, only thing to keep in mind is the boundations upon the range of the number.<br> 
+
+

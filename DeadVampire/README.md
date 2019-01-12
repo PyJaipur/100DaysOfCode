@@ -46,3 +46,27 @@ Solved some more problems on leetcode (mainly binary trees) and hackerrank, grad
 Progress in ML - Reimplemented Andrew Ng's linear regression exercise in Python and R.
 
 *Let's Start Django* from today.
+
+### Day 8
+Progress in ML - Logistic regression examples and exercise.
+Django - Queries and Database Layer.
+Same daily routine of problem solving on leetcode and hackerrank.
+
+### Day 9
+Progress in ML - More on Logistic regression, implementing from scratch.
+
+Django - Queries and forms.
+
+And some time spent on leetcode.
+
+### Day 10
+Progrss In ML - Normal equation and more on Logistic Regression.
+
+Django - Forms and web scraping.
+
+### Day 11
+Progress in ML - Classification and hypothesis representation.
+
+Django - Views and URLs.
+
+Solved and implemented some more questions from leetcode and hackerrank.
