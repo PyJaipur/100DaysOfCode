@@ -35,5 +35,14 @@
 * ### Day T-93/8: Jan 9 2019
   * Codechef
 * ### Day T-92/9: Jan 10 2019
-  * 
+  * Completed Algorithmic toolbox course
+* ### Day T-92/10: Jan 11 2019
+  * Got familier with DataBricks.
+* ### Day T-91/11: Jan 12 2019
+  * Read some coding interview questions.
+* ### Day T-90/12: Jan 13 2019
+  * Started with PyJudge project.
+  * Proceed Algorithmic toolbox
+* ### Day T-89/13: Jan 14 2019
+  *
  
