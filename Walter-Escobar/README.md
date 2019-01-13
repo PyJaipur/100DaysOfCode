@@ -82,4 +82,15 @@ learned how the framework works.
 set up the basic requirements for it to work. 
 will be following up with tutorials. 
 
+
+### day 9 -
+
+Continued with OpenCV- 
+
+Learned what thresholding is. learned how to 'add' two images(freaky shit) .
+
+
+learned how to filter out colours, though getting the right combination of colours is pretty hard.
+used some common blurs to remove the noise, but its still not quite perfect
+
             
