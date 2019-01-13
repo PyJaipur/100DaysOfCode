@@ -70,3 +70,7 @@ Also moved further in my algorithmic course studying dynamic programming.
 ### Day 12
 Attended GraphQl meetup by Facebook Developer Circles, Jaipur and got to learn a lot about GraphQl Technology.
 
+### Day 13
+Learnt a bit about dynamic programming and solved few questions on it.
+Also tried question 5 of long challenge.
+
