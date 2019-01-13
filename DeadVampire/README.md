@@ -70,3 +70,9 @@ Progress in ML - Classification and hypothesis representation.
 Django - Views and URLs.
 
 Solved and implemented some more questions from leetcode and hackerrank.
+
+### Day 12
+Progress in ML - Hypothesis, Decision boundary and optimizing the cost 
+function.
+
+Today was a tiring day, so nothing much else.
