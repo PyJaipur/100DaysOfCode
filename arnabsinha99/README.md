@@ -93,6 +93,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Learnt about Anamoly detection and Gaussian distribution. 
 
 * Tried to solve Question 4 of Codechef Long Challenge. Will try to code it out once I get the Algo. 
+<<<<<<< HEAD
 
 ### Day 11
 
@@ -101,3 +102,5 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 12
 
 * Learnt about the PCA, its algorithm, the mathematics behind it and implementation of it in MATLAB. 
+=======
+>>>>>>> 5bf15f2... My Day 10 progress
