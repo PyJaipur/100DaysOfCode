@@ -94,13 +94,19 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * Tried to solve Question 4 of Codechef Long Challenge. Will try to code it out once I get the Algo. 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 564597a... Day 11 progress
 
 ### Day 11
 
 * Learnt about K-Means Clustering Algorithm, Precision, Recall and Multivariate Gaussian Distribution in Machine Learning. 
+<<<<<<< HEAD
 
 ### Day 12
 
 * Learnt about the PCA, its algorithm, the mathematics behind it and implementation of it in MATLAB. 
 =======
 >>>>>>> 5bf15f2... My Day 10 progress
+=======
+>>>>>>> 564597a... Day 11 progress
