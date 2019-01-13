@@ -10,9 +10,11 @@ For furher info you can reach out to me.<br>
 -> Q. Sir, I am really in a dilemma that what should I do now, because the IT industry is developing drastically and its becoming nearly <br>impossible for me to match up with the market requirements. <br>
    A. No company expects you to be the master of new technology, they just want to check your basics and foundation.
   <br>
+  
 -> Q. Is it really necessary to learn new technologies like ML, Blockchain, IOT etc for a good placement?<br>
    A. Not at all, at your stage, only things that are expected from you is the basic core subjects of the computer science.
-      company train their employees according to their project, yes it is good to have a piece of knowledge about the recent tech<br>         but focus on your core subjects like DSA, Database, OS etc. <br>
+      company train their employees according to their project, yes it is good to have a piece of knowledge about the recent tech<br>         but focus on your core subjects like DSA, Database, OS etc. 
+      <br>
 -> Q. I am always confused between the various streams, sometimes I think I should go in development then I switch to CP then I <br>
       think I should invest time in ML then my college syllabus stuck my mind, have to maintain my percentage !!! <br>
    A. Its quite natural and there is no need to worry, all you have to do is to find your interest and you can do it when you work<br>
