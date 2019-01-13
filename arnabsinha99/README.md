@@ -97,3 +97,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 11
 
 * Learnt about K-Means Clustering Algorithm, Precision, Recall and Multivariate Gaussian Distribution in Machine Learning. 
+
+### Day 12
+
+* Learnt about the PCA, its algorithm, the mathematics behind it and implementation of it in MATLAB. 
