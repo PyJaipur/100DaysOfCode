@@ -12,16 +12,12 @@ For furher info you can reach out to me.<br>
   <br>
 -> Q. Is it really necessary to learn new technologies like ML, Blockchain, IOT etc for a good placement?<br>
    A. Not at all, at your stage, only things that are expected from you is the basic core subjects of the computer science.
-      company train their employees according to their project, yes it is good to have a piece of knowledge about the recent tech<br>         but focus on your core subjects like DSA, Database, OS etc. 
-      
-      <br>
-      
+      company train their employees according to their project, yes it is good to have a piece of knowledge about the recent tech<br>         but focus on your core subjects like DSA, Database, OS etc. <br>
 -> Q. I am always confused between the various streams, sometimes I think I should go in development then I switch to CP then I <br>
       think I should invest time in ML then my college syllabus stuck my mind, have to maintain my percentage !!! <br>
    A. Its quite natural and there is no need to worry, all you have to do is to find your interest and you can do it when you work<br>
       in the various streams. Just find that one stream which matches your passion and give you happiness, after that Don't scatter<br>
       your energy and concentrate on that only thing. 
-    
    <br>
 -> Q. what tech has the most developing market?<br>
    A. There is nothing like a particular section lead the market of IT, we need everyone from a data analyst to a programmer, from
@@ -34,5 +30,5 @@ For furher info you can reach out to me.<br>
       learned. Even if a project is common, what the matter of concern is can you built it! 
   <br>
 -> Q. Being in a Tier-3 college affect our placement in tech giants ? I mean like students from IITs or IISCrs get a priority?
-   A. Now this barrier is fading out. Companies do not really care about your college, all they care about is your skill. This is the <br> reason why most of the companies are conducting online competitions.
+   A. Now this barrier is fading out. Companies do not really care about your college, all they care about is your skill. This is the reason why most of the companies are conducting online competitions.
       <br>
