@@ -93,13 +93,11 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Learnt about Anamoly detection and Gaussian distribution.
 
 * Tried to solve Question 4 of Codechef Long Challenge. Will try to code it out once I get the Algo.
-=======
->>>>>>> 60b7cf9c55bd4f90de78f32b1b5e0154cbe8d3f6
 
 ### Day 11
 
 * Learnt about K-Means Clustering Algorithm, Precision, Recall and Multivariate Gaussian Distribution in Machine Learning.
-=======
->>>>>>> 564597a... Day 11 progress
-=======
->>>>>>> 60b7cf9c55bd4f90de78f32b1b5e0154cbe8d3f6
+
+### Day 12
+
+* Learnt about the the algorithm of PCA, mathematics behind it and the implementation in MATLAB. 
