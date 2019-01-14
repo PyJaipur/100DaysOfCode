@@ -66,4 +66,115 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * Implemented SVM in a different way, using GridSearchCV, in Jupyter Notebook.
 
+<<<<<<< HEAD
 * Solved the first problem of CodeChef Lomg Challenge successfully. 
+=======
+* Solved the first problem of CodeChef Lomg Challenge successfully.
+
+### Day 6
+
+* I solved the second question of Codeforces long challenge and also looked up the concepts and code of NLP in Machine Learning.
+
+### Day 7
+
+* Learnt the basics of Tensorflow and practised it on Jupyter labs.
+
+### Day 8
+
+* I learnt Linear regression in Tensorflow and implemented it on Jupyter Labs.
+
+* I solved two questions on Codeforces.
+
+### Day 9
+
+* Solved the question prescribed for Leetcode.
+
+* Tried to improvise the code of Linear regression done yesterday on Tensorflow.
+
+### Day 10
+
+* Learnt about Anamoly detection and Gaussian distribution.
+
+* Tried to solve Question 4 of Codechef Long Challenge. Will try to code it out once I get the Algo.
+
+### Day 11
+
+* Learnt about K-Means Clustering Algorithm, Precision, Recall and Multivariate Gaussian Distribution in Machine Learning.
+
+### Day 12
+
+* Learnt about the the algorithm of PCA, mathematics behind it and the implementation in MATLAB. 
+
+### Day 13
+
+* Learnt about Collaborative filtering and its algorithm. Tried to implement it in Python. 
+
+### Day 14
+
+* Finished the videos of Andrew NG course on coursera. Only programming assignments left. 
+
+* Also began to learn Bottle framework. 
+<<<<<<< HEAD
+>>>>>>> bc92b09... My Day 13 and 14 progress
+=======
+
+### Day 15
+
+* Analyzed a code of Bottle framework and tried to implementn it myself in Python.
+
+### Day 16
+
+* Studied about File Uploading, HTML files, meaning of various terms in Bottle framework like `__file__` , absolute path.
+<<<<<<< HEAD
+>>>>>>> 5588165... My Day 15-16 progress
+=======
+
+### Day 17
+
+* Worked upon PyJaipur-PyJudge project and tried to solve issue #25
+
+### Day 18
+
+* Solved Issue [#25](https://github.com/PyJaipur/PyJudge/issues/25#issue-400633469) 
+
+### Day 19
+
+* Updated code for Issue [#25](https://github.com/PyJaipur/PyJudge/issues/25#issue-400633469) and solved issue [#27](https://github.com/PyJaipur/PyJudge/issues/27#issue-400719047)
+<<<<<<< HEAD
+>>>>>>> fad0141... My Day 17-19 progress
+=======
+
+### Day 20 
+
+* Tried to solve Issue [#26](https://github.com/PyJaipur/PyJudge/issues/26) 
+
+* Learnt defaultsdicts in Python 3 and implementation of it
+
+### Day 21
+
+* Started to learn Django from the Udemy course - Python Bootcamp for Full Stack Developers
+
+### Day 22
+
+* Learnt how to create a network between two nodes using Omnet++ 5. 
+
+### Day 23
+
+* Worked upon issue #26 as mentioned above. 
+
+* Continued to learn Django
+
+### Day 24
+
+* Solved Issue #26 : Pull Request at [link](https://github.com/PyJaipur/PyJudge/pull/57) 
+
+### Day 25
+
+* Solved Codeforces problem from [here](https://codeforces.com/contest/1068/problem/A)
+
+* Got a gist of what Pytorch basics are
+
+### Day 26
+
+* Started to learn Keras and types of Neural Networks.
+>>>>>>> 1b84d40... My Day 20-26 progress
