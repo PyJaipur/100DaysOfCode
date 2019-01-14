@@ -101,3 +101,13 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 12
 
 * Learnt about the the algorithm of PCA, mathematics behind it and the implementation in MATLAB. 
+
+### Day 13
+
+* Learnt about Collaborative filtering and its algorithm. Tried to implement it in Python. 
+
+### Day 14
+
+* Finished the videos of Andrew NG course on coursera. Only programming assignments left. 
+
+* Also began to learn Bottle framework. 
