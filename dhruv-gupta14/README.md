@@ -74,3 +74,7 @@ Attended GraphQl meetup by Facebook Developer Circles, Jaipur and got to learn a
 Learnt a bit about dynamic programming and solved few questions on it.
 Also tried question 5 of long challenge.
 
+### Day 14
+Completed my algorithmic course and got the certificate of completion by coursera.
+Also solved some questions based on arrays.
+
