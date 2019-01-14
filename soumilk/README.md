@@ -58,3 +58,5 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Had a conversation with them about GRE and how to proceed for the studies abroad.
    * I have shared my experience and guidance which I got from them in file named ' NYU meetup.md' , I think they might be helpful.
 
+### Day 13
+   * Tried to solve Hackerrank question- The Bomberman Game (https://www.hackerrank.com/challenges/bomber-man/problem).
