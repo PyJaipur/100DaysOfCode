@@ -76,3 +76,10 @@ Progress in ML - Hypothesis, Decision boundary and optimizing the cost
 function.
 
 Today was a tiring day, so nothing much else.
+
+### Day 13
+Progress in ML - Learnt more about binary classification, decision boundaries.
+
+### Day 14
+Progress in ML - Implemented Logistic regression and binary classification in python.
+
