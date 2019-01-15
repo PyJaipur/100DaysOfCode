@@ -46,5 +46,6 @@
 * ### Day T-89/13: Jan 14 2019
   * Bottle.py
 * ### Day T-88/14: Jan 15 2019
-  *
+  * Databricks
+  * Proceed Algorithmic Thinking
  
