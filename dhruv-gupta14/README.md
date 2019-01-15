@@ -78,3 +78,7 @@ Also tried question 5 of long challenge.
 Completed my algorithmic course and got the certificate of completion by coursera.
 Also solved some questions based on arrays.
 
+### Day 15
+Solved some questions on arrays.
+Revised some concepts of mongoDB, will continue it tomorrow.
+
