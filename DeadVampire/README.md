@@ -83,3 +83,6 @@ Progress in ML - Learnt more about binary classification, decision boundaries.
 ### Day 14
 Progress in ML - Implemented Logistic regression and binary classification in python.
 
+### Day 15
+Progress in ML - Optimization and multi class classification.
+
