@@ -46,3 +46,8 @@ Today I moved forward in my Python Course and learnt Tuple and Sets and started 
  
 In these three days I completed CS50 second lecture and moved forward in my Python Course to learn more about Functions.
 
+### Day 15 
+
+Today was a super unproductive day but still managed to move forward in Python Course and revised some previous concepts of Python.
+
+
