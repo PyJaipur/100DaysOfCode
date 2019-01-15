@@ -60,3 +60,6 @@ Start of the #100DaysOfCode is really a great start to 2k19.
 
 ### Day 13
    * Tried to solve Hackerrank question- The Bomberman Game (https://www.hackerrank.com/challenges/bomber-man/problem).
+
+### Day 14 
+   * Solved question- The Bomberman Game in python, initially it seems a tricky question but then afterwards when you understand the patern of the problem, its a simple one. Check out the solution at (https://github.com/soumilk/HackerRank_Programs/blob/master/implementation/The%20Bomberman%20Game.py) 
