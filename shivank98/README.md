@@ -48,7 +48,7 @@
 * ### Day T-88/14: Jan 15 2019
   * Databricks
   * Proceed Algorithmic Thinking
-* ###
+* ### Day T-87/15: Jan 16 2019
   *
   *
  
