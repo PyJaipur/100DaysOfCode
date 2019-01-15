@@ -37,3 +37,12 @@ In these two days I completed quite a few problems on HackerRank.Now I feel quit
 ### Day 10 
 
 Today was a hectic day came back from college at 5pm .Then I decided to take break from my regular python course and learn Web Scrapping from "Automate The Boring Stuff".I completed the lesson and created a Python Script to fetch me live cricket score from Crickbuzz website.Though I also wanted to make a notification pop up to appear on my desktop using notify2 module.I was not succesfull in doing it will try it any other day though. 
+
+### Day 11
+
+Today I moved forward in my Python Course and learnt Tuple and Sets and started functions basic and learnt Function Calls and Stack got to know about Call Frame and Run Time Stack. 
+ 
+### Day 12,13 and 14 
+ 
+In these three days I completed CS50 second lecture and moved forward in my Python Course to learn more about Functions.
+
