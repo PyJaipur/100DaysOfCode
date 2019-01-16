@@ -50,4 +50,8 @@ In these three days I completed CS50 second lecture and moved forward in my Pyth
 
 Today was a super unproductive day but still managed to move forward in Python Course and revised some previous concepts of Python.
 
+### Day 16
+
+Today I solved 3 problems on SPOJ and moved forward in my Python Course to learn more about functions.
+
 
