@@ -49,6 +49,8 @@
   * Databricks
   * Proceed Algorithmic Thinking
 * ### Day T-87/15: Jan 16 2019
-  *
+  * ESLA
+  * Sentiment Analysis
+* ### Day T-86/16: Jan 17 2019
   *
  
