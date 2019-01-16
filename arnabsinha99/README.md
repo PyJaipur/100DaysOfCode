@@ -111,3 +111,11 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Finished the videos of Andrew NG course on coursera. Only programming assignments left. 
 
 * Also began to learn Bottle framework. 
+
+### Day 15
+
+* Analyzed a code of Bottle framework and tried to implementn it myself in Python.
+
+### Day 16
+
+* Studied about File Uploading, HTML files, meaning of various terms in Bottle framework like `__file__` , absolute path.
