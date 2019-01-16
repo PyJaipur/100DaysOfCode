@@ -82,3 +82,5 @@ Also solved some questions based on arrays.
 Solved some questions on arrays.
 Revised some concepts of mongoDB, will continue it tomorrow.
 
+### Day 16
+Studied concepts of server side development using express js, node js, mongoDB and RESTful routes.
