@@ -100,3 +100,16 @@ attended the hackathon today
 tried building a solution for agricultural needs that aimed to help farmers find more storage units, in order to save crops from getting destroyed, and some other features.
 used pyplot on a few csv's to map cost of cultivation and production of a few crops over the years in some states.
             
+     
+     
+### day 11 - 
+continued with open cv . learned how to detect edges.
+experimented around with various methods around it.
+started the cheat engine tutorial to get some insight on how to break programs.
+
+
+### day 12 - 
+
+got to step 8 of the cheat engine tutorial.
+started a project on blender. I had some experience with blender but it has been a long time since ive laid my hands on it.
+
