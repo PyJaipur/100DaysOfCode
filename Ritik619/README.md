@@ -1,4 +1,4 @@
-# Ritvij Srivastava
+# Ritik
 
 ### Day 1
 

@@ -74,4 +74,29 @@ also learned how to 'draw' on them (some basic shapes and polygons)
 Goal is object recognition. 
 i hope ill reach there by day 17
 
+
+### day 8 -
+
+attended the angular workshop today.
+learned how the framework works.
+set up the basic requirements for it to work. 
+will be following up with tutorials. 
+
+
+### day 9 -
+
+Continued with OpenCV- 
+
+Learned what thresholding is. learned how to 'add' two images(freaky shit) .
+
+
+learned how to filter out colours, though getting the right combination of colours is pretty hard.
+used some common blurs to remove the noise, but its still not quite perfect
+
+
+### day 10 - 
+
+attended the hackathon today
+tried building a solution for agricultural needs that aimed to help farmers find more storage units, in order to save crops from getting destroyed, and some other features.
+used pyplot on a few csv's to map cost of cultivation and production of a few crops over the years in some states.
             

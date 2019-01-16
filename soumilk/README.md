@@ -47,6 +47,23 @@ Start of the #100DaysOfCode is really a great start to 2k19.
      Two Sum : This question can be solved by simple approach but still, it took me some time to solve this one.<br>
      Reverse Integer : This was a easy problem, only thing to keep in mind is the boundations upon the range of the number.<br> 
 
+
 ### Day 10
    * Learned Deque from geeks for geeks. (https://www.geeksforgeeks.org/deque-set-1-introduction-applications/) 
    * Learned about the fast exponentiation and fast modulo multiplication.
+   
+### Day 12 
+   * Attended a meetup with the NYU (New York University) ambassadors, Both were Indian students from Tandon school of engineering pursuing MS 
+   in computer science.<br>
+   * Had a conversation with them about GRE and how to proceed for the studies abroad.
+   * I have shared my experience and guidance which I got from them in file named ' NYU meetup.md' , I think they might be helpful.
+
+### Day 13
+   * Tried to solve Hackerrank question- The Bomberman Game (https://www.hackerrank.com/challenges/bomber-man/problem).
+
+### Day 14 
+   * Solved question- The Bomberman Game in python, initially it seems a tricky question but then afterwards when you understand the patern of the problem, its a simple one. Check out the solution at (https://github.com/soumilk/HackerRank_Programs/blob/master/implementation/The%20Bomberman%20Game.py) 
+
+### Day 15
+   * Revision of git. 
+

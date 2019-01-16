@@ -56,3 +56,17 @@ Solved problem 3 of long challenge and practiced some questions on recursion.
 
 Solved some questions on recursion, tried solving question 4 of long challenge and solved 1 question on codeforces.
 Also solved no. of inversions problem by enhanced merge sort method. 
+
+### Day 9
+Solved problem 4 of long challenge and solved 2 question in codeforces.
+
+### Day 10
+Took part in enigma coding competition and solved 2 questions.
+
+### Day 11
+Studied about GraphQl and API's.
+Also moved further in my algorithmic course studying dynamic programming.
+
+### Day 12
+Attended GraphQl meetup by Facebook Developer Circles, Jaipur and got to learn a lot about GraphQl Technology.
+
