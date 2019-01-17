@@ -52,5 +52,7 @@
   * ESLA
   * Sentiment Analysis
 * ### Day T-86/16: Jan 17 2019
-  *
+  * read artical
+* ### Day T-85/17: Jan 18 2019
+  * 
  
