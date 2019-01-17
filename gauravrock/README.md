@@ -43,12 +43,13 @@
 - worked with coding problem on hackearth and other hackerrank
 ## Day - -13 : Jan 13th 2019
 - worked with competitve programming on various portals and started working with pyjudge project.
-## Day - -14 : Jan 13th 2019
+## Day - -14 : Jan 14th 2019
 - learn the basic of git and how to embed that to the project.
-## Day - -15 : Jan 13th 2019
+## Day - -15 : Jan 15th 2019
 - learn the core basics of probability and statistics. Understanding the Frequent ist and Bayesian statistics is fun📏📎 and also understood the difference b/w relative frequency and probability when applied to sample and population of data. 
-
-
-
+## Day - -16 : Jan 16th 2019
+- #day16 understand the core concept of Descriptive statement and probability distribution. And, a difference between the continuous and discrete random variables. Probabilistic distribution has the power that can derive the formula for randomness
+## Day - -17 : Jan 17th 2019
+- #day17 worked with PMF functions using scipy library ad plotted the probability function. And learned to generate fake-data using descriptive statistics. 
 
 
