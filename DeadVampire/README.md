@@ -86,3 +86,9 @@ Progress in ML - Implemented Logistic regression and binary classification in py
 ### Day 15
 Progress in ML - Optimization and multi class classification.
 
+### Day 16
+Progress in ML - Advance Optimization, vectorization implemented with numpy and scikit learn.
+
+### Day 17
+Progress in ML - Regularized regression and some basic intro to tensorflotensor flow.
+
