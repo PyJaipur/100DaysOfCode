@@ -113,3 +113,13 @@ started the cheat engine tutorial to get some insight on how to break programs.
 got to step 8 of the cheat engine tutorial.
 started a project on blender. I had some experience with blender but it has been a long time since ive laid my hands on it.
 
+
+
+### day 13 -
+
+Continued with openCV, learned how to filter out the background from an image using GrabCut.
+grabcut is an algorithm that works out what should be the background and foreground in a given area of an image. 
+
+cv had a module for it. used it to filter an orange from a pic of orange on a table top - https://imgur.com/gallery/ozv6tBv
+
+will be continuing with blender later
