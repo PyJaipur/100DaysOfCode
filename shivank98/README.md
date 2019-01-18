@@ -54,5 +54,9 @@
 * ### Day T-86/16: Jan 17 2019
   * read artical
 * ### Day T-85/17: Jan 18 2019
-  * 
+  * read about sentimental analysis.
+* ### Day T-84/18: Jan 19 2019
+  *
+* ### Day T-83/19: Jan 20 2019
+  *
  
