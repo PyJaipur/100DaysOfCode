@@ -53,6 +53,7 @@
 - #day17 worked with PMF functions using scipy library ad plotted the probability function. And learned to generate fake-data using descriptive statistics. 
 ## Day - -18 : Jan 18th 2019
 - Learned the Gaussian distribution and why normal distribution is called the Gaussian distribution.
-
+## Day - -19 : Jan 19th 2019
+- Learned the basics of cumulative probability and how to calculate the Gaussian value using the Normal curve table. And, also understand the basics difference between standard normal distribution and normal distribution.
 
 
