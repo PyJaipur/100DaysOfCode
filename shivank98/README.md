@@ -56,7 +56,9 @@
 * ### Day T-85/17: Jan 18 2019
   * read about sentimental analysis.
 * ### Day T-84/18: Jan 19 2019
-  *
+  * some of bottle
 * ### Day T-83/19: Jan 20 2019
+  *
+* ### Day T-82/20: Jan 21 2019
   *
  
