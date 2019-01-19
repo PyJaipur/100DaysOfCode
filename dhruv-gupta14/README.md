@@ -84,3 +84,11 @@ Revised some concepts of mongoDB, will continue it tomorrow.
 
 ### Day 16
 Studied concepts of server side development using express js, node js, mongoDB and RESTful routes.
+
+### Day 17
+Studied 7 types of RESTful routes in detail.
+Also solved 2 questions on arrays.
+
+### Day 18
+Studied Data Associations(embedded data) in Node Js.
+Also read Matlab output for Node Js(how to create a web app with Matlab).
