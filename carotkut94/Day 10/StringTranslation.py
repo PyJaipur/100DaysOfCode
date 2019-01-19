@@ -1,4 +1,4 @@
-# A simple android strings value translaString tion script
+# A simple android strings value translation script
 
 
 from googletrans import Translator
