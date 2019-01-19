@@ -90,5 +90,11 @@ Progress in ML - Optimization and multi class classification.
 Progress in ML - Advance Optimization, vectorization implemented with numpy and scikit learn.
 
 ### Day 17
-Progress in ML - Regularized regression and some basic intro to tensorflotensor flow.
+Progress in ML - Regularized regression and some basic intro to TensorFlow.
+
+### Day 18
+Progress in ML - Neural networks with TensorFlow, multi class classification.
+
+### Day 19
+Progress in ML - Neural Networks and propagation, non linear hypothesis.
 
