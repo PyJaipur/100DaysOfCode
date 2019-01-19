@@ -51,5 +51,8 @@
 - #day16 understand the core concept of Descriptive statement and probability distribution. And, a difference between the continuous and discrete random variables. Probabilistic distribution has the power that can derive the formula for randomness
 ## Day - -17 : Jan 17th 2019
 - #day17 worked with PMF functions using scipy library ad plotted the probability function. And learned to generate fake-data using descriptive statistics. 
+## Day - -18 : Jan 18th 2019
+- Learned the Gaussian distribution and why normal distribution is called the Gaussian distribution.
+
 
 
