@@ -98,3 +98,14 @@ with different languages, and at run time depending upon the locale of the user,
 be used for those string values
 
 So to translate these string values, i wrote this script.
+
+
+# Day 11
+
+Two sum problem from algoexpert can also be found on leetcode
+
+
+
+# Day 12
+
+BST(Binary Search Tree) implementation
