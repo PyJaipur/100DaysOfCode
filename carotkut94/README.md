@@ -120,3 +120,6 @@ If you add periods ('.') between some characters in the local name part of an em
 If you add a plus ('+') in the local name, everything after the first plus sign will be ignored. This allows certain emails to be filtered, for example m.y+name@email.com will be forwarded to my@email.com.  (Again, this rule does not apply for domain names.)
 It is possible to use both of these rules at the same time.
 Given a list of emails, we send one email to each address in the list.  How many different addresses actually receive mails? 
+
+#### Problem 2 on Day 13
+Problem description can be found at https://leetcode.com/problems/unique-morse-code-words/
