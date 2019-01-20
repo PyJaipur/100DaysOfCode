@@ -119,3 +119,15 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 16
 
 * Studied about File Uploading, HTML files, meaning of various terms in Bottle framework like `__file__` , absolute path.
+
+### Day 17
+
+* Worked upon PyJaipur-PyJudge project and tried to solve issue #25
+
+### Day 18
+
+* Solved Issue [#25](https://github.com/PyJaipur/PyJudge/issues/25#issue-400633469) 
+
+### Day 19
+
+* Updated code for Issue [#25](https://github.com/PyJaipur/PyJudge/issues/25#issue-400633469) and solved issue [#27](https://github.com/PyJaipur/PyJudge/issues/27#issue-400719047)
