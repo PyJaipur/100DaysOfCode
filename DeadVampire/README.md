@@ -98,3 +98,8 @@ Progress in ML - Neural networks with TensorFlow, multi class classification.
 ### Day 19
 Progress in ML - Neural Networks and propagation, non linear hypothesis.
 
+### Day 20
+Progress in ML - Still working on multi class classification and neural networks.
+
+### Day 21
+Progress in ML - Digging deeper into TensorFlow and implementing some of its functions manually to have a better understanding.
