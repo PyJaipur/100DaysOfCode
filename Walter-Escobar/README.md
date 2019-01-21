@@ -123,3 +123,28 @@ grabcut is an algorithm that works out what should be the background and foregro
 cv had a module for it. used it to filter an orange from a pic of orange on a table top - https://imgur.com/gallery/ozv6tBv
 
 will be continuing with blender later
+
+
+### 14 - 
+
+started a blender tutorial , set up the basic environment and learned the basic tools . 
+watching blender tutorials
+
+
+### 15 - 
+
+will be making a doughnut and coffee scene in blender, watching the tutorials. 
+the tools are a bit complicated but come with an intuitive sense when you get used to them
+helped a friend with python problems
+
+
+### 16 - 
+
+still continuing with the blender tutorials . have become comfortable with blender now. Aim is to be able to create whatever scene and model i want to, and some basic animations / simulations
+
+### 17 - 
+
+continued with open cv and learned how to detect corners. used the GoodFeatureSelection function to detect corners. 
+continuing with more tutorials.
+
+Also made progress on the blender project. will be texturing and adding particles to the objects.
