@@ -55,5 +55,10 @@
 - Learned the Gaussian distribution and why normal distribution is called the Gaussian distribution.
 ## Day - -19 : Jan 19th 2019
 - Learned the basics of cumulative probability and how to calculate the Gaussian value using the Normal curve table. And, also understand the basics difference between standard normal distribution and normal distribution.
+## Day - -20 : Jan 20th 2019
+- worked with the Binominal & Normal distribution. Also, get an instance of how the these are mapping the world and how Z-score is used in Standard Normal probablity Distribution.
+
+## Day - -21 : Jan 21th 2019
+- worked with the Inferencial statistics and understand how vast effect inferencial from probability distribution has on the real world. This map the basics of Machine learning and data analysis.
 
 
