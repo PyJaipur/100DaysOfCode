@@ -60,7 +60,8 @@
 * ### Day T-83/19: Jan 20 2019
   * Contributed to PyJudge
 * ### Day T-82/20: Jan 21 2019
-  *
+  * Contributed to PyJudge
+  * algo course
 * ### Day T-81/21: Jan 22 2019
   *
 * ### Day R-80/22: Jan 23 2019
