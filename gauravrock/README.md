@@ -60,6 +60,6 @@
 
 ## Day - -21 : Jan 21th 2019
 - worked with the Inferencial statistics and understand how vast effect inferencial from probability distribution has on the real world. This map the basics of Machine learning and data analysis.
-# Day - -22 : Jan 22th 2019
+## Day - -22 : Jan 22th 2019
 - Generated the fake data using descriptive statistics and plotted that using Matplotlib and scipy. Also, worked with Dice-throw problem using Binomial distribution.
 
