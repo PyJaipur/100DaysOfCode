@@ -123,3 +123,8 @@ Given a list of emails, we send one email to each address in the list.  How many
 
 #### Problem 2 on Day 13
 Problem description can be found at https://leetcode.com/problems/unique-morse-code-words/
+
+
+# Day 14
+
+A simple problem for checking if the given string is a palindrome or not.
