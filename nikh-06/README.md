@@ -54,4 +54,24 @@ Today was a super unproductive day but still managed to move forward in Python C
 
 Today I solved 3 problems on SPOJ and moved forward in my Python Course to learn more about functions.
 
+### Day 17
+
+Moved forward in my Python Course learn more about Function. Functions which can take arguments and How does "return" works.
+
+### Day 18
+
+Took a break from Python course and completed Harvard CS50 2nd lecture. 
+
+### Day 19 
+
+Moved forward in my Python Course and learnt How to set a default parameters in a function , Common mistakes while returning ,Keywords Arguments and Scope.
+
+### Note :- I was not able to do much on 20 January and 21 January because I was travelling to my hometown will make up for this on this weekend.
+
+### Day 20 
+
+Today I moved forward in my Python Course.Created many function to get better understanding of functions in Python.
+
+
+ 
 
