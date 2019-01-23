@@ -72,6 +72,10 @@ Moved forward in my Python Course and learnt How to set a default parameters in 
 
 Today I moved forward in my Python Course.Created many function to get better understanding of functions in Python.
 
+### Day 21
+
+Today I revisted all the topics I have lerant so far in Python and also created a function to check if a word in palindrome or not.  
+
 
  
 
