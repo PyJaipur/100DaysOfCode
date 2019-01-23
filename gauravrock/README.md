@@ -62,4 +62,6 @@
 - worked with the Inferencial statistics and understand how vast effect inferencial from probability distribution has on the real world. This map the basics of Machine learning and data analysis.
 ## Day - -22 : Jan 22th 2019
 - Generated the fake data using descriptive statistics and plotted that using Matplotlib and scipy. Also, worked with Dice-throw problem using Binomial distribution.
+## Day - -23 : Jan 23th 2019
+- Worked with MAXIMUM LIKELIHOOD ESTIMATION algorithm for finding the MUV estimator for the natural parameter of probability distribution. This is at the core of Inferential statistics.
 
