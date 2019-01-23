@@ -65,7 +65,8 @@
 * ### Day T-81/21: Jan 22 2019
   * Completed Lecture 1 of [NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * ### Day R-80/22: Jan 23 2019
-  *
+  * Completed Lec 2
+  * Leetcode
 * Day T-80/23: Jan 24 2019
   *
  
