@@ -40,7 +40,38 @@
   * Got familier with DataBricks.
 * ### Day T-91/11: Jan 12 2019
   * Read some coding interview questions.
-* ### Day T-90/12" Jan 13 2019
+* ### Day T-90/12: Jan 13 2019
+  * Started with PyJudge project.
+  * Proceed Algorithmic toolbox
+* ### Day T-89/13: Jan 14 2019
+  * Bottle.py
+* ### Day T-88/14: Jan 15 2019
+  * Databricks
+  * Proceed Algorithmic Thinking
+* ### Day T-87/15: Jan 16 2019
+  * ESLA
+  * Sentiment Analysis
+* ### Day T-86/16: Jan 17 2019
+  * read artical
+* ### Day T-85/17: Jan 18 2019
+  * read about sentimental analysis.
+* ### Day T-84/18: Jan 19 2019
+  * some of bottle
+* ### Day T-83/19: Jan 20 2019
+  * Contributed to PyJudge
+* ### Day T-82/20: Jan 21 2019
+  * Contributed to PyJudge
+  * algo course
+* ### Day T-81/21: Jan 22 2019
+  * Completed Lecture 1 of [NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* ### Day R-80/22: Jan 23 2019
+  * Completed Lec 2
+  * Leetcode
+* Day T-80/23: Jan 24 2019
+  * read about ML in sales forcasting
+  * almost completed Algo ToolBox Course
+* Day T-79/24: Jan 25 2019
   *
-  
+* Day T-98/25: Jan 26 2019
+  *
  

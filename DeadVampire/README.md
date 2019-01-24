@@ -70,3 +70,36 @@ Progress in ML - Classification and hypothesis representation.
 Django - Views and URLs.
 
 Solved and implemented some more questions from leetcode and hackerrank.
+
+### Day 12
+Progress in ML - Hypothesis, Decision boundary and optimizing the cost 
+function.
+
+Today was a tiring day, so nothing much else.
+
+### Day 13
+Progress in ML - Learnt more about binary classification, decision boundaries.
+
+### Day 14
+Progress in ML - Implemented Logistic regression and binary classification in python.
+
+### Day 15
+Progress in ML - Optimization and multi class classification.
+
+### Day 16
+Progress in ML - Advance Optimization, vectorization implemented with numpy and scikit learn.
+
+### Day 17
+Progress in ML - Regularized regression and some basic intro to TensorFlow.
+
+### Day 18
+Progress in ML - Neural networks with TensorFlow, multi class classification.
+
+### Day 19
+Progress in ML - Neural Networks and propagation, non linear hypothesis.
+
+### Day 20
+Progress in ML - Still working on multi class classification and neural networks.
+
+### Day 21
+Progress in ML - Digging deeper into TensorFlow and implementing some of its functions manually to have a better understanding.
