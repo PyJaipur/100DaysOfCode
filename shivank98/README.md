@@ -68,5 +68,10 @@
   * Completed Lec 2
   * Leetcode
 * Day T-80/23: Jan 24 2019
+  * read about ML in sales forcasting
+  * almost completed Algo ToolBox Course
+* Day T-79/24: Jan 25 2019
+  *
+* Day T-98/25: Jan 26 2019
   *
  
