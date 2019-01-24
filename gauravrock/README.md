@@ -64,4 +64,5 @@
 - Generated the fake data using descriptive statistics and plotted that using Matplotlib and scipy. Also, worked with Dice-throw problem using Binomial distribution.
 ## Day - -23 : Jan 23th 2019
 - Worked with MAXIMUM LIKELIHOOD ESTIMATION algorithm for finding the MUV estimator for the natural parameter of probability distribution. This is at the core of Inferential statistics.
-
+## Day - -24 : Jan 24th 2019
+- #Day24 Set up a project in a git and this is going to be the second open source contribution in a row.(more details-- sóóñ🤖) Also worked with the inferential stats at its core.🤓 
