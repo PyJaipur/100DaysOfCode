@@ -76,6 +76,10 @@ Today I moved forward in my Python Course.Created many function to get better un
 
 Today I revisted all the topics I have lerant so far in Python and also created a function to check if a word in palindrome or not.  
 
+### Day 22 
+
+Today I completed section 1 of Funcion in my Python Course.
+
 
  
 
