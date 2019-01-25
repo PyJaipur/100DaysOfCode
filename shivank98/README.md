@@ -71,7 +71,8 @@
   * read about ML in sales forcasting
   * almost completed Algo ToolBox Course
 * Day T-79/24: Jan 25 2019
-  *
+  * Read About ML in SCM
+  * Some Kaggle
 * Day T-98/25: Jan 26 2019
   *
  
