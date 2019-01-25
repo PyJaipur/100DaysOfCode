@@ -29,8 +29,8 @@ solution of 2nd problem (Game with string) is [here](https://ideone.com/kqXhpA)
 ### day 6
 * solved the 1st  problem of the Codeforces Round #518 (Div. 2) .
 
-solution of 1st problem (Birthday) is [here](https://ideone.com/SBCFxw)
+solution is [here](https://ideone.com/SBCFxw)
 
 * solved the 3rd problem of the Codeforces Round #534 (Div . 2).
  
-solution of 3rd problem (Grid game) is [here](https://ideone.com/AMNtJq)
+solution is [here](https://ideone.com/AMNtJq)
