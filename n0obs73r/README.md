@@ -9,9 +9,27 @@ In this upcoming time, taking #100DaysofCode as a challenge i'd be learning abou
 # Happy Coding 
 
 ### Day 1
+Today I learned about overall model process of supervised and unsupervised learning
+later following to linear regression and some examples. Also I've been tracking progress
+of my friend @DeadVampire aka Alucard about Binary trees and linked lists :3 .
 
+> Also on the android development side :-
+
+- [x] Started with kotlin.
+- [x] Understanding the basic layout of App.
+- [x] Creating Resources with strings.
+- [x] More about constraints.
+- [ ] Made an interactive App.
 
 ### Day 2
 
+> In Machine Learning :-
+- Progress in Model Representation and Cost Function - Intuition.
+- Interacting with GNU octave interpreter.
+- Came across a few problems of systems of equations with linear algebra operations on vectors and matrices.(Although i didn't solved any, I was just understanding the way of solving them).
+
+> Android Development :-
+
+- Getting started with flutter as it was pretty user friendly and is now treanding for app development.  
 
 ### Day 3
