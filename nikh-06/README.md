@@ -78,7 +78,11 @@ Today I revisted all the topics I have lerant so far in Python and also created 
 
 ### Day 22 
 
-Today I completed section 1 of Funcion in my Python Course.
+Today I completed section 1 of Function in my Python Course.
+
+### Day 23 
+
+Today I completed section 2 of Function in my Python Course.
 
 
  
