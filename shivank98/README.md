@@ -73,6 +73,8 @@
 * Day T-79/24: Jan 25 2019
   * Read About ML in SCM
   * Some Kaggle
-* Day T-98/25: Jan 26 2019
+* Day T-78/25: Jan 26 2019
+  * little bit cotribution to PyJudge.
+* Day T-77/26: Jan 27 2019
   *
  
