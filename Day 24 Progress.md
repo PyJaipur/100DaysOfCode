@@ -84,6 +84,12 @@ Today I completed section 1 of Function in my Python Course.
 
 Today I completed section 2 of Function in my Python Course.
 
+### Day 24
+
+Today I completed PSET 2 of Harvard CS50 by David Malan.
+
+
+
 
  
 
