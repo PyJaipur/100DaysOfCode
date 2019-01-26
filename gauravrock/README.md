@@ -68,3 +68,4 @@
 - #Day24 Set up a project in a git and this is going to be the second open source contribution in a row.(more details-- sóóñ🤖) Also worked with the inferential stats at its core.🤓 
 ## Day - -25 : Jan 25th 2019
 - Learned the second and most important application of Inferential stats i.e., to determine whether the treatment of something has asignificant effect on population or not?? This has a great useful in data analysis as well as business analyst.
+## Day - -26 : Jan 26th 2019
