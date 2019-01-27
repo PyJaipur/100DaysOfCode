@@ -131,3 +131,37 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 19
 
 * Updated code for Issue [#25](https://github.com/PyJaipur/PyJudge/issues/25#issue-400633469) and solved issue [#27](https://github.com/PyJaipur/PyJudge/issues/27#issue-400719047)
+
+### Day 20 
+
+* Tried to solve Issue [#26](https://github.com/PyJaipur/PyJudge/issues/26) 
+
+* Learnt defaultsdicts in Python 3 and implementation of it
+
+### Day 21
+
+* Started to learn Django from the Udemy course - Python Bootcamp for Full Stack Developers
+
+### Day 22
+
+* Learnt how to create a network between two nodes using Omnet++ 5. 
+
+### Day 23
+
+* Worked upon issue #26 as mentioned above. 
+
+* Continued to learn Django
+
+### Day 24
+
+* Solved Issue #26 : Pull Request at [link](https://github.com/PyJaipur/PyJudge/pull/57) 
+
+### Day 25
+
+* Solved Codeforces problem from [here](https://codeforces.com/contest/1068/problem/A)
+
+* Got a gist of what Pytorch basics are
+
+### Day 26
+
+* Started to learn Keras and types of Neural Networks.
