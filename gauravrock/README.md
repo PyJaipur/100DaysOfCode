@@ -70,3 +70,5 @@
 - Learned the second and most important application of Inferential stats i.e., to determine whether the treatment of something has asignificant effect on population or not?? This has a great useful in data analysis as well as business analyst.
 ## Day - -26 : Jan 26th 2019
 - worked with list & dictionary comprehension as well as generators to stream a large bunch of data. Gained datacamp [certificate] (https://www.datacamp.com/statement-of-accomplishment/course/ccaf7ebb7b1406a63ea5dfe28b724365fb7ca347)
+## Day - -27 : Jan 27th 2019
+- worked with Type1 and Type2 category error. These two erroes defines the category of error in machine learning and various deep learning problems. 
