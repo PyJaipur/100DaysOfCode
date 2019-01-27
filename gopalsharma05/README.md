@@ -24,4 +24,13 @@ I am here to improve the coding skills in data structure .
 solution of 1st problem (Splitting into digits) is [here](https://ideone.com/uSpZ5n)
 
 solution of 2nd problem (Game with string) is [here](https://ideone.com/kqXhpA)
+
+
+### day 6
+* solved the 1st  problem of the Codeforces Round #518 (Div. 2) .
+
+solution is [here](https://ideone.com/SBCFxw)
+
+* solved the 3rd problem of the Codeforces Round #534 (Div . 2).
  
+solution is [here](https://ideone.com/AMNtJq)
