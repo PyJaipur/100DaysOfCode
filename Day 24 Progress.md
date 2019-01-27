@@ -37,3 +37,59 @@ In these two days I completed quite a few problems on HackerRank.Now I feel quit
 ### Day 10 
 
 Today was a hectic day came back from college at 5pm .Then I decided to take break from my regular python course and learn Web Scrapping from "Automate The Boring Stuff".I completed the lesson and created a Python Script to fetch me live cricket score from Crickbuzz website.Though I also wanted to make a notification pop up to appear on my desktop using notify2 module.I was not succesfull in doing it will try it any other day though. 
+
+### Day 11
+
+Today I moved forward in my Python Course and learnt Tuple and Sets and started functions basic and learnt Function Calls and Stack got to know about Call Frame and Run Time Stack. 
+ 
+### Day 12,13 and 14 
+ 
+In these three days I completed CS50 second lecture and moved forward in my Python Course to learn more about Functions.
+
+### Day 15 
+
+Today was a super unproductive day but still managed to move forward in Python Course and revised some previous concepts of Python.
+
+### Day 16
+
+Today I solved 3 problems on SPOJ and moved forward in my Python Course to learn more about functions.
+
+### Day 17
+
+Moved forward in my Python Course learn more about Function. Functions which can take arguments and How does "return" works.
+
+### Day 18
+
+Took a break from Python course and completed Harvard CS50 2nd lecture. 
+
+### Day 19 
+
+Moved forward in my Python Course and learnt How to set a default parameters in a function , Common mistakes while returning ,Keywords Arguments and Scope.
+
+### Note :- I was not able to do much on 20 January and 21 January because I was travelling to my hometown will make up for this on this weekend.
+
+### Day 20 
+
+Today I moved forward in my Python Course.Created many function to get better understanding of functions in Python.
+
+### Day 21
+
+Today I revisted all the topics I have lerant so far in Python and also created a function to check if a word in palindrome or not.  
+
+### Day 22 
+
+Today I completed section 1 of Function in my Python Course.
+
+### Day 23 
+
+Today I completed section 2 of Function in my Python Course.
+
+### Day 24
+
+Today I completed PSET 2 of Harvard CS50 by David Malan.
+
+
+
+
+ 
+

@@ -14,3 +14,14 @@ I am here to improve the coding skills in data structure .
 
 ### day 3
 * solved the third problem of the codechef january challange.
+
+### day 4
+* solved the fifth problem of the codechef january challange.
+
+### day 5
+* solved the 1st and 2nd problem of the Codeforces Round #534 (Div . 2).
+
+solution of 1st problem (Splitting into digits) is [here](https://ideone.com/uSpZ5n)
+
+solution of 2nd problem (Game with string) is [here](https://ideone.com/kqXhpA)
+ 

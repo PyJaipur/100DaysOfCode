@@ -7,4 +7,5 @@
 
  AFTER A SHORT BREAK DUE TO SOME UNAVOIDABLE WORK 
 
-* Day 5: Day 5 resumed to continue with Java Programming and included understanding the concepts of OOPS (Object Oriented Programming                Systems).
+* Day 5: Day 5 resumed to continue with Java Programming and included understanding the concepts of OOPS (Object Oriented     Programming                Systems).
+* Day 6: On the Day 6 of #100DaysOfCode I nearly completed Java programming and will start implementing it's concepts in the form apps.
