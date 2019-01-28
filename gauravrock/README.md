@@ -72,3 +72,5 @@
 - worked with list & dictionary comprehension as well as generators to stream a large bunch of data. Gained datacamp [certificate] (https://www.datacamp.com/statement-of-accomplishment/course/ccaf7ebb7b1406a63ea5dfe28b724365fb7ca347)
 ## Day - -27 : Jan 27th 2019
 - worked with Type1 and Type2 category error. These two erroes defines the category of error in machine learning and various deep learning problems. 
+## Day - -28 : Jan 28th 2019
+- worked with pyjudge project(bottle framework). Revised the probaility and statistics. Moreover, my research paper on decision tree got selected ICPCCAI-19 for ORAL presentation. 
