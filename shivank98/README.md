@@ -77,6 +77,8 @@
   * little bit cotribution to PyJudge.
 * Day T-77/26: Jan 27 2019
   * read some blogs.
-* Day T-78/27: Jan 28 2019
+* Day T-76/27: Jan 28 2019
+  * read about arima.
+* Day T-75/28: Jan 29 2019
   *
  
