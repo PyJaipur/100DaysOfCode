@@ -63,3 +63,6 @@ My name is Premanshu Pareek. I am Computer Science and Engineering graduate from
 ## Day 12
 1. Worked on making the web app responsive
 2. Started the section 5 of the Udemy JS course
+
+## Day 13
+1. Completed the Section 5 and 6 of Udemy JS course

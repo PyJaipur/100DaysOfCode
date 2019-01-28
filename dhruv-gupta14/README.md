@@ -70,3 +70,25 @@ Also moved further in my algorithmic course studying dynamic programming.
 ### Day 12
 Attended GraphQl meetup by Facebook Developer Circles, Jaipur and got to learn a lot about GraphQl Technology.
 
+### Day 13
+Learnt a bit about dynamic programming and solved few questions on it.
+Also tried question 5 of long challenge.
+
+### Day 14
+Completed my algorithmic course and got the certificate of completion by coursera.
+Also solved some questions based on arrays.
+
+### Day 15
+Solved some questions on arrays.
+Revised some concepts of mongoDB, will continue it tomorrow.
+
+### Day 16
+Studied concepts of server side development using express js, node js, mongoDB and RESTful routes.
+
+### Day 17
+Studied 7 types of RESTful routes in detail.
+Also solved 2 questions on arrays.
+
+### Day 18
+Studied Data Associations(embedded data) in Node Js.
+Also read Matlab output for Node Js(how to create a web app with Matlab).
