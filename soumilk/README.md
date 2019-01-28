@@ -65,5 +65,41 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Solved question- The Bomberman Game in python, initially it seems a tricky question but then afterwards when you understand the patern of the problem, its a simple one. Check out the solution at (https://github.com/soumilk/HackerRank_Programs/blob/master/implementation/The%20Bomberman%20Game.py) 
 
 ### Day 15
+   * Revision of git.
+   
+### Day 16 
+   * Contributed in Pyjaipur.
+   * Selected Ideas for SIH 2019.
+   
+### Day 17
    * Revision of git. 
+   * Learned how to squash commits.
+
+### Day 19
+   * SIH problem submission. 
+   * Enrolled in a free openCV course 
+  
+### Day 20
+   * Took up a technique to solve the problems : Divide and Conquer.(https://github.com/soumilk/100DaysOfCode/tree/master/soumilk/Divide%20and%20Conquer)
+   * learned Binary search and Quick sort.
+   
+### Day 21
+   * Read about the quick sort analysis.
+   * Taught basic git to my roomate.
+   
+### Day 22
+   * Learned the Algorithms which use the technique of Divide and Conquer.
+   * Made code in C++ and python for Quick sort.(https://github.com/soumilk/Algorithms_and_Their_Techniques/tree/master/Divide%20and%20Conquer) 
+   * Contributed in Py-jaipur project. 
+   
+### Day 23
+   * Enrolled in the free beginner course of OpenCV, (www.learnopencv.com).
+   * Set up my machine for the course.
+   * Downloaded libraries in ubuntu and setup VS code for windows.
+   * Faced some errors and issues while setting up.
+   
+### Day 24
+   * Learned Merge Sort.
+   * Prepared code in C++ and python for merge sort.
+   * Code -> (https://github.com/soumilk/Algorithms_and_Their_Techniques/tree/master/Divide%20and%20Conquer)
 
