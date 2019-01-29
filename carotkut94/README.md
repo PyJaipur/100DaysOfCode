@@ -85,8 +85,7 @@ You can read about merge sort at https://en.wikipedia.org/wiki/Quick_sort
 This  is also an awesome sorting algorithm, which averages out to O(n log n) time complexity when it comes
 to sorting element in a list/array
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Day 9
 I encountered a problem of data dumping faced by my colleagues
 I wrote this script for them for data entry in data base
@@ -137,26 +136,11 @@ A simple problem for checking if the given string is a palindrome or not.
 A problem on ceaser cipher from alogexpert
 
 
-# Day 15
+# Day 16
 
 A problem on longest palindromic substring out of the given string from alogexpert
-=======
-# Day 8
-I encountered a problem of data dumping faced by my colleagues
-I wrote this script for them for data entry in data base
->>>>>>> d0fecb4... Data Dumper
-=======
-# Day 9
-I encountered a problem of data dumping faced by my colleagues
-I wrote this script for them for data entry in data base
 
 
-# Day 10
+# Day 17
 
-I work as an android app developer, and one of the major task is making the app multi-lingual 
-for that android has a mechanism of storing all of the string values in an xml file 
-with different languages, and at run time depending upon the locale of the user, the respective version of the file will
-be used for those string values
-
-So to translate these string values, i wrote this script.
->>>>>>> a77725d... String translation
+A problem on finding the nTH fibonacci number
