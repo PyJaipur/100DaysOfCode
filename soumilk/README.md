@@ -102,4 +102,23 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Learned Merge Sort.
    * Prepared code in C++ and python for merge sort.
    * Code -> (https://github.com/soumilk/Algorithms_and_Their_Techniques/tree/master/Divide%20and%20Conquer)
-
+   
+### Day 25 
+   * Learned how to squash commits in your local cloned repository.
+   * Started another topic of greedy approach , i.e. closest Pair of points.
+   
+### Day 26
+   * Searched for a good source to learn Django to make a good python project.
+   
+### Day 27
+   * Completely understood the topic 'Closest pair of points'. This method is a bit tricky and really cool. Themethod id really interesting and It took me a while to understand its code.
+   * Sources which I used to understand this are:
+    => [youtube link] (https://www.youtube.com/watch?v=jAigdwcATNw&t=1080s)<br>
+    => (https://www.geeksforgeeks.org/closest-pair-of-points-onlogn-implementation/)<br>
+   * This method is a bit tricky so read it twice to nail it down in your head.
+   * As I faced a little difficulty in understnading this method I made a file which explains the method in the simplest way possible. click [here](https://github.com/soumilk/Algorithms_and_Their_Techniques/blob/master/Divide%20and%20Conquer/Closest%20Pair%20Of%20Points.md) to view the explanation.
+   
+### Day 28 
+   * Merged a pull request from friend in repo having HackerRank solutions.
+   * Tried to make a contribution in PyJudge (A project of pyjaipur) but made mistakes and thus learned how to checkout pervious commits and proper way to keep your forked repository updated with the original's master.
+   
