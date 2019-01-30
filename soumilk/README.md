@@ -74,7 +74,7 @@ Start of the #100DaysOfCode is really a great start to 2k19.
 ### Day 17
    * Revision of git. 
    * Learned how to squash commits.
-
+   
 ### Day 19
    * SIH problem submission. 
    * Enrolled in a free openCV course 
