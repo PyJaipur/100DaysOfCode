@@ -78,3 +78,5 @@
 - Learn the possion and rayleigh distribution function and what are their applications in real world scenerio. 
 ## Day - -30 : Jan 30th 2019
 - learned the concept of X% confidence interval. This totally defines second application of inferential stats.
+## Day - -31 : Jan 31th 2019
+- worked with p-value in inferential statistics. Also, learned the data structure and algorithms(searching & sorting).
