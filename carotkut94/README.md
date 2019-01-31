@@ -152,3 +152,7 @@ A problem that typically stats about transformation of a given string into anoth
 like insert, remove and substitution of a character, we need to find out those minimum number of operations and we call it Levenshtein Distance more details about can be found at
 https://www.cuelogic.com/blog/the-levenshtein-algorithm and https://en.wikipedia.org/wiki/Levenshtein_distance generally 
 used in spell checkers, correction systems etc.
+
+
+# Day 19
+Binary search implementation and implementation of binary search on shifted/rotated array
