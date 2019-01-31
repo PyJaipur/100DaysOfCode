@@ -144,3 +144,11 @@ A problem on longest palindromic substring out of the given string from alogexpe
 # Day 17
 
 A problem on finding the nTH fibonacci number
+
+
+# Day 18
+
+A problem that typically stats about transformation of a given string into another string by making edit operations
+like insert, remove and substitution of a character, we need to find out those minimum number of operations and we call it Levenshtein Distance more details about can be found at
+https://www.cuelogic.com/blog/the-levenshtein-algorithm and https://en.wikipedia.org/wiki/Levenshtein_distance generally 
+used in spell checkers, correction systems etc.
