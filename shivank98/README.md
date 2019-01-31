@@ -83,3 +83,5 @@
   * Worked on DataBricks with Time S data.
 * ### Day T-74/29: Jan 30 2019
   * data analysis on a time S data.
+* ### Day T-73/30: Jan 31 2019
+  * bottle
