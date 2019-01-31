@@ -24,3 +24,20 @@ couldn't get time today for coding but still tried to learn and understand the c
 ### Day 5
 created a program to calculate the number of similar domains present in a text file using database language that is sql and python.
 helped me learn how to use a database(basic).
+
+### Day 6
+Created a prpgram to extract text from a webpage and save it in a text file using Request and BeautifulSoup libraray.
+
+### Day 7
+Learned new term Happy numbers and unhappy numbers.
+Tried to create a program to find happy numbers in a certain range(not completed)
+
+### Day 8
+
+
+### Day 9
+1. Learned how to crack a computer password without using any external software or drive.
+2. Tried to understand use of API 
+
+### Day 10
+Learned about relational database design and modelling 

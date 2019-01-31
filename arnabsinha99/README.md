@@ -1,14 +1,14 @@
 # Arnab Sinha
 
-Hi, I am a sophomore pursuing my B.Tech in Computer Science at The LNMIIT, Jaipur. 
+Hi, I am a sophomore pursuing my B.Tech in Computer Science at The LNMIIT, Jaipur.
 
-I currently work in the following languages: 
+I currently work in the following languages:
 
 * Python for Data Science , ML and AI
 * HTML and CSS for backend
 * C++14 for competitive programming
 
-I have slight experience in Bootstrap 4 framework also. 
+I have slight experience in Bootstrap 4 framework also.
 
 These would be my aim for the next 100 days:-
 
@@ -27,13 +27,13 @@ These were the following things I learnt and practised it hands on:-
 
 * alert() statement, console.log() statement and prompt() statement
 
-* Connecting JS file to HTML file using "script" statement 
+* Connecting JS file to HTML file using "script" statement
 
 * Operators, Control flow, while loops, for loops, functions, arrays and objects in JS followed by practising various codes in it.
 
 I also solved problem 1095A on Codeforces. Solution is [here](https://ideone.com/qFVv2l)
 
-I also added contributed to my project whose link is [here](https://github.com/arnabsinha99/Site-honn-te) . This is my personal website which I am to build. 
+I also added contributed to my project whose link is [here](https://github.com/arnabsinha99/Site-honn-te) . This is my personal website which I am to build.
 
 
 ### Day 2
@@ -42,14 +42,14 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * Following is the query I had posted today on [StackOverflow](https://stackoverflow.com/questions/54003762/getelementbyid-function-is-returning-null-for-existing-header-id/54003818?noredirect=1#comment94850062_54003818)
 
-* I learnt the basics of JQuery which includes the use  of $ sign. 
+* I learnt the basics of JQuery which includes the use  of $ sign.
 
 * I solved the problem [Single Number](https://leetcode.com/problems/single-number/) and my submission is available [here](https://leetcode.com/submissions/detail/198499974/)
 
 
 ### Day 3
 
-* Progressed on my website. 
+* Progressed on my website.
 
 * Solved [this](https://leetcode.com/problems/two-sum/) and [here](https://leetcode.com/submissions/detail/198743978/)
 
@@ -57,7 +57,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * Implemented SVM on Jupyter Notebook
 
-* Learnt the various functions like classification_report() , confusion_matrix() in sklearn 
+* Learnt the various functions like classification_report() , confusion_matrix() in sklearn
 
 * Tried to solve the first problem of CodeChef January Long Challenge
 
@@ -67,8 +67,11 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Implemented SVM in a different way, using GridSearchCV, in Jupyter Notebook.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 * Solved the first problem of CodeChef Lomg Challenge successfully. 
 =======
+=======
+>>>>>>> 113c1780e56f4ed2a96ca6b82134f451f624feb8
 * Solved the first problem of CodeChef Lomg Challenge successfully.
 
 ### Day 6
@@ -115,8 +118,11 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * Also began to learn Bottle framework. 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> bc92b09... My Day 13 and 14 progress
 =======
+=======
+>>>>>>> 113c1780e56f4ed2a96ca6b82134f451f624feb8
 
 ### Day 15
 
@@ -126,8 +132,11 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * Studied about File Uploading, HTML files, meaning of various terms in Bottle framework like `__file__` , absolute path.
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 5588165... My Day 15-16 progress
 =======
+=======
+>>>>>>> 113c1780e56f4ed2a96ca6b82134f451f624feb8
 
 ### Day 17
 
@@ -141,8 +150,11 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * Updated code for Issue [#25](https://github.com/PyJaipur/PyJudge/issues/25#issue-400633469) and solved issue [#27](https://github.com/PyJaipur/PyJudge/issues/27#issue-400719047)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> fad0141... My Day 17-19 progress
 =======
+=======
+>>>>>>> 113c1780e56f4ed2a96ca6b82134f451f624feb8
 
 ### Day 20 
 
@@ -177,4 +189,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 26
 
 * Started to learn Keras and types of Neural Networks.
+<<<<<<< HEAD
 >>>>>>> 1b84d40... My Day 20-26 progress
+=======
+>>>>>>> 113c1780e56f4ed2a96ca6b82134f451f624feb8

@@ -27,5 +27,59 @@
 * ### Day T-97/4 : Jan 5 2019
   * Moved my head around with some Codechef problems.
 * ### Day T-96/5 : Jan 6 2019
-  * 
- 
+  * LeetCode 
+* ### Day T-95/6: Jan 7 2019.
+  * Read some articles.
+* ### Day T-94/7: Jan 8 2019
+  * Solved a partial problem on codechef Jan challange.
+* ### Day T-93/8: Jan 9 2019
+  * Codechef
+* ### Day T-92/9: Jan 10 2019
+  * Completed Algorithmic toolbox course
+* ### Day T-92/10: Jan 11 2019
+  * Got familier with DataBricks.
+* ### Day T-91/11: Jan 12 2019
+  * Read some coding interview questions.
+* ### Day T-90/12: Jan 13 2019
+  * Started with PyJudge project.
+  * Proceed Algorithmic toolbox
+* ### Day T-89/13: Jan 14 2019
+  * Bottle.py
+* ### Day T-88/14: Jan 15 2019
+  * Databricks
+  * Proceed Algorithmic Thinking
+* ### Day T-87/15: Jan 16 2019
+  * ESLA
+  * Sentiment Analysis
+* ### Day T-86/16: Jan 17 2019
+  * read artical
+* ### Day T-85/17: Jan 18 2019
+  * read about sentimental analysis.
+* ### Day T-84/18: Jan 19 2019
+  * some of bottle
+* ### Day T-83/19: Jan 20 2019
+  * Contributed to PyJudge
+* ### Day T-82/20: Jan 21 2019
+  * Contributed to PyJudge
+  * algo course
+* ### Day T-81/21: Jan 22 2019
+  * Completed Lecture 1 of [NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* ### Day R-80/22: Jan 23 2019
+  * Completed Lec 2
+  * Leetcode
+* ### Day T-80/23: Jan 24 2019
+  * read about ML in sales forcasting
+  * almost completed Algo ToolBox Course
+* ### Day T-79/24: Jan 25 2019
+  * Read About ML in SCM
+  * Some Kaggle
+* ### Day T-78/25: Jan 26 2019
+  * little bit cotribution to PyJudge.
+* ### Day T-77/26: Jan 27 2019
+  * read some blogs.
+* ### Day T-76/27: Jan 28 2019
+  * read about arima.
+* ### Day T-75/28: Jan 29 2019
+  * Worked on DataBricks with Time S data.
+* ### Day T-74/29: Jan 30 2019
+  * data analysis on a time S data.

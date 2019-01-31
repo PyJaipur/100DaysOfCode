@@ -46,4 +46,105 @@ using seaborn i was able to plot the best fit line across the scatterplot formed
 
 I now have some idea on how data is studied and manipulated to make analysis easier.
             
+### day 5 - 
+
+Contined with the data school tutorials.
+
+learned how to use evaluation metrics to get more accurate results with regression problems. This time I imported LinearRegression from the sklearn library.
+Starting to understand what the B1,2,3 coeffiecients mean in the regression formula. 
+learned how to obtain those values for a particular problem.
+
+used metrics from the sklearn library to evaluate predictions. learned the differences between MAE, MSE, RMSE and how to use them
+
+
+### day 6 - 
+
+trying to implement and use what i learned in the tutorials
+downloaded the dataset for houseingprices available on kaggle.
+have been trying to understand various ways and the practices used to tackle such a problem.
+will be working on it for a few days .
+
+### day 7 -
+
+took a break from data science and switched to another kind of machine learning- open cv 
+following sentedex's tutorials on open cv in python. 
+learned how to load images , videos and do some basic operations on them.
+also learned how to 'draw' on them (some basic shapes and polygons) 
+
+Goal is object recognition. 
+i hope ill reach there by day 17
+
+
+### day 8 -
+
+attended the angular workshop today.
+learned how the framework works.
+set up the basic requirements for it to work. 
+will be following up with tutorials. 
+
+
+### day 9 -
+
+Continued with OpenCV- 
+
+Learned what thresholding is. learned how to 'add' two images(freaky shit) .
+
+
+learned how to filter out colours, though getting the right combination of colours is pretty hard.
+used some common blurs to remove the noise, but its still not quite perfect
+
+
+### day 10 - 
+
+attended the hackathon today
+tried building a solution for agricultural needs that aimed to help farmers find more storage units, in order to save crops from getting destroyed, and some other features.
+used pyplot on a few csv's to map cost of cultivation and production of a few crops over the years in some states.
             
+     
+     
+### day 11 - 
+continued with open cv . learned how to detect edges.
+experimented around with various methods around it.
+started the cheat engine tutorial to get some insight on how to break programs.
+
+
+### day 12 - 
+
+got to step 8 of the cheat engine tutorial.
+started a project on blender. I had some experience with blender but it has been a long time since ive laid my hands on it.
+
+
+
+### day 13 -
+
+Continued with openCV, learned how to filter out the background from an image using GrabCut.
+grabcut is an algorithm that works out what should be the background and foreground in a given area of an image. 
+
+cv had a module for it. used it to filter an orange from a pic of orange on a table top - https://imgur.com/gallery/ozv6tBv
+
+will be continuing with blender later
+
+
+### 14 - 
+
+started a blender tutorial , set up the basic environment and learned the basic tools . 
+watching blender tutorials
+
+
+### 15 - 
+
+will be making a doughnut and coffee scene in blender, watching the tutorials. 
+the tools are a bit complicated but come with an intuitive sense when you get used to them
+helped a friend with python problems
+
+
+### 16 - 
+
+still continuing with the blender tutorials . have become comfortable with blender now. Aim is to be able to create whatever scene and model i want to, and some basic animations / simulations
+
+### 17 - 
+
+continued with open cv and learned how to detect corners. used the GoodFeatureSelection function to detect corners. 
+continuing with more tutorials.
+
+Also made progress on the blender project. will be texturing and adding particles to the objects.
