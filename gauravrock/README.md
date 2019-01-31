@@ -76,3 +76,5 @@
 - worked with pyjudge project(bottle framework). Revised the probaility and statistics. Moreover, my research paper on decision tree got selected ICPCCAI-19 for ORAL presentation. 
 ## Day - -29 : Jan 29th 2019
 - Learn the possion and rayleigh distribution function and what are their applications in real world scenerio. 
+## Day - -30 : Jan 30th 2019
+- learned the concept of X% confidence interval. This totally defines second application of inferential stats.
