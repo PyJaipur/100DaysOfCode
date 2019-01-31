@@ -121,4 +121,13 @@ Start of the #100DaysOfCode is really a great start to 2k19.
 ### Day 28 
    * Merged a pull request from friend in repo having HackerRank solutions.
    * Tried to make a contribution in PyJudge (A project of pyjaipur) but made mistakes and thus learned how to checkout pervious commits and proper way to keep your forked repository updated with the original's master.
+
+### Day 29 
+   * Moved on to the next approach known as Greedy methods. 
+   * Understood the approach and learned how to solve fractional knapsack problem.
+   * Made a code in python as well as in c++. 
+   * code is available [here](https://github.com/soumilk/Algorithms_and_Their_Techniques/tree/master/Greedy%20Approach)
+   
+### Day 30 
+   * Started learning Django from Django Girls tutorials. Tutorials are really good and easy to understand
    
