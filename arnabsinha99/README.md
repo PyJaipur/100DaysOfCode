@@ -66,13 +66,8 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * Implemented SVM in a different way, using GridSearchCV, in Jupyter Notebook.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-* Solved the first problem of CodeChef Lomg Challenge successfully. 
-=======
-=======
->>>>>>> 113c1780e56f4ed2a96ca6b82134f451f624feb8
-* Solved the first problem of CodeChef Lomg Challenge successfully.
+* Solved the first problem of CodeChef Long Challenge successfully. 
+
 
 ### Day 6
 
@@ -117,12 +112,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Finished the videos of Andrew NG course on coursera. Only programming assignments left. 
 
 * Also began to learn Bottle framework. 
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> bc92b09... My Day 13 and 14 progress
-=======
-=======
->>>>>>> 113c1780e56f4ed2a96ca6b82134f451f624feb8
+
 
 ### Day 15
 
@@ -131,12 +121,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 16
 
 * Studied about File Uploading, HTML files, meaning of various terms in Bottle framework like `__file__` , absolute path.
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 5588165... My Day 15-16 progress
-=======
-=======
->>>>>>> 113c1780e56f4ed2a96ca6b82134f451f624feb8
+
 
 ### Day 17
 
@@ -149,12 +134,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 19
 
 * Updated code for Issue [#25](https://github.com/PyJaipur/PyJudge/issues/25#issue-400633469) and solved issue [#27](https://github.com/PyJaipur/PyJudge/issues/27#issue-400719047)
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> fad0141... My Day 17-19 progress
-=======
-=======
->>>>>>> 113c1780e56f4ed2a96ca6b82134f451f624feb8
+
 
 ### Day 20 
 
@@ -189,7 +169,4 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 26
 
 * Started to learn Keras and types of Neural Networks.
-<<<<<<< HEAD
->>>>>>> 1b84d40... My Day 20-26 progress
-=======
->>>>>>> 113c1780e56f4ed2a96ca6b82134f451f624feb8
+
