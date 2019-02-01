@@ -80,3 +80,5 @@
 - learned the concept of X% confidence interval. This totally defines second application of inferential stats.
 ## Day - -31 : Jan 31th 2019
 - worked with p-value in inferential statistics. Also, learned the data structure and algorithms(searching & sorting).
+## Day - -32 : feb 1st 2019
+- Plotted the confidence interval in jupyter notebook. learned the data structure and algorithm.
