@@ -85,3 +85,5 @@
   * data analysis on a time S data.
 * ### Day T-73/30: Jan 31 2019
   * bottle
+* ### Day T-72/31: Feb 1 2019
+  * PyJudge
