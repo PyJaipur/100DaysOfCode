@@ -155,4 +155,11 @@ used in spell checkers, correction systems etc.
 
 
 # Day 19
+
 Binary search implementation and implementation of binary search on shifted/rotated array
+
+
+# Day 20
+
+This is a problem similar to two sum , in this problem we are given a non-empty array of integers
+and a target sum, we need to return all the triplets resulting into the target.
