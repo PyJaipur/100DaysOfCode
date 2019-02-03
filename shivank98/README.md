@@ -89,3 +89,6 @@
   * PyJudge
 * ### Day T-71/32: Feb 2 2019
   * PyJudge
+* ### Day T-70/33: Feb 3 2019
+  * Codechef Feb
+  * some perosnal code
