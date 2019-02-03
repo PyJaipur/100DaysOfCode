@@ -84,3 +84,5 @@
 - Plotted the confidence interval in jupyter notebook. learned the data structure and algorithm.
 ## Day - -33 : feb 2nd 2019
 - Worked with Monte-carlo approach in inferential stats and clearly understand the significance value and tail area.(This is the beginning of ML).
+## Day - -34 : feb 3nd 2019
+- learn some tutorials from udacity for natural language processing & also worked with flask framework in python🌶.*
