@@ -82,3 +82,5 @@
 - worked with p-value in inferential statistics. Also, learned the data structure and algorithms(searching & sorting).
 ## Day - -32 : feb 1st 2019
 - Plotted the confidence interval in jupyter notebook. learned the data structure and algorithm.
+## Day - -33 : feb 2nd 2019
+- Worked with Monte-carlo approach in inferential stats and clearly understand the significance value and tail area.(This is the beginning of ML).
