@@ -104,6 +104,10 @@ Today I completed Lecture 3 of Harvard CS50.
 
 Today I learnt Error Handling and Debugging.
 
+### Day 29-33
+
+In these days I moved forward in my Python Course and started learning Object Oriented Programming and I also learnt to make HTTP request using Python.Mainly I focused on learning C from Let Us C book as my exams are also coming.
+
 
 
 
