@@ -1,5 +1,5 @@
 """
-We will implement the binary search in a rotated or shifted array algorithm read more about it at
+We will implement the binary search in a rotated or shifted array
 
 Author Sidhant Rajora
 """

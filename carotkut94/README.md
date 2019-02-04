@@ -163,3 +163,9 @@ Binary search implementation and implementation of binary search on shifted/rota
 
 This is a problem similar to two sum , in this problem we are given a non-empty array of integers
 and a target sum, we need to return all the triplets resulting into the target.
+
+
+# Day 21
+In this problem we are given two non empty arrays and we need to find the pair such that first element from first array
+and second element of the pair will be from the second array and the difference between pair element is closest 
+to zero(0)
