@@ -170,3 +170,28 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * Started to learn Keras and types of Neural Networks.
 
+### Day 27
+
+* Read about Reinforcement Learning and continued Keras.
+
+### Day 28
+
+* Read about Radial Basis function in Neural Networks, continued coding in Keras.
+
+### Day 29
+
+* Read about Convolutional Neural Networks.
+
+### Day 30
+
+* Read about DropOut Layers and Dense Layers in NN. Implemented the code in Keras.
+
+### Day 31
+
+* Did not code myself today, but I assisted as a Teaching Assistant in Data Structures Lab for Freshers and taught them all about pointers, structures, linked lists in C and problems on them.
+
+### Day 32
+
+* Started watching Lex Friedman's Deep Learning Videos in MIT. 
+
+* Worked upon Pyjudge project.
