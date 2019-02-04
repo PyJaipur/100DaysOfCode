@@ -86,3 +86,5 @@
 - Worked with Monte-carlo approach in inferential stats and clearly understand the significance value and tail area.(This is the beginning of ML).
 ## Day - -34 : feb 3nd 2019
 - learn some tutorials from udacity for natural language processing & also worked with flask framework in python🌶.*
+## Day - -35 : feb 4th 2019
+- Learned the difference b/w small and large samples. And, why t-value is used in small sample. just Going through each nut🔩 and bolt⚙️ of stats and probability distribution.
