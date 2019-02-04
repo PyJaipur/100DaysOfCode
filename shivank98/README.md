@@ -92,3 +92,5 @@
 * ### Day T-70/33: Feb 3 2019
   * Codechef Feb
   * some perosnal code
+* ### Day T-69/34: Feb 4 2019
+  * read about recommender system.
