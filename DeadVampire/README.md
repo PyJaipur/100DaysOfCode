@@ -114,3 +114,10 @@ I will try to be as much regular as possible from now on.
 
 ### Day 23
 ML Progress - Neural networks, backpropagation algos and its implementation.
+
+### Day 24
+ML Progress - Model selection, testing and validation.
+
+### Day 25
+ML Progress - Bias and variance, learning methods and curves and 
+some more in-depth in PyTorch.
