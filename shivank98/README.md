@@ -96,3 +96,5 @@
   * read about recommender system.
 * ### Day T-68/34: Feb 5 2019
   * build a recommender system using KNN.
+* ### Day T-67/35: Feb 6 2019
+  * codechef.
