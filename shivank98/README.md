@@ -67,14 +67,34 @@
 * ### Day R-80/22: Jan 23 2019
   * Completed Lec 2
   * Leetcode
-* Day T-80/23: Jan 24 2019
+* ### Day T-80/23: Jan 24 2019
   * read about ML in sales forcasting
   * almost completed Algo ToolBox Course
-* Day T-79/24: Jan 25 2019
+* ### Day T-79/24: Jan 25 2019
   * Read About ML in SCM
   * Some Kaggle
-* Day T-78/25: Jan 26 2019
+* ### Day T-78/25: Jan 26 2019
   * little bit cotribution to PyJudge.
-* Day T-77/26: Jan 27 2019
-  *
- 
+* ### Day T-77/26: Jan 27 2019
+  * read some blogs.
+* ### Day T-76/27: Jan 28 2019
+  * read about arima.
+* ### Day T-75/28: Jan 29 2019
+  * Worked on DataBricks with Time S data.
+* ### Day T-74/29: Jan 30 2019
+  * data analysis on a time S data.
+* ### Day T-73/30: Jan 31 2019
+  * bottle
+* ### Day T-72/31: Feb 1 2019
+  * PyJudge
+* ### Day T-71/32: Feb 2 2019
+  * PyJudge
+* ### Day T-70/33: Feb 3 2019
+  * Codechef Feb
+  * some perosnal code
+* ### Day T-69/34: Feb 4 2019
+  * read about recommender system.
+* ### Day T-68/34: Feb 5 2019
+  * build a recommender system using KNN.
+* ### Day T-67/35: Feb 6 2019
+  * codechef.

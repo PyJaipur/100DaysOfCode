@@ -88,6 +88,28 @@ Today I completed section 2 of Function in my Python Course.
 
 Today I completed PSET 2 of Harvard CS50 by David Malan.
 
+### Day 25 
+
+Today I learnt Lambda Function and built in function in Python.
+
+### Day 26
+
+Today I started Lecture 3 of Harvard CS50.
+
+### Day 27
+
+Today I completed Lecture 3 of Harvard CS50.
+
+### Day 28
+
+Today I learnt Error Handling and Debugging.
+
+### Day 29-33
+
+In these days I moved forward in my Python Course and started learning Object Oriented Programming and I also learnt to make HTTP request using Python.Mainly I focused on learning C from Let Us C book as my exams are also coming.
+
+
+
 
 
 

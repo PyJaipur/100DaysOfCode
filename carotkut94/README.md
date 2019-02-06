@@ -75,7 +75,7 @@ This  is a simple yet, an awesome sorting algorithm, which averages out to O(n l
 to sorting element in a list/array
 
 
-# Day 7
+# Day 8
 On day 7th I implemented another sorting algorithm called "Quick Sort"
 
 
@@ -84,3 +84,94 @@ You can read about merge sort at https://en.wikipedia.org/wiki/Quick_sort
 
 This  is also an awesome sorting algorithm, which averages out to O(n log n) time complexity when it comes
 to sorting element in a list/array
+
+
+# Day 9
+I encountered a problem of data dumping faced by my colleagues
+I wrote this script for them for data entry in data base
+
+
+# Day 10
+
+I work as an android app developer, and one of the major task is making the app multi-lingual 
+for that android has a mechanism of storing all of the string values in an xml file 
+with different languages, and at run time depending upon the locale of the user, the respective version of the file will
+be used for those string values
+
+So to translate these string values, i wrote this script.
+
+
+# Day 11
+
+Two sum problem from algoexpert can also be found on leetcode
+
+
+
+# Day 12
+
+BST(Binary Search Tree) implementation
+
+
+# Day 13
+
+Every email consists of a local name and a domain name, separated by the @ sign.
+For example, in alice@leetcode.com, alice is the local name, and leetcode.com is the domain name.
+Besides lowercase letters, these emails may contain '.'s or '+'s.
+If you add periods ('.') between some characters in the local name part of an email address, mail sent there will be forwarded to the same address without dots in the local name.  For example, "alice.z@leetcode.com" and "alicez@leetcode.com" forward to the same email address.  (Note that this rule does not apply for domain names.)
+If you add a plus ('+') in the local name, everything after the first plus sign will be ignored. This allows certain emails to be filtered, for example m.y+name@email.com will be forwarded to my@email.com.  (Again, this rule does not apply for domain names.)
+It is possible to use both of these rules at the same time.
+Given a list of emails, we send one email to each address in the list.  How many different addresses actually receive mails? 
+
+#### Problem 2 on Day 13
+Problem description can be found at https://leetcode.com/problems/unique-morse-code-words/
+
+
+# Day 14
+
+A simple problem for checking if the given string is a palindrome or not.
+
+
+# Day 15
+
+A problem on ceaser cipher from alogexpert
+
+
+# Day 16
+
+A problem on longest palindromic substring out of the given string from alogexpert
+
+
+# Day 17
+
+A problem on finding the nTH fibonacci number
+
+
+# Day 18
+
+A problem that typically stats about transformation of a given string into another string by making edit operations
+like insert, remove and substitution of a character, we need to find out those minimum number of operations and we call it Levenshtein Distance more details about can be found at
+https://www.cuelogic.com/blog/the-levenshtein-algorithm and https://en.wikipedia.org/wiki/Levenshtein_distance generally 
+used in spell checkers, correction systems etc.
+
+
+# Day 19
+
+Binary search implementation and implementation of binary search on shifted/rotated array
+
+
+# Day 20
+
+This is a problem similar to two sum , in this problem we are given a non-empty array of integers
+and a target sum, we need to return all the triplets resulting into the target.
+
+
+# Day 21
+
+In this problem we are given two non empty arrays and we need to find the pair such that first element from first array
+and second element of the pair will be from the second array and the difference between pair element is closest 
+to zero(0)
+
+
+# Day 22
+
+Standard Heap sort implementation, read more about it at https://en.wikipedia.org/wiki/Heapsort

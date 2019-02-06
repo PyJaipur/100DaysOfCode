@@ -103,3 +103,21 @@ Progress in ML - Still working on multi class classification and neural networks
 
 ### Day 21
 Progress in ML - Digging deeper into TensorFlow and implementing some of its functions manually to have a better understanding.
+
+### Day 22
+Progress in ML - Overfitting, regularization, neural networks and model representation and some hands on with pytorch!
+
+Getting familiar with advance concepts in C/C++ - Memory management, low level hardware programming (drivers for basic io devices).
+
+Yeah, I know took I took a long break due to some unavoidable work(mostly including me being a sloth)! :v
+I will try to be as much regular as possible from now on.
+
+### Day 23
+ML Progress - Neural networks, backpropagation algos and its implementation.
+
+### Day 24
+ML Progress - Model selection, testing and validation.
+
+### Day 25
+ML Progress - Bias and variance, learning methods and curves and 
+some more in-depth in PyTorch.
