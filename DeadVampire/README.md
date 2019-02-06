@@ -121,3 +121,6 @@ ML Progress - Model selection, testing and validation.
 ### Day 25
 ML Progress - Bias and variance, learning methods and curves and 
 some more in-depth in PyTorch.
+
+### Day 26
+ML Progress - Training a neural net and error analysis.
