@@ -88,3 +88,9 @@
 - learn some tutorials from udacity for natural language processing & also worked with flask framework in python🌶.*
 ## Day - -35 : feb 4th 2019
 - Learned the difference b/w small and large samples. And, why t-value is used in small sample. just Going through each nut🔩 and bolt⚙️ of stats and probability distribution.
+## Day - -36 : feb 5th 2019
+- read the [research paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b8c26e4347adc3453c15d96a09e6f7f102293f71.pdf) in nlp NQ-by google. This technology is gonna change the furture how the NLP operates.
+## Day - -37 : feb 6th 2019
+- worked with Annova(analysis of variance) in probability distribution & what is the intuition behind it. 
+
+
