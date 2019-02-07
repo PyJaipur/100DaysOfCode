@@ -175,3 +175,8 @@ to zero(0)
 # Day 22
 
 Standard Heap sort implementation, read more about it at https://en.wikipedia.org/wiki/Heapsort
+
+
+# Day 23
+
+All permutation of a given array
