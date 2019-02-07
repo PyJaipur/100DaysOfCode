@@ -94,7 +94,9 @@
   * some perosnal code
 * ### Day T-69/34: Feb 4 2019
   * read about recommender system.
-* ### Day T-68/34: Feb 5 2019
+* ### Day T-68/35: Feb 5 2019
   * build a recommender system using KNN.
-* ### Day T-67/35: Feb 6 2019
+* ### Day T-67/36: Feb 6 2019
   * codechef.
+* ### Day T-66/37: Feb 7 2019
+  * personal tasks
