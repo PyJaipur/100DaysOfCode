@@ -180,3 +180,10 @@ Standard Heap sort implementation, read more about it at https://en.wikipedia.or
 # Day 23
 
 All permutation of a given array
+
+
+# Day 24
+
+Given a base-10 integer, n, convert it to binary (base-2). Then find and print the base-10 integer denoting the maximum number of consecutive 1's in n's binary representation.
+Problem description can be found at https://www.hackerrank.com/challenges/30-binary-numbers/problem
+
