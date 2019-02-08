@@ -100,3 +100,5 @@
   * codechef.
 * ### Day T-66/37: Feb 7 2019
   * personal tasks
+* ### Day T-65/38: Feb 8 2019
+  * codechef
