@@ -102,3 +102,5 @@
   * personal tasks
 * ### Day T-65/38: Feb 8 2019
   * codechef
+* ### Day T-64/39: Feb 9 2019
+  * Hackerrank
