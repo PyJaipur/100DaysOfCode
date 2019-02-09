@@ -124,3 +124,10 @@ some more in-depth in PyTorch.
 
 ### Day 26
 ML Progress - Training a neural net and error analysis.
+
+### Day 27
+ML Progress - SVM, margin classification.
+
+### Day 28
+ML Progress - Using SVM, implementing in python from basic and using 
+it from pyTorch.
