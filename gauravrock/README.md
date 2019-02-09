@@ -92,5 +92,6 @@
 - read the [research paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b8c26e4347adc3453c15d96a09e6f7f102293f71.pdf) in nlp NQ-by google. This technology is gonna change the furture how the NLP operates.
 ## Day - -37 : feb 6th 2019
 - worked with Annova(analysis of variance) in probability distribution & what is the intuition behind it. 
-
+## Day - -38 : feb 7th 2019
+- worked with dataset to infer the paired hypothesis. 
 
