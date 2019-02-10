@@ -104,3 +104,5 @@
   * codechef
 * ### Day T-64/39: Feb 9 2019
   * Hackerrank
+* ### Day T-63/40: Feb 10 2019
+  * codechef
