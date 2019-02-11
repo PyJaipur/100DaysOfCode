@@ -106,3 +106,5 @@
   * Hackerrank
 * ### Day T-63/40: Feb 10 2019
   * codechef
+* ### Day T-62/41: Feb 11 2019
+  * codechef, blogs
