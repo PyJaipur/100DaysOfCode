@@ -95,7 +95,7 @@
 ## Day - -38 : feb 7th 2019
 - worked with dataset to infer the paired hypothesis.
 ## Day - -39 : feb 8th 2019
--Read the book on probability and statistics by beaver & beaver.
+- Read the book on probability and statistics by beaver & beaver.
 ## Day - -40 : feb 9th 2019 
 - worked on dataset with scikit-learn.
 ## Day - -41 : feb 10th 2019
@@ -104,3 +104,4 @@
 - worked with f-distribution in inferential stats.
 ## Day - -43 : feb 12th 2019
 - learned the concepts of ANNOVA: small sample hypothesis testing for variance of multiple populations.(It helps in originating the various concepts of PCA in Ml)❕
+

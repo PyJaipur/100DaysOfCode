@@ -155,5 +155,16 @@ Start of the #100DaysOfCode is really a great start to 2k19.
 ### Day 38(7-feb)
    * Learned Dijkstra and Job Scheduling in greedy method. Have just undertood the mehods, will be writting code for them soon.
 
+### Day 39(8-feb)
+   * Contunied learning Javascript.
+
+### Day 40(9-feb)
+   * Revision of concepts for the Hackerearth Engineering intern challenge.
+
+### Day 41(10-feb)
+   * Attended Pyjaipur meetup.
+   * Completed hackerearth intern challenge.
+   * Enrolled in codechef february challenge. 
+   * uploaded solutions of this challenge in this repo in the folder named 'HackerEarth Engineering Intern Challenge'
 
 
