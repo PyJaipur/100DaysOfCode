@@ -97,4 +97,10 @@
 ## Day - -39 : feb 8th 2019
 -Read the book on probability and statistics by beaver & beaver.
 ## Day - -40 : feb 9th 2019 
-- woroked on dataset with scikit-learn.
+- worked on dataset with scikit-learn.
+## Day - -41 : feb 10th 2019
+- learned the concepts of frequentist inferential statistics.
+## Day - -42 : feb 11th 2019
+- worked with f-distribution in inferential stats.
+## Day - -43 : feb 12th 2019
+- learned the concepts of ANNOVA: small sample hypothesis testing for variance of multiple populations.(It helps in originating the various concepts of PCA in Ml)❕
