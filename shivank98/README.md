@@ -110,3 +110,5 @@
   * codechef, blogs
 * ### Day T-61/42: Feb 12 2019
   * codechef
+* ### Day T-60/43: Feb 13 2019
+  * codechef
