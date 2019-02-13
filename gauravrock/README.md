@@ -104,3 +104,5 @@
 - worked with f-distribution in inferential stats.
 ## Day - -43 : feb 12th 2019
 - learned the concepts of ANNOVA: small sample hypothesis testing for variance of multiple populations.(It helps in originating the various concepts of PCA in Ml)❕
+## Day - -44 : feb 13th 2019
+- learned the scheffe's hypothesis test for 1 factor ANNOVA.
