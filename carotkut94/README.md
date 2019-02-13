@@ -198,3 +198,9 @@ Absolute minimum difference with one removal operation on entire array
 
 Kadane's Algorithm
 read more about it at https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+
+
+# Day 27
+
+KMP(Knuth-Morris-Pratt) String searching algorithm
+read more about it at https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm
