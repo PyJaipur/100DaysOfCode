@@ -192,3 +192,9 @@ Problem description can be found at https://www.hackerrank.com/challenges/30-bin
 # Day 25
 
 Absolute minimum difference with one removal operation on entire array
+
+
+# Day 26
+
+Kadane's Algorithm
+read more about it at https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
