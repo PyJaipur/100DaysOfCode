@@ -187,3 +187,14 @@ All permutation of a given array
 Given a base-10 integer, n, convert it to binary (base-2). Then find and print the base-10 integer denoting the maximum number of consecutive 1's in n's binary representation.
 Problem description can be found at https://www.hackerrank.com/challenges/30-binary-numbers/problem
 
+
+
+# Day 25
+
+Absolute minimum difference with one removal operation on entire array
+
+
+# Day 26
+
+Kadane's Algorithm
+read more about it at https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/

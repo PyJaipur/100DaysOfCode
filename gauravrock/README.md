@@ -95,7 +95,7 @@
 ## Day - -38 : feb 7th 2019
 - worked with dataset to infer the paired hypothesis.
 ## Day - -39 : feb 8th 2019
--Read the book on probability and statistics by beaver & beaver.
+- Read the book on probability and statistics by beaver & beaver.
 ## Day - -40 : feb 9th 2019 
 - worked on dataset with scikit-learn.
 ## Day - -41 : feb 10th 2019
