@@ -106,3 +106,5 @@
 - learned the concepts of ANNOVA: small sample hypothesis testing for variance of multiple populations.(It helps in originating the various concepts of PCA in Ml)❕
 ## Day - -44 : feb 13th 2019
 - learned the scheffe's hypothesis test for 1 factor ANNOVA.
+## Day - -45 : feb 14th 2019
+- learned the 2nd most important hypothesis test for ANNOVA i.e., Tukey test. Also, got familiar with Covariance concept.
