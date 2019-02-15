@@ -131,3 +131,6 @@ ML Progress - SVM, margin classification.
 ### Day 28
 ML Progress - Using SVM, implementing in python from basic and using 
 it from pyTorch.
+
+### Day 29
+ML Progress - Learned about SVR and SVM and implemented Random Forest Classification algo on a tourism spots dataset.
