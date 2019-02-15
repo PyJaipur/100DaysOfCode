@@ -167,4 +167,12 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Enrolled in codechef february challenge. 
    * uploaded solutions of this challenge in this repo in the folder named 'HackerEarth Engineering Intern Challenge'
 
+### Day 42(11-feb)
+### Day 43(12-feb)
+
+### Day 44(13-feb)
+   * HackerRank Question [Greedy](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/submissions/code/98814157)
+   * Solution to this problem is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Greedy/Maximum%20Perimeter%20Triangle.py)
+   * Got Selected in SIH (Smart India Hackathon) and figuring out how to implement the Idea.
+
 
