@@ -108,3 +108,5 @@
 - learned the scheffe's hypothesis test for 1 factor ANNOVA.
 ## Day - -45 : feb 14th 2019
 - learned the 2nd most important hypothesis test for ANNOVA i.e., Tukey test. Also, got familiar with Covariance concept.
+## Day - -46 : feb 15th 2019
+- learned the concept of pearson Corelation Coefficient hypothesis test.🎭
