@@ -114,4 +114,6 @@
   * codechef
 * ### Day T-59/44: Feb 14 2019
   * personal work
+* ### Day T-60/45: Feb 15 2019
+  * personal work
 
