@@ -134,3 +134,6 @@ it from pyTorch.
 
 ### Day 29
 ML Progress - Learned about SVR and SVM and implemented Random Forest Classification algo on a tourism spots dataset.
+
+### Day 30
+ML Progress - Hierarchical clustering, XGBoost and Upper confidence bound.
