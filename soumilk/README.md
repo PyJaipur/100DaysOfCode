@@ -175,4 +175,17 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Solution to this problem is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Greedy/Maximum%20Perimeter%20Triangle.py)
    * Got Selected in SIH (Smart India Hackathon) and figuring out how to implement the Idea.
 
+### Day 45(15-feb)
+   * Solved Hackerrank Question [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem).
+   * Solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Greedy/Sherlock%20and%20The%20Beast.py)
+
+### Day 46(16-feb)
+   * Learned about the "Travelling salseman problem" and its solution using DP.
+   * Solved question [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem).<br>
+   * Solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Greedy/Priyanka%20and%20Toys.py)
+   * Learned about Data Object Model (DOM) and made a webpage using all the front end components I have learned till now i.e HTML, CSS, JavaScript, Bootstrap, DOM in my journey to learn Django.
+   * Solved question [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem).
+   * Solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Greedy/Mark%20and%20Toys.py).
+   * Took a close look to project PyJaipur after my my long inactivity.
+   * SIH idea Formulation and implementation process finalization.
 
