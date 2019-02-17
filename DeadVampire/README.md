@@ -137,3 +137,7 @@ ML Progress - Learned about SVR and SVM and implemented Random Forest Classifica
 
 ### Day 30
 ML Progress - Hierarchical clustering, XGBoost and Upper confidence bound.
+
+### Day 31
+ML Progress - Analysis(Component and Discriminant), Kernel PCA and 
+Sampling.
