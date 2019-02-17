@@ -118,4 +118,6 @@
   * personal work
 * ### Day T-61/46: Feb 16 2019
   * personal work
+* ### Day T-62/47: Feb 17 2019
+  * CodeChef
 
