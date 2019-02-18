@@ -120,4 +120,6 @@
   * personal work
 * ### Day T-62/47: Feb 17 2019
   * CodeChef
+* ### Day T-63/48: Feb 18 2019
+  * python
 
