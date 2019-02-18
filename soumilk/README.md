@@ -189,3 +189,9 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Took a close look to project PyJaipur after my my long inactivity.
    * SIH idea Formulation and implementation process finalization.
 
+### Day 47(17-feb)
+   * Solved Question [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/submissions/code/99252032).
+   * Answer is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Insertion%20Sort%20-%20Part%201.py).
+   * Solved my Ubuntu18.04 issue of crackling sound.
+   * Solved February Cook-off challenge.
+   * Was able to solve 3 questions successfully.
