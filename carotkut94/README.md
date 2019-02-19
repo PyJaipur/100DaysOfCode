@@ -220,3 +220,14 @@ Four number sum
 # Day 30
 
 You are given a non-empty array of integers. Each element represents the maximum number of steps you can take forward. For example, if the element at index 1 is 3, you can go from index 1 to index 2, 3, or 4. Write a function that returns the minimum number of jumps needed to reach the final index. Note that jumping from index i to index i + x always constitutes 1 jump, no matter how large x is.
+
+
+
+# Day 31
+
+Write a function that takes in an array of integers and returns an array of length 2 representing the largest range of 
+numbers contained in that array. The first number in the output array should be the first number in the range while the
+second number should be the last number in the range. A range of numbers is defined as a set of numbers that come right
+after each other in the set of real integers. For instance, the output array [2, 6] represents the
+range {2, 3, 4, 5, 6}, which is a range of length 5. Note that numbers do not need to be ordered or adjacent in the 
+array in order to form a range. Assume that there will only be one largest range.
