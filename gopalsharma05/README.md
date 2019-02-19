@@ -17,6 +17,8 @@ I am here to improve the coding skills in data structure .
 
 ### day 4
 * solved the fifth problem of the codechef january challange.
+<<<<<<< HEAD
+=======
 
 ### day 5
 * solved the 1st and 2nd problem of the Codeforces Round #534 (Div . 2).
@@ -34,3 +36,4 @@ solution is [here](https://ideone.com/SBCFxw)
 * solved the 3rd problem of the Codeforces Round #534 (Div . 2).
  
 solution is [here](https://ideone.com/AMNtJq)
+>>>>>>> 113c1780e56f4ed2a96ca6b82134f451f624feb8
