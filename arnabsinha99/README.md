@@ -195,3 +195,85 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Started watching Lex Friedman's Deep Learning Videos in MIT. 
 
 * Worked upon Pyjudge project.
+
+### Day 33 
+
+* Worked on PyJudge project.
+
+### Day 34
+
+* Solved two competitive problem on Codeforces.
+
+### Day 35
+
+* Created a network between two nodes and sent packets between it in OMNET++.
+
+* Read more about Softmax classifier and Cross Entropy activation function. 
+
+### Day 36
+
+* Read about Reinforcement Learning and coded semaphores in C language. 
+
+### Day 37
+
+* I assisted as a volunteer in Data Structures Lab to guide Juniors to make linked list, stacks and queues in C and then 
+  implement Postfix to Infix and vice versa.
+
+### Day 38
+
+* Solved a couple of competitive problems.
+
+## Day 39
+
+* Implemented a couple of codes of Multithreading using p_threads in C.
+
+### Day 40
+
+* Tried to solve a couple of competitive problems from Hackerearth. 
+
+### Day 41
+
+* Solved one competitive problem from Codechef and coded an SVM using random numbers database.
+
+### Day 42
+
+* Implemented Data Link Layer and Network Layer in a Network using OMNET++ software. 
+
+### Day 43
+
+* Learnt the use of Arduino. Coded and used an Arduino Mega 2560 board to create simple devices like heat sensors, temperature sensor, 
+  Motor server and LED light circuits.
+
+### Day 44
+
+* Attended a workshop of Motion Segmentation and Tracking and had a hands on session in MATLAB on Image Processing.
+
+### Day 45
+
+* Learnt Google Colab from the following site:- (Google Colab)[https://medium.com/dair-ai/primer-for-learning-google-colab-bb4cabca5dd6]
+
+* Read about Autoencoders and decoders in Neural Networks. 
+
+### Day 46 
+
+* Hands on session of Gesture Recognition in MATLAB using Viola-Jones Algorithm. 
+
+* Hands on session on AlexNet model in MATLAB.
+
+### Day 47
+
+* Started to learn Pytorch, along with Keras as before, and began to implement simple NN.
+
+### Day 48
+
+* Finished implementing NN using Pytorch and now started to implement using Keras.
+
+* Solved one problem from Codeforces.
+
+### Day 49
+
+* Finished implementing NN with keras.
+
+* Solved one problem from Codeforces.
+
+### Day 50
