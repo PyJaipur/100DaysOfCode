@@ -83,3 +83,43 @@
   * Worked on DataBricks with Time S data.
 * ### Day T-74/29: Jan 30 2019
   * data analysis on a time S data.
+* ### Day T-73/30: Jan 31 2019
+  * bottle
+* ### Day T-72/31: Feb 1 2019
+  * PyJudge
+* ### Day T-71/32: Feb 2 2019
+  * PyJudge
+* ### Day T-70/33: Feb 3 2019
+  * Codechef Feb
+  * some perosnal code
+* ### Day T-69/34: Feb 4 2019
+  * read about recommender system.
+* ### Day T-68/35: Feb 5 2019
+  * build a recommender system using KNN.
+* ### Day T-67/36: Feb 6 2019
+  * codechef.
+* ### Day T-66/37: Feb 7 2019
+  * personal tasks
+* ### Day T-65/38: Feb 8 2019
+  * codechef
+* ### Day T-64/39: Feb 9 2019
+  * Hackerrank
+* ### Day T-63/40: Feb 10 2019
+  * codechef
+* ### Day T-62/41: Feb 11 2019
+  * codechef, blogs
+* ### Day T-61/42: Feb 12 2019
+  * codechef
+* ### Day T-60/43: Feb 13 2019
+  * codechef
+* ### Day T-59/44: Feb 14 2019
+  * personal work
+* ### Day T-60/45: Feb 15 2019
+  * personal work
+* ### Day T-61/46: Feb 16 2019
+  * personal work
+* ### Day T-62/47: Feb 17 2019
+  * CodeChef
+* ### Day T-63/48: Feb 18 2019
+  * python
+

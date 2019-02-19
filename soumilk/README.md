@@ -103,3 +103,95 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Prepared code in C++ and python for merge sort.
    * Code -> (https://github.com/soumilk/Algorithms_and_Their_Techniques/tree/master/Divide%20and%20Conquer)
 
+### Day 25
+   * Learned how to squash commits in your local cloned repository.
+   * Started another topic of greedy approach, i.e. Closest pair of points.
+
+### Day 26
+   * Searched for good Django source to make a python project.
+
+### Day 27
+   * Completely understood the topic 'closest pair of points'. This method is a bit tricky and really cool. The method is really interesting and it took me a while to understand it properly.
+   *Sources I used were : <br>
+	=> [youtube link](https://www.youtube.com/watch!v=jAigdwcATNw&t=1080s)<br>
+        => [Geeks for geeks](https://www.geeksforgeeks.org/closest-pair-of-points-onlogn-implementation/)<br>
+	=>As I faced a little difficulty in understanding in method, I have made a file which explains the method in the simplest way possible. [Here is the explanation](https://github.com/soumilk/Algorithms_and_Their_Techniques/blob/master/Divide%20and%20Conquer/Closest%20Pair%20Of%20Points.md) 
+
+### Day 28
+   * Merged pull request from friend Repo having hacerrank solution in java.
+   * Tried to make a contribution in PyJudge but made a mistake and ended up closing my own PR.
+
+### Day 29
+   * Moved on the next approach of algorithms i.e. Greedy mehtod.
+   * Learned the fractional Knapsack problem and its method to solve.
+   * Made a code in python and C++.
+   * Code is available [here](https://github.com/soumilk/Algorithms_and_Their_Techniques/tree/master/Greedy%20Approach)
+
+### Day 30
+   * Started learning Django from Udemy Course.
+
+### Day 31 
+
+### Day 32 (1-Feb)
+   * Started up the course of 'Python and Django complete web development'
+   * completed HTML from there.
+
+### Day 33 (2-feb)
+   * Completed CSS from the course 
+
+### Day 34 (3-feb)
+   * Completed Boostrap from the course.
+
+### Day 35(4-feb)  
+   * Made a demo project using HTML,CSS and Bootstrap.
+
+### Day 36(5-feb)
+   * 
+
+### Day 37(6-feb)
+   * Completed JavaScript part-1 from the course.
+   * Learned Greedy approach of Prim and Kruskals algorithm.
+ 
+### Day 38(7-feb)
+   * Learned Dijkstra and Job Scheduling in greedy method. Have just undertood the mehods, will be writting code for them soon.
+
+### Day 39(8-feb)
+   * Contunied learning Javascript.
+
+### Day 40(9-feb)
+   * Revision of concepts for the Hackerearth Engineering intern challenge.
+
+### Day 41(10-feb)
+   * Attended Pyjaipur meetup.
+   * Completed hackerearth intern challenge.
+   * Enrolled in codechef february challenge. 
+   * uploaded solutions of this challenge in this repo in the folder named 'HackerEarth Engineering Intern Challenge'
+
+### Day 42(11-feb)
+### Day 43(12-feb)
+
+### Day 44(13-feb)
+   * HackerRank Question [Greedy](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/submissions/code/98814157)
+   * Solution to this problem is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Greedy/Maximum%20Perimeter%20Triangle.py)
+   * Got Selected in SIH (Smart India Hackathon) and figuring out how to implement the Idea.
+
+### Day 45(15-feb)
+   * Solved Hackerrank Question [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem).
+   * Solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Greedy/Sherlock%20and%20The%20Beast.py)
+
+### Day 46(16-feb)
+   * Learned about the "Travelling salseman problem" and its solution using DP.
+   * Solved question [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem).<br>
+   * Solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Greedy/Priyanka%20and%20Toys.py)
+   * Learned about Data Object Model (DOM) and made a webpage using all the front end components I have learned till now i.e HTML, CSS, JavaScript, Bootstrap, DOM in my journey to learn Django.
+   * Solved question [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem).
+   * Solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Greedy/Mark%20and%20Toys.py).
+   * Took a close look to project PyJaipur after my my long inactivity.
+   * SIH idea Formulation and implementation process finalization.
+
+### Day 47(17-feb)
+   * Solved Question [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/submissions/code/99252032).
+   * Answer is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Insertion%20Sort%20-%20Part%201.py).
+   * Solved my Ubuntu18.04 issue of crackling sound.
+   * Solved February Cook-off challenge.
+   * Was able to solve 3 questions successfully.

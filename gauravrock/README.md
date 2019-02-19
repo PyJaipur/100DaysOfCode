@@ -78,3 +78,35 @@
 - Learn the possion and rayleigh distribution function and what are their applications in real world scenerio. 
 ## Day - -30 : Jan 30th 2019
 - learned the concept of X% confidence interval. This totally defines second application of inferential stats.
+## Day - -31 : Jan 31th 2019
+- worked with p-value in inferential statistics. Also, learned the data structure and algorithms(searching & sorting).
+## Day - -32 : feb 1st 2019
+- Plotted the confidence interval in jupyter notebook. learned the data structure and algorithm.
+## Day - -33 : feb 2nd 2019
+- Worked with Monte-carlo approach in inferential stats and clearly understand the significance value and tail area.(This is the beginning of ML).
+## Day - -34 : feb 3nd 2019
+- learn some tutorials from udacity for natural language processing & also worked with flask framework in python🌶.*
+## Day - -35 : feb 4th 2019
+- Learned the difference b/w small and large samples. And, why t-value is used in small sample. just Going through each nut🔩 and bolt⚙️ of stats and probability distribution.
+## Day - -36 : feb 5th 2019
+- read the [research paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b8c26e4347adc3453c15d96a09e6f7f102293f71.pdf) in nlp NQ-by google. This technology is gonna change the furture how the NLP operates.
+## Day - -37 : feb 6th 2019
+- worked with Annova(analysis of variance) in probability distribution & what is the intuition behind it. 
+## Day - -38 : feb 7th 2019
+- worked with dataset to infer the paired hypothesis.
+## Day - -39 : feb 8th 2019
+- Read the book on probability and statistics by beaver & beaver.
+## Day - -40 : feb 9th 2019 
+- worked on dataset with scikit-learn.
+## Day - -41 : feb 10th 2019
+- learned the concepts of frequentist inferential statistics.
+## Day - -42 : feb 11th 2019
+- worked with f-distribution in inferential stats.
+## Day - -43 : feb 12th 2019
+- learned the concepts of ANNOVA: small sample hypothesis testing for variance of multiple populations.(It helps in originating the various concepts of PCA in Ml)❕
+## Day - -44 : feb 13th 2019
+- learned the scheffe's hypothesis test for 1 factor ANNOVA.
+## Day - -45 : feb 14th 2019
+- learned the 2nd most important hypothesis test for ANNOVA i.e., Tukey test. Also, got familiar with Covariance concept.
+## Day - -46 : feb 15th 2019
+- learned the concept of pearson Corelation Coefficient hypothesis test.🎭

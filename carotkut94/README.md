@@ -152,3 +152,71 @@ A problem that typically stats about transformation of a given string into anoth
 like insert, remove and substitution of a character, we need to find out those minimum number of operations and we call it Levenshtein Distance more details about can be found at
 https://www.cuelogic.com/blog/the-levenshtein-algorithm and https://en.wikipedia.org/wiki/Levenshtein_distance generally 
 used in spell checkers, correction systems etc.
+
+
+# Day 19
+
+Binary search implementation and implementation of binary search on shifted/rotated array
+
+
+# Day 20
+
+This is a problem similar to two sum , in this problem we are given a non-empty array of integers
+and a target sum, we need to return all the triplets resulting into the target.
+
+
+# Day 21
+
+In this problem we are given two non empty arrays and we need to find the pair such that first element from first array
+and second element of the pair will be from the second array and the difference between pair element is closest 
+to zero(0)
+
+
+# Day 22
+
+Standard Heap sort implementation, read more about it at https://en.wikipedia.org/wiki/Heapsort
+
+
+# Day 23
+
+All permutation of a given array
+
+
+# Day 24
+
+Given a base-10 integer, n, convert it to binary (base-2). Then find and print the base-10 integer denoting the maximum number of consecutive 1's in n's binary representation.
+Problem description can be found at https://www.hackerrank.com/challenges/30-binary-numbers/problem
+
+
+
+# Day 25
+
+Absolute minimum difference with one removal operation on entire array
+
+
+# Day 26
+
+Kadane's Algorithm
+read more about it at https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+
+
+# Day 27
+
+KMP(Knuth-Morris-Pratt) String searching algorithm
+read more about it at https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm
+
+
+# Day 28
+
+A function for returning the sorted array of largest three numbers out of the given array
+
+
+# Day 29
+
+Four number sum
+
+
+
+# Day 30
+
+You are given a non-empty array of integers. Each element represents the maximum number of steps you can take forward. For example, if the element at index 1 is 3, you can go from index 1 to index 2, 3, or 4. Write a function that returns the minimum number of jumps needed to reach the final index. Note that jumping from index i to index i + x always constitutes 1 jump, no matter how large x is.
