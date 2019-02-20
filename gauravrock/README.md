@@ -110,3 +110,13 @@
 - learned the 2nd most important hypothesis test for ANNOVA i.e., Tukey test. Also, got familiar with Covariance concept.
 ## Day - -46 : feb 15th 2019
 - learned the concept of pearson Corelation Coefficient hypothesis test.🎭
+## Day - -47 : feb 16th 2019
+- learned the concepts of chi-square in statistics.
+## Day - -48 : feb 17th 2019
+- code chef and hackerrank.(10 days of probability and stats)
+## Day - -49 : feb 18th 2019
+- read the research paper on qc corpus NLP.
+## Day - -50 : feb 19th 2019
+- written 2 pages of my next research paper.
+## Day - -51 : feb 20th 2019
+- learned some concepts of Non-parametric statistics(Bayesian stats).
