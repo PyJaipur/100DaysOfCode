@@ -272,8 +272,12 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 ### Day 49
 
-* Finished implementing NN with keras.
-
 * Solved one problem from Codeforces.
 
 ### Day 50
+
+* Finished implementing imdb dataset review prediction using keras.
+
+### Day 51
+
+
