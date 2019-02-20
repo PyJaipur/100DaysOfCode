@@ -114,14 +114,16 @@
   * codechef
 * ### Day T-59/44: Feb 14 2019
   * personal work
-* ### Day T-60/45: Feb 15 2019
+* ### Day T-58/45: Feb 15 2019
   * personal work
-* ### Day T-61/46: Feb 16 2019
+* ### Day T-57/46: Feb 16 2019
   * personal work
-* ### Day T-62/47: Feb 17 2019
+* ### Day T-56/47: Feb 17 2019
   * CodeChef
-* ### Day T-63/48: Feb 18 2019
+* ### Day T-55/48: Feb 18 2019
   * python
-* ### Day T-64/49: Feb 19 2019
+* ### Day T-54/49: Feb 19 2019
+  * PR
+* ### Day T-53/50: Feb 19 2019
   * PR
 
