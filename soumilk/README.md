@@ -195,3 +195,15 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Solved my Ubuntu18.04 issue of crackling sound.
    * Solved February Cook-off challenge.
    * Was able to solve 3 questions successfully.
+
+### Day 47(19-feb)
+   * Prepared for Mid Terms on 20th.
+   * Solved HackerRank Questions:
+    * [Correctness and the Loop Invariant.py](https://www.hackerrank.com/challenges/correctness-invariant/submissions/code/99523054)
+      * [Solution](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Correctness%20and%20the%20Loop%20Invariant.py)
+    * [Running Time of Algorithms.py](https://www.hackerrank.com/challenges/runningtime/problem)
+      * [Solution](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Running%20Time%20of%20Algorithms.py)
+    * [Intro to Tutorial Challenges.py](https://www.hackerrank.com/challenges/tutorial-intro/problem)
+      * [Solution](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Intro%20to%20Tutorial%20Challenges.py)
+    * [Insertion Sort - Part 2.py](https://www.hackerrank.com/challenges/insertionsort2/submissions/code/99521955)
+      * [Solution](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Insertion%20Sort%20-%20Part%202.py)
