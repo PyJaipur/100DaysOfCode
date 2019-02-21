@@ -283,3 +283,8 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Prepared solution for Data Structures Lab Mid term Assignment as a duty of Teaching Assistant in DSA lab. Link [here](https://github.com/arnabsinha99/DSA-Evaluation-Codes/tree/master/Wednesday)
 
 ### Day 52
+
+* Banker's algorithm to avoid deadlocks in C.
+
+### Day 53
+
