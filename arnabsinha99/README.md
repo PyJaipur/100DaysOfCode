@@ -5,7 +5,7 @@ Hi, I am a sophomore pursuing my B.Tech in Computer Science at The LNMIIT, Jaipu
 I currently work in the following languages:
 
 * Python for Data Science , ML and AI
-* HTML and CSS for backend
+* HTML and CSS for frontend
 * C++14 for competitive programming
 
 I have slight experience in Bootstrap 4 framework also.
@@ -284,8 +284,8 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 ### Day 52
 
-* Banker's algorithm to avoid deadlocks in C. (Here)[https://github.com/arnabsinha99/LNMIIT_Lab_codes]
+* Banker's algorithm to avoid deadlocks in C. [Here](https://github.com/arnabsinha99/LNMIIT_Lab_codes)
 
 ### Day 53
 
-* Preemptive Priority based job scheduling in C language. (Here)[https://github.com/arnabsinha99/LNMIIT_Lab_codes]
+* Preemptive Priority based job scheduling in C language. [Here](https://github.com/arnabsinha99/LNMIIT_Lab_codes)
