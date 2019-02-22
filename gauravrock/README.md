@@ -120,3 +120,7 @@
 - written 2 pages of my next research paper.
 ## Day - -51 : feb 20th 2019
 - learned some concepts of Non-parametric statistics(Bayesian stats).
+## Day - -52 : feb 21th 2019
+- learned the wilcoxon rank sum test.
+## Day - -53 : feb 22th 2019
+- learned the concept of wilcoxon signed test.
