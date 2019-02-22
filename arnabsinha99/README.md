@@ -284,7 +284,8 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 ### Day 52
 
-* Banker's algorithm to avoid deadlocks in C.
+* Banker's algorithm to avoid deadlocks in C. (Here)[https://github.com/arnabsinha99/LNMIIT_Lab_codes]
 
 ### Day 53
 
+* Preemptive Priority based job scheduling in C language. (Here)[https://github.com/arnabsinha99/LNMIIT_Lab_codes]
