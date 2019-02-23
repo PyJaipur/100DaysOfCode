@@ -289,3 +289,11 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 53
 
 * Preemptive Priority based job scheduling in C language. [Here](https://github.com/arnabsinha99/LNMIIT_Lab_codes)
+
+### Day 54
+
+* Sleeping Teaching Assistant code using semaphores in C.
+
+* Simple thread problem in C.
+
+* [Link of codes](https://github.com/arnabsinha99/LNMIIT_Lab_codes)
