@@ -124,3 +124,8 @@
 - learned the wilcoxon rank sum test.
 ## Day - -53 : feb 22th 2019
 - learned the concept of wilcoxon signed test.
+## Day - -54 : feb 23rd 2019
+- started some project on naive-bayes classifier.(understanding the root of classification: one of the five key elements of AI)
+## Day - -55 : feb 24th 2019
+- Trained a model on tumor Dataset on the basis of size.
+(i have added the books for anyone reading to understand the core of stats in read_books folder👀)
