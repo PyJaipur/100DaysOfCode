@@ -303,3 +303,9 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Solved a couple of competitive problems. [Submission 1](https://www.codechef.com/status/TABLET,arnabsinha) and [Submission 2](https://www.codechef.com/status/CHFPARTY,arnabsinha)
 
 * Started to code an autoencoder.
+
+### Day 56
+
+* Solved one Codechef problem.
+
+* Continued studying about Math behind SVM.
