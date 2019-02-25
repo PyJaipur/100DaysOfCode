@@ -213,3 +213,13 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Made design for WebApp for SIH in Adobe XD.
    * Made UI of landing page in Bootstrap.
    * Taught Git to my friends.
+
+### Day 50(24-feb)
+   * Helped a senior in Mindtree placement exam in solving coding questions, will soon share the screenshot of questions and answers in this repo.
+   * Revised Python and its object oriented approach.
+   * Solved [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge/submissions/code/100128050), solution [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Greedy/Grid%20Challenge.py).
+   * Solved [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/submissions/code/100087644), solution [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Greedy/Jim%20and%20the%20Orders.py).
+   * Solved [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/submissions/code/100034867), solution [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Counting%20Sort%202.py).
+   * Dropped Idea to learn Django, as I figured out that I am not a development guy.
+   * Prepared dataset for the SIH project in firebase.
+   
