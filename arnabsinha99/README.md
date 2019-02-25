@@ -297,3 +297,9 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Simple thread problem in C.
 
 * [Link of codes](https://github.com/arnabsinha99/LNMIIT_Lab_codes)
+
+### Day 55
+
+* Solved a couple of competitive problems. [Submission 1](https://www.codechef.com/status/TABLET,arnabsinha) and [Submission 2](https://www.codechef.com/status/CHFPARTY,arnabsinha)
+
+* Started to code an autoencoder.
