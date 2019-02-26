@@ -309,3 +309,9 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Solved one Codechef problem.
 
 * Continued studying about Math behind SVM.
+
+### Day 57
+
+* Read about Heap sort and Priority queues using Heaps.
+
+
