@@ -314,4 +314,8 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * Read about Heap sort and Priority queues using Heaps.
 
+### Day 58
 
+* Solved one greedy algo problem. 
+
+* Learnt about the basics of NLP.
