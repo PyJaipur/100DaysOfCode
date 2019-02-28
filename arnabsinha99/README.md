@@ -319,3 +319,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Solved one greedy algo problem. 
 
 * Learnt about the basics of NLP.
+
+### Day 59
+
+* Solved a problem [Here](https://codeforces.com/contest/1130/problem/A) and [Here](https://codeforces.com/contest/1130/problem/B)
