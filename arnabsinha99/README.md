@@ -323,3 +323,9 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 59
 
 * Solved a problem [Here](https://codeforces.com/contest/1130/problem/A) and [Here](https://codeforces.com/contest/1130/problem/B)
+
+### Day 60
+
+* Continued with autoencoders in Pytorch
+
+* [Midterms]
