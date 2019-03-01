@@ -140,6 +140,8 @@
   * codechef
 * ### Day T-46/57: Feb 28 2019
   * PR
-* ### Day T-45/58: Feb 29 2019
+* ### Day T-45/58: Feb 1 2019
+  * codechef
+* ### Day T-44/59: Feb 2 2019
   * 
 
