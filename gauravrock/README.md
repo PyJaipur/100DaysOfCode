@@ -129,3 +129,9 @@
 ## Day - -55 : feb 24th 2019
 - Trained a model on tumor Dataset on the basis of size.
 (i have added the books for anyone reading to understand the core of stats in read_books folder👀)
+## Day - -56 : feb 25th 2019
+- started working with linear algebra for deep learning.
+## Day - -57 : feb 26th 2019
+- learned the concept of covariance matrix in vectors.
+## Day - -58 : feb 27th 2019
+- trained the model of naive bayes for multiple column dataset and achieved 85% accuracy.
