@@ -329,3 +329,10 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Continued with autoencoders in Pytorch
 
 * [Midterms]
+
+### Day 61
+
+* Made the autoencoder. Will now try to do an analysis as well as make it from scratch.
+
+* Solved the first problem of March Challenge. Written pseudocode of second and third problem. 
+
