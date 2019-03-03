@@ -336,3 +336,6 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * Solved the first problem of March Challenge. Written pseudocode of second and third problem. 
 
+### Day 62
+
+* Could read a bit about Random Forest Algorithm.
