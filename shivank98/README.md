@@ -146,4 +146,6 @@
   * codechef
 * ### Day T-43/60: Feb 3 2019
   * codechef
+* ### Day T-42/61: Feb 4 2019
+  * codechef
 
