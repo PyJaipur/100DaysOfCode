@@ -339,3 +339,8 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 62
 
 * Could read a bit about Random Forest Algorithm.
+
+### Day 63
+
+* Applied Image processing techniques in Python as I have my IP midterm tomorrow. Got a familiar idea of standard filters, sharpening,
+  smoothening etc.
