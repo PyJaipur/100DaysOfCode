@@ -135,3 +135,14 @@
 - learned the concept of covariance matrix in vectors.
 ## Day - -58 : feb 27th 2019
 - trained the model of naive bayes for multiple column dataset and achieved 85% accuracy.
+## Day - -59 : feb 28th 2019
+- training naive bayes without scikit-learn from scratch.
+ [data-set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+## Day - -60 : march 1st 2019
+- learn more about singular matrix and how to use co-variance matrix in naive bayes algo.
+## Day - -61 : march 2nd 2019
+- selected some organisations for GSOC-19.
+## Day - -62 : march 3rd 2019
+- learn the gaussian elimination for a matrix.
+## day - -63 : march 4th 2019
+- Elimination matrix in vectors.(learn from Gilbert strang a.k.a the father of vectors.)
