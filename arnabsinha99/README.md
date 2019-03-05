@@ -344,3 +344,9 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * Applied Image processing techniques in Python as I have my IP midterm tomorrow. Got a familiar idea of standard filters, sharpening,
   smoothening etc.
+
+### Day 64
+
+* Practised a couple of questions on DP. 
+
+* Read about pipelining in Python.
