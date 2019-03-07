@@ -231,3 +231,11 @@ second number should be the last number in the range. A range of numbers is defi
 after each other in the set of real integers. For instance, the output array [2, 6] represents the
 range {2, 3, 4, 5, 6}, which is a range of length 5. Note that numbers do not need to be ordered or adjacent in the 
 array in order to form a range. Assume that there will only be one largest range.
+
+
+
+# Day 32
+
+Given an array arr[] of integers, find out the maximum
+difference between any two
+elements such that larger element appears after the smaller number.
