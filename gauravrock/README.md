@@ -146,3 +146,9 @@
 - learn the gaussian elimination for a matrix.
 ## day - -63 : march 4th 2019
 - Elimination matrix in vectors.(learn from Gilbert strang a.k.a the father of vectors.)
+## day - -64 : march 5th 2019
+- learn the latex.(to write mathematical expressions in python)
+## day - -65 : march 6th 2019
+- watch the tensorflow dev summit and also worked with vectors(linear algebra).
+## day - -66 : march 7th 2019
+- worked out the multivariate gaussian naive bayes from scratch without any libarary.(working from scratch helps in knowing what is hiden behind libraries🤪) -soon will add the code.
