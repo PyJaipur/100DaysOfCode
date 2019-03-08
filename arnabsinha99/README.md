@@ -354,3 +354,9 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 65 
 
 * Worked on second problem of March Challenge.
+
+### Day 66
+
+* Started Animal Prediction Challenge on Hackerearth. 
+
+* Learnt about data uploading on Google Colab and started learning PyTorch from basics through docs. 
