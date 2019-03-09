@@ -152,3 +152,7 @@
 - watch the tensorflow dev summit and also worked with vectors(linear algebra).
 ## day - -66 : march 7th 2019
 - worked out the multivariate gaussian naive bayes from scratch without any libarary.(working from scratch helps in knowing what is hiden behind libraries🤪) -soon will add the code.
+## day - -67 : march 8th 2019
+- learned the concept of positive definite, positive semidefinite & negative definite.
+## day - -68 : march 9th 2019
+- Trying to get the maximum accuracy in naive bayes using another great concept of Qda ,Lda and Rda. The last concept got singular matrix at the end which resulted in the decreasing the accuracy and precision also some conflicts with pooled co-variance matrix.🤯
