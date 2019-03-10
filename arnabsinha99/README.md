@@ -366,3 +366,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Did significant progress on the pre processing part of the Animal Prediction Challenge. So, I applied every thing from scratch. I have
   hardly used libraries as it is tedious to remember everything. Code will be uploaded after the contest! Will start applying different
   models now
+  
+### Day 68
+
+* Worked on the ML Challenge more.
