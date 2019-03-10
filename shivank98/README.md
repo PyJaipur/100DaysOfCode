@@ -158,4 +158,6 @@
   * some web
 * ### Day T-37/66: Mar 9 2019
   * codechef
+* ### Day T-36/67: Mar 10 2019
+  * codechef
 
