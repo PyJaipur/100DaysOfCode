@@ -222,4 +222,15 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Solved [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/submissions/code/100034867), solution [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Counting%20Sort%202.py).
    * Dropped Idea to learn Django, as I figured out that I am not a development guy.
    * Prepared dataset for the SIH project in firebase.
-   
+
+### Day 51
+   * Smart India Hackathon 2019, Runner up.
+   * Designed a website in the process to provide the solution to the problem statement given by ITC.
+   * Front End:
+      * HTML/ CSS
+      * JavaScript/ Boostrap
+   * Back End:
+      * Python3
+   * Database:
+      * firebase
+   * Soon gonna upload the project in github with comments and whole explanation of the project.
