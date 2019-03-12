@@ -234,3 +234,8 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Database:
       * firebase
    * Soon gonna upload the project in github with comments and whole explanation of the project.
+
+### Day 52 (11-03-2019)
+   * Started pyjaipur coding-division again after getting a support from group members.
+   * 0/1 knapsack problem and its implementation using Dynamic programming tabulation method.
+   * HackerEarth challenge.
