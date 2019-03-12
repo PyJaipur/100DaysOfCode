@@ -384,3 +384,9 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Worked on ML Challenge. ( Tried out DL algos as I failed yesterday.. successful today. Also, starting to try XGBoost)
 
 * Solved problem 3 of March Challenge.
+
+### Day 71
+
+* Worked on and submitted my code on Animal Prediction Challenge. [Code link](https://github.com/arnabsinha99/MListheroxx/blob/master/animal_pred_xgboost_ver1.py)
+
+* Read an article about XGBoost. Began to learn math behind Gradient Boosting and XGBoost.
