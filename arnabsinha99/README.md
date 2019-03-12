@@ -370,3 +370,17 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 68
 
 * Worked on the ML Challenge more.
+
+### Day 69
+
+* Worked on ML Challenge. ( Tried out DL algos)
+
+* Solved problem 2 of March Challenge.
+
+* Learnt few more things on Pytorch.
+
+### Day 70
+
+* Worked on ML Challenge. ( Tried out DL algos as I failed yesterday.. successful today. Also, starting to try XGBoost)
+
+* Solved problem 3 of March Challenge.
