@@ -162,3 +162,5 @@
   * codechef
 * ### Day T-35/68: Mar 11 2019
   * PR
+* ### Day T-34/69: Mar 12 2019
+  * git
