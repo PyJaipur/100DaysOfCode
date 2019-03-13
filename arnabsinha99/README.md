@@ -390,3 +390,10 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Worked on and submitted my code on Animal Prediction Challenge. [Code link](https://github.com/arnabsinha99/MListheroxx/blob/master/animal_pred_xgboost_ver1.py)
 
 * Read an article about XGBoost. Began to learn math behind Gradient Boosting and XGBoost.
+
+### Day 72
+
+* Worked on my website.
+
+* Read more articles on Gradient Boosting Algos. Will now read [this](http://zhanpengfang.github.io/418home.html) article by the famous
+  Zhanpeng Fang!
