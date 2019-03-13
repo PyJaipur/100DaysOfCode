@@ -156,3 +156,9 @@
 - learned the concept of positive definite, positive semidefinite & negative definite.
 ## day - -68 : march 9th 2019
 - Trying to get the maximum accuracy in naive bayes using another great concept of Qda ,Lda and Rda. The last concept got singular matrix at the end which resulted in the decreasing the accuracy and precision also some conflicts with pooled co-variance matrix.🤯
+## day - -69 : march 10th 2019
+- learned the concept of vector spaces in linear algebra.
+## day - -70 : march 11th 2019
+- learned the sympy and unit testing(also some continous integration).
+## day - -71 : march 12th 2019
+- Trying to implement the same naive bayes classifier for [Devanagari Handwritten Character Dataset Data Set ](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data). This time it's an application for computer vision.💻
