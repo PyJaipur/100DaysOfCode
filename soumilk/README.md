@@ -239,3 +239,12 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Started pyjaipur coding-division again after getting a support from group members.
    * 0/1 knapsack problem and its implementation using Dynamic programming tabulation method.
    * HackerEarth challenge.
+
+### Day 53 (13-03-2019)
+   * Prepared a documentation for the project which me and my team developed in SIH, to upload it on github. (30 % work done)
+   * Removed a bug in that project.
+   * Taught all about Late binding using 'virtual keyword' to 4-5 students.
+   * Coded 0/1 knapsack problem in python.[code is here](https://github.com/soumilk/Algorithms_and_Their_Techniques/tree/master/Dynamic%20Programming)
+   * Learned backtracking and N Queens problem.
+   * Solved [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/submissions/code/101844568) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/The%20Love-Letter%20Mystery.py)
+   * Solved [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem?h_r=profile) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/Gemstones.py)
