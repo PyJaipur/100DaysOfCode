@@ -19,7 +19,12 @@ A pinch of Multithreading in Java, Cpp, Python
 <li>
 <h3>Day 2</h3>
   Overflowed my mind with Buffers.<br>
-  https://arstechnica.com/information-technology/2015/08/how-security-flaws-work-the-buffer-overflow/
+  https://arstechnica.com/information-technology/2015/08/how-security-flaws-work-the-buffer-overflow/<br>
   https://insecure.org/stf/smashstack.html
+</li>
+<li>
+<h3>Day 3</h3>
+  A bit of InterviewBit.<br>
+  Week 1 of Machine Learning, Stanford, Coursera
 </li>
 </ul>
