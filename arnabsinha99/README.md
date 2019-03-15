@@ -397,3 +397,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * Read more articles on Gradient Boosting Algos. Will now read [this](http://zhanpengfang.github.io/418home.html) article by the famous
   Zhanpeng Fang!
+  
+### Day 73
+
+* Coded a couple of problems in threads using C language. 
