@@ -401,3 +401,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 73
 
 * Coded a couple of problems in threads using C language. 
+
+### Day 74
+
+* Coded Smokers algorithm in C using semaphores and pthreads. Code [here](https://github.com/arnabsinha99/LNMIIT_Lab_codes/blob/master/OS%20Lab/Agent_student_semaphores.c)
