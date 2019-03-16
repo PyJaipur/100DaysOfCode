@@ -162,3 +162,11 @@
 - learned the sympy and unit testing(also some continous integration).
 ## day - -71 : march 12th 2019
 - Trying to implement the same naive bayes classifier for [Devanagari Handwritten Character Dataset Data Set ](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data). This time it's an application for computer vision.💻
+## day - -72 : march 13th 2019
+- worked with hackerrank [10 days of statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=10-days-of-statistics) and solved 20 problems.
+## day - -73 : march 14th 2019
+- learned the concept of rank in linear algebra.
+## day - -74 : march 15th 2019
+- Played with some pixels on naive bayes on Devnagri dataset and tried to classify things.
+## day - -75 : march 16th 2019
+- Tried coding all the problems and concepts in prob. and stats as per Think stats book from O'reiley.
