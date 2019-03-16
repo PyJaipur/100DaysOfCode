@@ -27,4 +27,9 @@ A pinch of Multithreading in Java, Cpp, Python
   A bit of InterviewBit.<br>
   Week 1 of Machine Learning, Stanford, Coursera
 </li>
+<li>
+ <h3>Day 4</h3>
+  Octave Basics. Scratching scratch (https://scratch.mit.edu).
+</li>
+
 </ul>
