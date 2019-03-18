@@ -405,3 +405,12 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 74
 
 * Coded Smokers algorithm in C using semaphores and pthreads. Code [here](https://github.com/arnabsinha99/LNMIIT_Lab_codes/blob/master/OS%20Lab/Agent_student_semaphores.c)
+
+
+### Day 75
+
+* Read more about Gradient Boosting.
+
+### Day 76
+
+* Tried a couple of competitive codes on Codeforces. Couldn't solve it completely.
