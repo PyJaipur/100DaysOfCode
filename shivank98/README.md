@@ -172,3 +172,5 @@
   * pr
 * ### Day T-30/73: Mar 17 2019
   * Hackerrank
+* ### Day T-29/74: Mar 18 2019
+  * Hackerrank
