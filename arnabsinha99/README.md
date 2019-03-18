@@ -414,3 +414,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 76
 
 * Tried a couple of competitive codes on Codeforces. Couldn't solve it completely.
+
+### Day 77
+
+* Read a couple of articles on Gradient Boosting. [Link](https://explained.ai/gradient-boosting/L2-loss.html#sec:2.3)
