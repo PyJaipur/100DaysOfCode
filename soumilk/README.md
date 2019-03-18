@@ -248,3 +248,10 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Learned backtracking and N Queens problem.
    * Solved [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/submissions/code/101844568) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/The%20Love-Letter%20Mystery.py)
    * Solved [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem?h_r=profile) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/Gemstones.py)
+   
+### Day 54(17-03-2019)
+   * Made code for 2 problems in CLAP.
+   * Made code for N-Queens problem using backtracking.
+   * Uploaded documentation about the project in github.(70 % done)
+   
+   * 
