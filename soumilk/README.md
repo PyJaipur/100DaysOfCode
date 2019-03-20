@@ -248,10 +248,16 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Learned backtracking and N Queens problem.
    * Solved [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/submissions/code/101844568) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/The%20Love-Letter%20Mystery.py)
    * Solved [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem?h_r=profile) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/Gemstones.py)
-   
+
 ### Day 54(17-03-2019)
    * Made code for 2 problems in CLAP.
    * Made code for N-Queens problem using backtracking.
    * Uploaded documentation about the project in github.(70 % done)
-   
-   * 
+
+### Day 55
+   * Made code for CLAP, 3 problems done till now.
+   * Code for N queen problem in c++. Code is [here](https://github.com/soumilk/Algorithms_and_Their_Techniques/blob/master/Backtracking/N%20Queens.cpp).
+   * Solved [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem?h_r=profile) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/Making%20Anagrams.cpp).
+   * Solved [Alpha and Beta](https://www.hackerrank.com/contests/hackerrank-all-womens-codesprint-2019/challenges/alpha-and-beta/submissions/code/1313454838) in a competition in hackerrank.
+   * Completed the documentation of the project.
+   * Learned about the Hashmaps from [hackerEarth](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/).
