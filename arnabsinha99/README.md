@@ -418,3 +418,11 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 77
 
 * Read a couple of articles on Gradient Boosting. [Link](https://explained.ai/gradient-boosting/L2-loss.html#sec:2.3)
+
+### Day 78
+
+* Started to work on [House Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) from Kaggle.
+
+### Day 79
+
+* Work on House Price Dataset continued.
