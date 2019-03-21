@@ -31,5 +31,14 @@ A pinch of Multithreading in Java, Cpp, Python
  <h3>Day 4</h3>
   Octave Basics. Scratching scratch (https://scratch.mit.edu).
 </li>
-
+<li>
+<font color='red'>
+<h3>5 days of inactivity</h3>
+  On a trip. Didn't do anything related to coding.
+  </font>
+</li>
+  <li>
+ <h3>Day 5</h3>
+  Week 2 of Machine Learning, Stanford, Coursera
+</li>
 </ul>
