@@ -426,3 +426,11 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 79
 
 * Work on House Price Dataset continued.
+
+### Day 80 
+
+* Read many amazing articles. Must read if you are a ML/DL fan! 
+  
+  * [Inception Network from Scratch](https://www.analyticsvidhya.com/blog/2018/10/understanding-inception-network-from-scratch/)
+  
+  * [Semantic Segmentation using DL](https://medium.com/p/c673cc5862ef)
