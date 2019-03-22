@@ -41,4 +41,8 @@ A pinch of Multithreading in Java, Cpp, Python
  <h3>Day 5</h3>
   Week 2 of Machine Learning, Stanford, Coursera
 </li>
+  <li>
+ <h3>Day 6</h3>
+  Logistic Regression, Week 3 of Machine Learning, Stanford, Coursera
+</li>
 </ul>
