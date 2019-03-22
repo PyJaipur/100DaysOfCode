@@ -434,3 +434,8 @@ I also added contributed to my project whose link is [here](https://github.com/a
   * [Inception Network from Scratch](https://www.analyticsvidhya.com/blog/2018/10/understanding-inception-network-from-scratch/)
   
   * [Semantic Segmentation using DL](https://medium.com/p/c673cc5862ef)
+
+### Day 81
+
+* Completed 3 weeks of Coursera course "Using Python to Access Web Data". Learnt various things about Sockets, HTTP and other network
+  related things.
