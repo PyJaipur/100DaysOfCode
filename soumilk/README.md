@@ -261,3 +261,10 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Solved [Alpha and Beta](https://www.hackerrank.com/contests/hackerrank-all-womens-codesprint-2019/challenges/alpha-and-beta/submissions/code/1313454838) in a competition in hackerrank.
    * Completed the documentation of the project.
    * Learned about the Hashmaps from [hackerEarth](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/).
+
+### Day 56
+   * Solved all the questions in CLAP.
+   * Learned about trees from [hackerEarth](https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/tutorial/)
+   * Solved hackerrank question [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/submissions) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Closest%20Numbers.py).
+   * Solved Hackerrank question [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem?h_r=profile) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/Alternating%20Characters.py).
+   * Learned Python I/O. Learned how to perform read and write operations on files in python. 
