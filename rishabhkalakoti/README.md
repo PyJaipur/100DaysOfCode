@@ -45,4 +45,9 @@ A pinch of Multithreading in Java, Cpp, Python
  <h3>Day 6</h3>
   Logistic Regression, Week 3 of Machine Learning, Stanford, Coursera
 </li>
+  
+  <li>
+ <h3>Day 7</h3>
+  Operating System: few principles for concurrency (https://www.ostep.org)
+</li>
 </ul>
