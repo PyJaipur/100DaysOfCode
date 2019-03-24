@@ -439,3 +439,9 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * Completed 3 weeks of Coursera course "Using Python to Access Web Data". Learnt various things about Sockets, HTTP and other network
   related things.
+
+### Day 82
+
+* Week 4 and 5 of Web Access Data course. 
+
+* Read about Blob detection technique and a paper for Weed Detection. Link to them is in my repo MListheroxx. 
