@@ -170,3 +170,17 @@
 - Played with some pixels on naive bayes on Devnagri dataset and tried to classify things.
 ## day - -75 : march 16th 2019
 - Tried coding all the problems and concepts in prob. and stats as per Think stats book from O'reiley.
+## day - -76 : march 17th 2019
+- Tried hands on oop programming concepts from python 3 Handbook.
+## day - -77 : march 18th 2019
+- learn some advance concepts from treehouse.
+## day - -78 : march 19th 2019
+- worked with some testing using python.
+## day - -79 : march 20th 2019
+- Opted for some probability and statistics from edx using python.
+## day - -80 : march 21th 2019
+- Was a bit procrastinate in uploading to github due to festival seasons in India. But somehow managed to learn some gaming concepts treehouse.
+## day - -81 : march 22th 2019
+- Get in flow with the linear algebra. 
+## day - -82 : march 23th 2019
+- Tried revising the previous concepts to get at the core of mathematics.(it is root🌴 of ML)
