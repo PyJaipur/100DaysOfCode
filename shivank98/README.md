@@ -185,3 +185,5 @@
   * Hackerrank
 * ### Day T-24/79: Mar 23 2019
   * CTCI
+* ### Day T-23/80: Mar 24 2019
+  * Personal work
