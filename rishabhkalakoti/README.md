@@ -45,4 +45,16 @@ A pinch of Multithreading in Java, Cpp, Python
  <h3>Day 6</h3>
   Logistic Regression, Week 3 of Machine Learning, Stanford, Coursera
 </li>
+  
+  <li>
+ <h3>Day 7</h3>
+  Operating System: few principles for concurrency (http://pages.cs.wisc.edu/~remzi/OSTEP/)
+</li>
+
+  <li>
+ <h3>Day 8</h3>
+  Maths for Cryptography, Euler's Totient, Fermat's, Chinese Remainder.
+  <br>
+  A little into Cryptography. SHA, RSA, MAC
+</li>
 </ul>
