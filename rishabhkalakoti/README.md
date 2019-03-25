@@ -57,4 +57,8 @@ A pinch of Multithreading in Java, Cpp, Python
   <br>
   A little into Cryptography. SHA, RSA, MAC
 </li>
+ <li>
+ <h3>Day 9</h3>
+  Little more of MAC and digital signature algorithms.
+</li>
 </ul>
