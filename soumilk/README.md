@@ -267,4 +267,11 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Learned about trees from [hackerEarth](https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/tutorial/)
    * Solved hackerrank question [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/submissions) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Closest%20Numbers.py).
    * Solved Hackerrank question [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem?h_r=profile) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/Alternating%20Characters.py).
-   * Learned Python I/O. Learned how to perform read and write operations on files in python. 
+   * Learned Python I/O. Learned how to perform read and write operations on files in python.
+
+### Day 57
+   * Solved Hackerrank Question [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/submissions/code/102851325) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Search/Ice%20Cream%20Parlor.py).
+   * Solved Hackerrank question [Two Strings](https://www.hackerrank.com/challenges/two-strings/submissions) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/Two%20Strings.py)
+   * Solved Hackerrank question [String Construction](https://www.hackerrank.com/challenges/string-construction/submissions) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/String%20Construction.py)
+   * Learned TCP/IP model in computer network for exams.
+   * Learned 'Naïve' and 'Rabin Karp' pattern matching and string searching algorithms.
