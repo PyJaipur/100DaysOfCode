@@ -445,3 +445,8 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Week 4 and 5 of Web Access Data course. 
 
 * Read about Blob detection technique and a paper for Weed Detection. Link to them is in my repo MListheroxx. 
+
+### Day 83
+
+* Completed Web Access Data Course. Learnt about XML,JSON, Service Oriented Approach in , Geocoding using JSON, Securing API Requests and
+  extracting data from JSON files. 
