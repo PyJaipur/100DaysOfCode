@@ -184,3 +184,7 @@
 - Get in flow with the linear algebra. 
 ## day - -82 : march 23th 2019
 - Tried revising the previous concepts to get at the core of mathematics.(it is root🌴 of ML)
+## day - -83 : march 24th 2019
+- learned the concept of boxplot.
+## day - -84 : march 25th 2019
+- learned Lda and what is determinant function? and how it helps in dealing with singular matrix(covarinace matrix).
