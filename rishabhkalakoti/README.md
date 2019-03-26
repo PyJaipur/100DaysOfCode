@@ -32,10 +32,9 @@ A pinch of Multithreading in Java, Cpp, Python
   Octave Basics. Scratching scratch (https://scratch.mit.edu).
 </li>
 <li>
-<font color='red'>
 <h3>5 days of inactivity</h3>
   On a trip. Didn't do anything related to coding.
-  </font>
+  
 </li>
   <li>
  <h3>Day 5</h3>
@@ -60,5 +59,12 @@ A pinch of Multithreading in Java, Cpp, Python
  <li>
  <h3>Day 9</h3>
   Little more of MAC and digital signature algorithms.
+</li>
+
+ <li>
+  <h3>Day 10</h3>
+  Disk scheduling algorithms in Operating Systems.<br>
+  Implementing concurrency in C.<br>
+  A few easy coding questions for refreshment.
 </li>
 </ul>
