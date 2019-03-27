@@ -239,3 +239,11 @@ array in order to form a range. Assume that there will only be one largest range
 Given an array arr[] of integers, find out the maximum
 difference between any two
 elements such that larger element appears after the smaller number.
+
+
+
+# Day 33
+
+You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order 
+and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
+You may assume the two numbers do not contain any leading zero, except the number 0 itself.
