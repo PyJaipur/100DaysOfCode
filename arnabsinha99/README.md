@@ -450,3 +450,11 @@ I also added contributed to my project whose link is [here](https://github.com/a
 
 * Completed Web Access Data Course. Learnt about XML,JSON, Service Oriented Approach in , Geocoding using JSON, Securing API Requests and
   extracting data from JSON files. 
+  
+### Day 84
+
+* Read about article on Semantic Segmentation. 
+
+### Day 85
+
+* Wrote a code for Best fit, first fit and worst fit algorithm for memory management in RAM using C language.
