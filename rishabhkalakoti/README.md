@@ -67,4 +67,9 @@ A pinch of Multithreading in Java, Cpp, Python
   Implementing concurrency in C.<br>
   A few easy coding questions for refreshment.
 </li>
+<li>
+  <h3>Day 11</h3>
+  Polygon shading algorithms. Phong's and Goroud.
+</li>
+
 </ul>
