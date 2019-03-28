@@ -188,3 +188,7 @@
 - learned the concept of boxplot.
 ## day - -84 : march 25th 2019
 - learned Lda and what is determinant function? and how it helps in dealing with singular matrix(covarinace matrix).
+## day - -85 : march 26th 2019
+- learned the concept of projection in vector and plane.
+## day - -86 : march 27th 2019
+- learned the concept of of RREF in projection of vectors.
