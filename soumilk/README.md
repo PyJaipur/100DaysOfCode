@@ -275,3 +275,10 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Solved Hackerrank question [String Construction](https://www.hackerrank.com/challenges/string-construction/submissions) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/String%20Construction.py)
    * Learned TCP/IP model in computer network for exams.
    * Learned 'Naïve' and 'Rabin Karp' pattern matching and string searching algorithms.
+
+### Day 58
+  * Completed one of my targets of 100daysofcode, i.e to achieve a 6-star on hackerRank problem solving.
+  * solved problem[Anagram](https://www.hackerrank.com/challenges/anagram/submissions) and the solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Strings/Anagram.py).
+  * Solved problem [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem?h_r=profile) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Find%20the%20Median.py).
+  * Solved programming questions based on OOPs as a part of screening task for internship.
+  * Soon will be uploading those questions along with their answers in this repo.
