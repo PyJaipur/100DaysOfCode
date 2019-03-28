@@ -192,3 +192,5 @@
 - learned the concept of projection in vector and plane.
 ## day - -86 : march 27th 2019
 - learned the concept of of RREF in projection of vectors.
+## day - -87 : march 28th 2019
+- learned the concept of eigen vectors and how important they are in covarinace matrix.
