@@ -11,6 +11,7 @@ Learner :)
 - [ ] A Programmer's Guide to JAVA SCJP certification (Khalid Mughal)
 - [ ] TCP-IP Illustrated: The Protocol, (Richard, Sievens)
 - [ ] Operating Systems: Three easy pieces (Remzi)
+
 **Courses**
 - [ ] Machine Learning, Stanford, Coursera
 - [ ] Software Security, Maryland, Coursera
