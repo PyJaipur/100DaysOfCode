@@ -71,5 +71,9 @@ A pinch of Multithreading in Java, Cpp, Python
   <h3>Day 11</h3>
   Polygon shading algorithms. Phong's and Goroud.
 </li>
+<li>
+  <h3>Day 12</h3>
+  Reading: A Programmer's Guide to JAVA SCJP certification (Khalid Mughal)
+</li>
 
 </ul>
