@@ -4,8 +4,17 @@ CSE, MNIT Jaipur
 <br>
 Learner :)
 </p>
-<hr>
-<h2 align='center'>The Timeline...</h2>
+
+# TODOs
+**Readings**
+- [ ] C++ (Balaguruswamy)
+- [ ] A Programmer's Guide to JAVA SCJP certification (Khalid Mughal)
+- [ ] TCP-IP Illustrated: The Protocol, (Richard, Sievens)
+
+**Courses**
+- [ ] Machine Learning, Stanford, Coursera
+- [ ] Software Security, Maryland, Coursera
+# The Timeline...
 <ul>
 <li>
 <h3>Day 0</h3>
@@ -67,4 +76,9 @@ A pinch of Multithreading in Java, Cpp, Python
   Implementing concurrency in C.<br>
   A few easy coding questions for refreshment.
 </li>
+<li>
+  <h3>Day 11</h3>
+  Polygon shading algorithms. Phong's and Goroud.
+</li>
+
 </ul>
