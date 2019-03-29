@@ -4,8 +4,19 @@ CSE, MNIT Jaipur
 <br>
 Learner :)
 </p>
-<hr>
-<h2 align='center'>The Timeline...</h2>
+
+# TODOs
+**Readings**
+- [ ] C++ (Balaguruswamy)
+- [ ] A Programmer's Guide to JAVA SCJP certification (Khalid Mughal)
+- [ ] TCP-IP Illustrated: The Protocol, (Richard, Sievens)
+- [ ] Operating Systems: Three easy pieces (Remzi)
+
+**Courses**
+- [ ] Machine Learning, Stanford, Coursera
+- [ ] Software Security, Maryland, Coursera
+
+# The Timeline...
 <ul>
 <li>
 <h3>Day 0</h3>
