@@ -194,3 +194,5 @@
 - learned the concept of of RREF in projection of vectors.
 ## day - -87 : march 28th 2019
 - learned the concept of eigen vectors and how important they are in covarinace matrix.
+## day - -88 : march 29th 2019
+- learned how to calculate the discriminant function in multiclass classification.
