@@ -87,4 +87,9 @@ A pinch of Multithreading in Java, Cpp, Python
   Reading: A Programmer's Guide to JAVA SCJP certification (Khalid Mughal)
 </li>
 
+<li>
+  <h3>Day 13</h3>
+  PR at PyJaipur/PyJudge.<br>
+  Started Regularisation in ML.
+</li>
 </ul>
