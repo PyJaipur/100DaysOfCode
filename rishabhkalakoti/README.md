@@ -97,4 +97,10 @@ A pinch of Multithreading in Java, Cpp, Python
   <h3>Day 14</h3>
   Project 1 in week 1, Software Security, Maryland, Coursera
 </li>
+
+<li>
+  <h3>Day 15</h3>
+  Attended PyJaipur meetup #11<br>
+  Competitive coding: https://www.hackerearth.com/challenges/college/flairfiesta-codewars2k19/
+</li>
 </ul>
