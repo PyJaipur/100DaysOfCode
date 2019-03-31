@@ -466,3 +466,13 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Learnt the basics of OpenCV using Python.
 
 * TA for DSA Lab. Helped first year students learn coding of BST and operations on BST. 
+
+### Day 87
+
+* Solved a couple of competitive codes. 
+
+* Coded frame allocation code for Main Memory in C language. 
+
+### Day 88
+
+* Started Hikeathon contest on Analytics Vidhya. 
