@@ -92,4 +92,9 @@ A pinch of Multithreading in Java, Cpp, Python
   PR at PyJaipur/PyJudge.<br>
   Started Regularisation in ML.
 </li>
+
+<li>
+  <h3>Day 14</h3>
+  Project 1 in week 1, Software Security, Maryland, Coursera
+</li>
 </ul>
