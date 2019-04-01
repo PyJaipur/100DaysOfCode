@@ -103,4 +103,12 @@ A pinch of Multithreading in Java, Cpp, Python
   Attended PyJaipur meetup #11<br>
   Competitive coding: https://www.hackerearth.com/challenges/college/flairfiesta-codewars2k19/
 </li>
+
+<li>
+  <h3>Day 16</h3>
+  PR at PyJaipur/PyJudge<br>
+  Worked with Mathplot library in Python to implement 2d and 3d transformations.<br>
+  Googling: webhooks, pre-commits, pipenv vs virtualenv.<br>
+  Read documentation: Black (https://github.com/ambv/black)
+</li>
 </ul>
