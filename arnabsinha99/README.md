@@ -476,3 +476,17 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 88
 
 * Started Hikeathon contest on Analytics Vidhya. 
+
+### Day 89
+
+* Read articles about weed detection using IP.
+
+### Day 90
+
+* Codeforces Div 3 contest. Solved 3 problems.
+
+### Day 91
+
+* Attempted 4th question of above contest. 
+
+* Continued with Hikeathon.
