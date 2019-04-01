@@ -196,3 +196,7 @@
 - learned the concept of eigen vectors and how important they are in covarinace matrix.
 ## day - -88 : march 29th 2019
 - learned how to calculate the discriminant function in multiclass classification.
+## day - -89 : march 30th 2019
+- learned the concept of singular values decomposition.
+## day - -90 : march 31st 2019
+- learned how +ve definite matrices are used in svd. 
