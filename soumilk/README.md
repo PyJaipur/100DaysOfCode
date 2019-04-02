@@ -282,3 +282,13 @@ Start of the #100DaysOfCode is really a great start to 2k19.
   * Solved problem [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem?h_r=profile) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Find%20the%20Median.py).
   * Solved programming questions based on OOPs as a part of screening task for internship.
   * Soon will be uploading those questions along with their answers in this repo.
+  
+### Day 59
+  * Studied various algorithms for the external practials.
+  * Attended Pyjaipur Meetup.
+  * Helped a senior in qualifying the online round of 'Mountain Blue' coding contest for placement.
+  * Revision of C++ for upcomming interview.
+  * Searched about Docker, and understood its outline and working model.
+  * Studied about Real Time OS for practicals.
+  * Solved question in the ongoing competition, and received my certificate of Codechef SnackDown 2018.
+  
