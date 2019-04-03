@@ -111,4 +111,11 @@ A pinch of Multithreading in Java, Cpp, Python
   Googling: webhooks, pre-commits, pipenv vs virtualenv.<br>
   Read documentation: Black (https://github.com/ambv/black)
 </li>
+
+<li>
+  <h3>Day 16</h3>
+  Finished Week 1, Software Security, Coursera<br>
+  Worked with GDB and Buffer Overflows<br>
+  More Multithreading with Java
+</li>
 </ul>
