@@ -113,9 +113,15 @@ A pinch of Multithreading in Java, Cpp, Python
 </li>
 
 <li>
-  <h3>Day 16</h3>
+  <h3>Day 17</h3>
   Finished Week 1, Software Security, Coursera<br>
   Worked with GDB and Buffer Overflows<br>
   More Multithreading with Java
+</li>
+
+<li>
+  <h3>Day 18</h3>
+  Finished week 3, ML, coursera<br>
+  Read a paper on Integer Overflows, http://phrack.org/issues/60/10.html
 </li>
 </ul>
