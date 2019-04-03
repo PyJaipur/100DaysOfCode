@@ -490,3 +490,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Attempted 4th question of above contest. 
 
 * Continued with Hikeathon.
+
+### Day 92
+
+* Solved one problem on Codeforces and attempted second code of April Fool's Day contest.
