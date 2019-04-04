@@ -200,3 +200,10 @@
 - learned the concept of singular values decomposition.
 ## day - -90 : march 31st 2019
 - learned how +ve definite matrices are used in svd. 
+## day - -91 : april 1st 2019
+- prepared some report on naive bayes classifier.
+## day - -92 : april 2nd 2019
+- started learning convex optimization.
+## day - -93 : april 3rd 2019
+- Refreshes with derivative and maths involved in gradient descent.
+
