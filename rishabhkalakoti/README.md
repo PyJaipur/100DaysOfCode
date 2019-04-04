@@ -124,4 +124,10 @@ A pinch of Multithreading in Java, Cpp, Python
   Finished week 3, ML, coursera<br>
   Read a paper on Integer Overflows, http://phrack.org/issues/60/10.html
 </li>
+<li>
+  <h3>Day 19</h3>
+  
+</li>
+  Read the documentation for Flask microframework, Python.<br>
+  Worked on a personal project.
 </ul>
