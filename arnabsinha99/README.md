@@ -494,3 +494,10 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 92
 
 * Solved one problem on Codeforces and attempted second code of April Fool's Day contest.
+
+### Day 93
+
+* Started an IEEE project on agriculture ( involving weed detection and leaf detection as of now). Searched for datasets and methods to use
+  IP to enhance the diseases on the leaves.
+
+* Solved one problem on Codechef.
