@@ -501,3 +501,7 @@ I also added contributed to my project whose link is [here](https://github.com/a
   IP to enhance the diseases on the leaves.
 
 * Solved one problem on Codechef.
+
+### Day 94
+
+* Started learning to use OpenCV for Kidney Detection project using Image Processing. 
