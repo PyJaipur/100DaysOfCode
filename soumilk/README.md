@@ -282,7 +282,7 @@ Start of the #100DaysOfCode is really a great start to 2k19.
   * Solved problem [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem?h_r=profile) and solution is [here](https://github.com/soumilk/HackerRank_Programs/blob/master/Sorting/Find%20the%20Median.py).
   * Solved programming questions based on OOPs as a part of screening task for internship.
   * Soon will be uploading those questions along with their answers in this repo.
-  
+
 ### Day 59
   * Studied various algorithms for the external practials.
   * Attended Pyjaipur Meetup.
@@ -291,4 +291,9 @@ Start of the #100DaysOfCode is really a great start to 2k19.
   * Searched about Docker, and understood its outline and working model.
   * Studied about Real Time OS for practicals.
   * Solved question in the ongoing competition, and received my certificate of Codechef SnackDown 2018.
-  
+
+### 60
+   * Had a technical interview regarding internship. Solved a problem in which there was the need to make use of queue using stacks data structure.
+   * Internship Screening test questions and my answers. Uploaded the questions and answers in the folder Internship Screening test.
+   * Solved question in Codechef long challenge.
+   * Created a new repository, Secrets_of_Cpp, in which I will update some really interesting and cool programs of cpp which will enhance the understanding of basic concepts of OOPS. [Secrets_of_Cpp](https://github.com/soumilk/Secrets_of_Cpp).

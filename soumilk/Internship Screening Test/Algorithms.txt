@@ -1,0 +1,53 @@
+I have taken these factors into consideration:
+1. There might be a case when both the Thanos and Bahubhali will attack at the same time.
+2. The changes in the rules in each question is included in next question as well.
+3. The damage percentage of a fighter's health is taken according to the health at that instant of time.
+
+Made the code using the classes and objects.
+Made use of functions.
+
+LOGIC:
+
+h_thanos : health of thanos
+h_bahu   : health of Bahubhali
+attack_no: total number of attacks
+att_thanos_time: This is the time thanos require to fully recover for an attack
+att_bahu_time : this is the time bahubali takes to fully recover from an attack
+
+Ans-1 :
+i. take the inputs from the user.
+ii. check if the inputs are correct.
+iii. generate a random value and do as per the rule.
+iv. One of the fighters start the fight according to the generated random value and rule.
+v. Run a while loop of time, till the health of any one of the fighter is 0.
+  - When the time is equal to the time when the thanos is recovered then damage the health of Bahubhal
+  - when the time is eual to the time when the bahubali is fully recovered then damage the health of thanos.
+vi. one which is out of health is defeated.
+
+Ans-2 :
+i. take the inputs from the user.
+ii. check if the inputs are correct.
+iii. generate a random value and do as per the rule.
+iv. One of the fighters start the fight according to the generated random value and rule.
+v. Run a while loop of time, till the health of any one of the fighter is 0.
+  - When the time is equal to the time when the thanos is recovered then:
+      =check conditions  according to the rules given in the question and then damage the health of figher.
+  - when the time is eual to the time when the bahubali is fully recovered then damage the health of thanos.
+      =check conditions  according to the rules given in the question and then damage the health of figher.
+vi. one which is out of health is defeated.
+
+Ans-3 :
+i. take the inputs from the user.
+ii. check if the inputs are correct.
+iii. generate a random value and do as per the rule.
+iv. One of the fighters start the fight according to the generated random value and rule.
+v. Run a while loop of time, till the health of any one of the fighter is 0.
+  - When the time is equal to the time when the thanos is recovered then:
+      =as now a stone has been taken from thanos, then
+       - Genrate a random number using rand() and apply the condition givn in the question-3
+       - Also check if the present health is grater then 61.5% of the total health
+       - refer the code to view operations.
+       - increase the reattack and recover time of thanos to 3 sec.
+  - when the time is eual to the time when the bahubali is fully recovered then damage the health of thanos.
+      =check conditions  according to the rules given in the question and then damage the health of figher.
+vi. one which is out of health is defeated.
