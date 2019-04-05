@@ -206,4 +206,5 @@
 - started learning convex optimization.
 ## day - -93 : april 3rd 2019
 - Refreshes with derivative and maths involved in gradient descent.
-
+## day - -94 : april 4th 2019
+- learned the concept of Newton's method in machine learning.
