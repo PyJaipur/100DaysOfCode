@@ -126,8 +126,12 @@ A pinch of Multithreading in Java, Cpp, Python
 </li>
 <li>
   <h3>Day 19</h3>
-  
+    Read the documentation for Flask microframework, Python.<br>
+  Worked on a personal project  
 </li>
-  Read the documentation for Flask microframework, Python.<br>
-  Worked on a personal project.
+
+<li>
+  <h3>Day 20</h3>
+    Worked on Flask and personal project
+</li>
 </ul>
