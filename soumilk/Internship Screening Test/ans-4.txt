@@ -1,0 +1,207 @@
+Enter the health of thanos and bhaubhali, either same or maximum difference of 5%
+1000 1000
+At t=0
+***************THIS IS FOR GOOD BUT WHO TOOK MY STONE******************
+health of bahu 850       health of thanos 1000   attack no 1    att_thanos_time= 3      att_bahu_time= 1         Current time= 0 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 900    attack no 2    att_thanos_time= 6      att_bahu_time= 3         Current time= 1 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 810    attack no 3    att_thanos_time= 9      att_bahu_time= 5         Current time= 3 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 729    attack no 4    att_thanos_time= 12     att_bahu_time= 7         Current time= 5 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 597.78         attack no 5    att_thanos_time= 15     att_bahu_time= 9
+ Current time= 7 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 538.002        attack no 6    att_thanos_time= 18     att_bahu_time= 11
+ Current time= 9 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 484.202        attack no 7    att_thanos_time= 21     att_bahu_time= 13
+ Current time= 11 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 397.045        attack no 8    att_thanos_time= 24     att_bahu_time= 15
+ Current time= 13 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 357.341        attack no 9    att_thanos_time= 27     att_bahu_time= 17
+ Current time= 15 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 321.607        attack no 10   att_thanos_time= 30     att_bahu_time= 19
+ Current time= 17 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 263.718        attack no 11   att_thanos_time= 33     att_bahu_time= 21
+ Current time= 19 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 237.346        attack no 12   att_thanos_time= 36     att_bahu_time= 23
+ Current time= 21 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 213.611        attack no 13   att_thanos_time= 39     att_bahu_time= 25
+ Current time= 23 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 175.161        attack no 14   att_thanos_time= 42     att_bahu_time= 27
+ Current time= 25 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 157.645        attack no 15   att_thanos_time= 45     att_bahu_time= 29
+ Current time= 27 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 141.881        attack no 16   att_thanos_time= 48     att_bahu_time= 31
+ Current time= 29 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 116.342        attack no 17   att_thanos_time= 51     att_bahu_time= 33
+ Current time= 31 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 104.708        attack no 18   att_thanos_time= 54     att_bahu_time= 35
+ Current time= 33 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 94.2371        attack no 19   att_thanos_time= 57     att_bahu_time= 37
+ Current time= 35 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 77.2744        attack no 20   att_thanos_time= 60     att_bahu_time= 39
+ Current time= 37 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 69.547         attack no 21   att_thanos_time= 63     att_bahu_time= 41
+ Current time= 39 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 62.5923        attack no 22   att_thanos_time= 66     att_bahu_time= 43
+ Current time= 41 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 51.3257        attack no 23   att_thanos_time= 69     att_bahu_time= 45
+ Current time= 43 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 46.1931        attack no 24   att_thanos_time= 72     att_bahu_time= 47
+ Current time= 45 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 41.5738        attack no 25   att_thanos_time= 75     att_bahu_time= 49
+ Current time= 47 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 34.0905        attack no 26   att_thanos_time= 78     att_bahu_time= 51
+ Current time= 49 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 30.6815        attack no 27   att_thanos_time= 81     att_bahu_time= 53
+ Current time= 51 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 27.6133        attack no 28   att_thanos_time= 84     att_bahu_time= 55
+ Current time= 53 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 22.6429        attack no 29   att_thanos_time= 87     att_bahu_time= 57
+ Current time= 55 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 20.3786        attack no 30   att_thanos_time= 90     att_bahu_time= 59
+ Current time= 57 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 18.3408        attack no 31   att_thanos_time= 93     att_bahu_time= 61
+ Current time= 59 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 15.0394        attack no 32   att_thanos_time= 96     att_bahu_time= 63
+ Current time= 61 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 13.5355        attack no 33   att_thanos_time= 99     att_bahu_time= 65
+ Current time= 63 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 12.1819        attack no 34   att_thanos_time= 102    att_bahu_time= 67
+ Current time= 65 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 9.98918        attack no 35   att_thanos_time= 105    att_bahu_time= 69
+ Current time= 67 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 8.99026        attack no 36   att_thanos_time= 108    att_bahu_time= 71
+ Current time= 69 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 8.09124        attack no 37   att_thanos_time= 111    att_bahu_time= 73
+ Current time= 71 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 6.63482        attack no 38   att_thanos_time= 114    att_bahu_time= 75
+ Current time= 73 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 5.97133        attack no 39   att_thanos_time= 117    att_bahu_time= 77
+ Current time= 75 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 5.3742         attack no 40   att_thanos_time= 120    att_bahu_time= 79
+ Current time= 77 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 4.40684        attack no 41   att_thanos_time= 123    att_bahu_time= 81
+ Current time= 79 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 3.96616        attack no 42   att_thanos_time= 126    att_bahu_time= 83
+ Current time= 81 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 3.56954        attack no 43   att_thanos_time= 129    att_bahu_time= 85
+ Current time= 83 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 2.92703        attack no 44   att_thanos_time= 132    att_bahu_time= 87
+ Current time= 85 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 2.63432        attack no 45   att_thanos_time= 135    att_bahu_time= 89
+ Current time= 87 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 2.37089        attack no 46   att_thanos_time= 138    att_bahu_time= 91
+ Current time= 89 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 1.94413        attack no 47   att_thanos_time= 141    att_bahu_time= 93
+ Current time= 91 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 1.74972        attack no 48   att_thanos_time= 144    att_bahu_time= 95
+ Current time= 93 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 1.57475        attack no 49   att_thanos_time= 147    att_bahu_time= 97
+ Current time= 95 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 1.29129        attack no 50   att_thanos_time= 150    att_bahu_time= 99
+ Current time= 97 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 1.16216        attack no 51   att_thanos_time= 153    att_bahu_time= 101
+ Current time= 99 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 1.04595        attack no 52   att_thanos_time= 156    att_bahu_time= 103
+ Current time= 101 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.857676       attack no 53   att_thanos_time= 159    att_bahu_time= 105
+ Current time= 103 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.771908       attack no 54   att_thanos_time= 162    att_bahu_time= 107
+ Current time= 105 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.694717       attack no 55   att_thanos_time= 165    att_bahu_time= 109
+ Current time= 107 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.569668       attack no 56   att_thanos_time= 168    att_bahu_time= 111
+ Current time= 109 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.512701       attack no 57   att_thanos_time= 171    att_bahu_time= 113
+ Current time= 111 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.461431       attack no 58   att_thanos_time= 174    att_bahu_time= 115
+ Current time= 113 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.378374       attack no 59   att_thanos_time= 177    att_bahu_time= 117
+ Current time= 115 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.340536       attack no 60   att_thanos_time= 180    att_bahu_time= 119
+ Current time= 117 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.306483       attack no 61   att_thanos_time= 183    att_bahu_time= 121
+ Current time= 119 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.251316       attack no 62   att_thanos_time= 186    att_bahu_time= 123
+ Current time= 121 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.226184       attack no 63   att_thanos_time= 189    att_bahu_time= 125
+ Current time= 123 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.203566       attack no 64   att_thanos_time= 192    att_bahu_time= 127
+ Current time= 125 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.166924       attack no 65   att_thanos_time= 195    att_bahu_time= 129
+ Current time= 127 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.150232       attack no 66   att_thanos_time= 198    att_bahu_time= 131
+ Current time= 129 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.135208       attack no 67   att_thanos_time= 201    att_bahu_time= 133
+ Current time= 131 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.110871       attack no 68   att_thanos_time= 204    att_bahu_time= 135
+ Current time= 133 sec
+***********JAI MAHESHMATI*************
+health of bahu 850       health of thanos 0.0997838      attack no 69   att_thanos_time= 207    att_bahu_time= 137
+ Current time= 135 sec
+Bahubhali wins
