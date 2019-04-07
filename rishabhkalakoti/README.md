@@ -134,4 +134,12 @@ A pinch of Multithreading in Java, Cpp, Python
   <h3>Day 20</h3>
     Worked on Flask and personal project
 </li>
+
+
+<li>
+  <h3>Day 21</h3>
+    Bootstrap documentaion.<br>
+    PR at PyJaipur/PyJudge.<br>
+    Codechef APRIL challenge.
+</li>
 </ul>
