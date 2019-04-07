@@ -505,3 +505,13 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 94
 
 * Started learning to use OpenCV for Kidney Detection project using Image Processing. 
+
+### Day 95
+
+* Started with preprocessing stage of IP Project in OpenCV.
+
+* Started Codechef April Challenge.
+
+### Day 96
+
+* Read article of Attention in RNN. [Link](https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05)
