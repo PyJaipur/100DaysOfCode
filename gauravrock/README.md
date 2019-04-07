@@ -208,3 +208,7 @@
 - Refreshes with derivative and maths involved in gradient descent.
 ## day - -94 : april 4th 2019
 - learned the concept of Newton's method in machine learning.
+## day - -95 : april 5th 2019
+- started writing [blogs](https://staticml.blogspot.com/) on what ML , Deep learning , what i learned in 100daysofMLCode journey as well as what I am learning on internship. please show your love 🧡 by subscribing(anyone reading this!!).
+## day - -96 : april 6th 2019
+- Reading the book [The Hundred-page machine learning](http://themlbook.com/) book by Andriy Burkov.
