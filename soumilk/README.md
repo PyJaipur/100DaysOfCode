@@ -292,8 +292,14 @@ Start of the #100DaysOfCode is really a great start to 2k19.
   * Studied about Real Time OS for practicals.
   * Solved question in the ongoing competition, and received my certificate of Codechef SnackDown 2018.
 
-### 60
+### Day 60
    * Had a technical interview regarding internship. Solved a problem in which there was the need to make use of queue using stacks data structure.
    * Internship Screening test questions and my answers. Uploaded the questions and answers in the folder Internship Screening test.
    * Solved question in Codechef long challenge.
    * Created a new repository, Secrets_of_Cpp, in which I will update some really interesting and cool programs of cpp which will enhance the understanding of basic concepts of OOPS. [Secrets_of_Cpp](https://github.com/soumilk/Secrets_of_Cpp).
+
+### Day 61
+   * Google Code Jam questions.
+   * Solved Codechef [April long challenge](https://www.codechef.com/APRIL19B).
+   * Solved First 2 questions and 6th question of codechef.
+   * [Access private members] (https://github.com/soumilk/Secrets_of_Cpp/blob/master/access_privtae_outside.cpp) outside of a class using a virtual keyword. 
