@@ -142,4 +142,10 @@ A pinch of Multithreading in Java, Cpp, Python
     PR at PyJaipur/PyJudge.<br>
     Codechef APRIL challenge.
 </li>
+
+<li>
+  <h3>Day 22</h3>
+    Codechef again.<br>
+    Googling and scrolling through repos for cybersecurity project.
+</li>
 </ul>
