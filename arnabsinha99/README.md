@@ -515,3 +515,9 @@ I also added contributed to my project whose link is [here](https://github.com/a
 ### Day 96
 
 * Read article of Attention in RNN. [Link](https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05)
+
+### Day 97
+
+* Read a paper on "Neural Machine Translation by Jointly Learning to Align and Translate". Link [here](https://arxiv.org/pdf/1409.0473)
+
+* Proceeded with IP Project.
