@@ -148,4 +148,11 @@ A pinch of Multithreading in Java, Cpp, Python
     Codechef again.<br>
     Googling and scrolling through repos for cybersecurity project.
 </li>
+
+<li>
+  <h3>Day 23</h3>
+    Codechef APRIL19 SJ1<br>
+    PR at PyJaipur/PyJudge<br>
+    Read documentation of <b>shelve</b>,python (https://docs.python.org/3.7/library/shelve.html)
+</li>
 </ul>
