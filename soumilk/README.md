@@ -303,3 +303,8 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Solved Codechef [April long challenge](https://www.codechef.com/APRIL19B).
    * Solved First 2 questions and 6th question of codechef.
    * [Access private members] (https://github.com/soumilk/Secrets_of_Cpp/blob/master/access_privtae_outside.cpp) outside of a class using a virtual keyword. 
+   
+### Day 62
+   * Computer network for exams.
+   * Tried solving CodeChef problem using Hashing.
+   * Solved 3rd problem in codechef.
