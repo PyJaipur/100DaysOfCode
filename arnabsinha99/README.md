@@ -521,3 +521,13 @@ I also added contributed to my project whose link is [here](https://github.com/a
 * Read a paper on "Neural Machine Translation by Jointly Learning to Align and Translate". Link [here](https://arxiv.org/pdf/1409.0473)
 
 * Proceeded with IP Project.
+
+### Day 98
+
+* Coded client-server program using C language in Socket Programming.
+
+### Day 99
+
+* Read about Level Set Method to understand the flow of curves better than DNN and read about image restoration techniques for IP Project.
+
+* Tried Question 3 of April Codechef challenge.
