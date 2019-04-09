@@ -212,3 +212,7 @@
 - started writing [blogs](https://staticml.blogspot.com/) on what ML , Deep learning , what i learned in 100daysofMLCode journey as well as what I am learning on internship. please show your love 🧡 by subscribing(anyone reading this!!).
 ## day - -96 : april 6th 2019
 - Reading the book [The Hundred-page machine learning](http://themlbook.com/) book by Andriy Burkov.
+## day - -97 : april 7th 2019
+- learned Read linear algebra by gilbert strang.
+## day - -98 : april 8th 2019
+- learned string manipulation.
