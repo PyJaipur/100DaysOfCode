@@ -5,11 +5,11 @@
  
 # Improving Algorithmic thinking.
   Solving some Kaggle Problems.
- - [ ] Improving Python Skills with #project euler and #leetcode.
- - [ ] publish 2 research papers on decision tree and KNN.
- - [ ] reading 10 books (Technical/Non-Technical)
- - [ ] follow up 3 months path by @sirajraval for Data science in 100 days.
- - [ ] Read the Book - Learn python the hard way 3
+ - [x] Improving Python Skills with #project euler and #leetcode.
+ - [x] publish 2 research papers on decision tree and KNN.
+ - [x] reading 10 books (Technical/Non-Technical)(almost 8 completed)
+ - [x] follow up 3 months path by @sirajraval for Data science in 100 days.
+ - [x] Read the Book - Learn python the hard way 3
   
   
 ## Day - -1 : Jan 1st 2019
@@ -216,3 +216,10 @@
 - learned Read linear algebra by gilbert strang.
 ## day - -98 : april 8th 2019
 - learned string manipulation.
+## day - -99 : april 8th 2019
+- Get some instance on L-BGFS algorithm the core of second-order optimisation algorithm.
+## day - -100 : april 8th 2019🤪
+- learned the concept of Active-constraint in non-convex with inequality contraint. looking forward for lagrangian function.
+
+# This 100daysofcode journey contains almost 90% mathematical concepts what is needed for starting the journey in Machine learning.(It was a wonderful journey). for more elaborative concepts please subscribe to my blogs on [https://staticml.blogspot.com/](https://staticml.blogspot.com/) 
+|||||..ONCE AGAIN HAPPY CODING💻😇||||
