@@ -155,4 +155,11 @@ A pinch of Multithreading in Java, Cpp, Python
     PR at PyJaipur/PyJudge<br>
     Read documentation of <b>shelve</b>,python (https://docs.python.org/3.7/library/shelve.html)
 </li>
+
+<li>
+  <h3>Day 24</h3>
+    Week 2, Software Security, Coursera (videos) <br>
+    Week 4, ML, Stanford, Coursera (videos, quiz) <br>
+    Java FX (https://www.javatpoint.com/javafx-tutorial)
+</li>
 </ul>
