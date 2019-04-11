@@ -168,4 +168,12 @@ A pinch of Multithreading in Java, Cpp, Python
     Contibuted to github.com/codeshows <br>
     Problem setting for contest in college.
 </li>
+
+<li>
+  <h3>Day 26</h3>
+    Reviews and Issues at github.com/codeshows <br>
+    Drinking Philosopher's Problem <br>
+    PR at PyJaipur/PyJudge<br>
+    Java Servlets basic reading https://www.javatpoint.com/servlet-tutorial
+</li>
 </ul>
