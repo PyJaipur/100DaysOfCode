@@ -176,4 +176,10 @@ A pinch of Multithreading in Java, Cpp, Python
     PR at PyJaipur/PyJudge<br>
     Java Servlets basic reading https://www.javatpoint.com/servlet-tutorial
 </li>
+<li>
+  <h3>Day 27</h3>
+  Finished problem setting for contest : http://hck.re/jfJfAL<br>
+  Reviewed PR's at github.com/codeshows<br>
+  Reset InterviewBit progress :)
+ </li>
 </ul>
