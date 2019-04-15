@@ -176,4 +176,20 @@ A pinch of Multithreading in Java, Cpp, Python
     PR at PyJaipur/PyJudge<br>
     Java Servlets basic reading https://www.javatpoint.com/servlet-tutorial
 </li>
+<li>
+  <h3>Day 27</h3>
+  Finished problem setting for contest : http://hck.re/jfJfAL<br>
+  Reviewed PR's at github.com/codeshows<br>
+  Reset InterviewBit progress :)
+ </li>
+  <h3>Day 28</h3>
+    Playing at Git (usual stuff, XD)<br>
+    Java FX (https://www.javatpoint.com/javafx-tutorial)
+</li>
+
+<li>
+  <h3>Day 29</h3>
+    Java FX. Java FX. Java FX. (pain in the ***)
+</li>
 </ul>
+
