@@ -308,3 +308,15 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Computer network for exams.
    * Tried solving CodeChef problem using Hashing.
    * Solved 3rd problem in codechef.
+   
+### Day 63 
+   * Learned about P,NP,NP-hard and NP-complete problems.
+   * Tried to solve 4th problem of Codechef using Hashing.
+   * Minimal spanning Tree and quick sort.
+   * Revision of Divide and Conquer and Greedy methods.
+   * Learned about the significance of 'auto' keyword in newer version of C++.
+   * Uploaded a code in Repo 'Secrets_of_Cpp [here] (https://github.com/soumilk/Secrets_of_Cpp/blob/master/tricky%20pointers.cpp), which will surely help everyone in understanding the concept behind auto and function pointer.
+   * Learning hashing in python.
+   
+
+
