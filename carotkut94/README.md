@@ -247,3 +247,10 @@ elements such that larger element appears after the smaller number.
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order 
 and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+
+
+# Day 34
+
+You're given strings J representing the types of stones that are jewels, and S representing the stones you have.  Each character in S is a type of stone you have.  You want to know how many of the stones you have are also jewels.
+
+The letters in J are guaranteed distinct, and all characters in J and S are letters. Letters are case sensitive, so "a" is considered a different type of stone from "A".
