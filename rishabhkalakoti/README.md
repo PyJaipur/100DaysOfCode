@@ -191,5 +191,15 @@ A pinch of Multithreading in Java, Cpp, Python
   <h3>Day 29</h3>
     Java FX. Java FX. Java FX. (pain in the ***)
 </li>
+
+<li>
+  <h3>Day 30</h3>
+    Worked on my sem projects all day.<br>
+  Read codechef editorials for APRIL Long Challenge
+</li>
 </ul>
 
+As the challenge has officially ended (Yeah. I started late) I reduced my version of 100DaysOfCode to 30DaysOfCode.
+It was a great initiative and has helped me introspect and improve. Thanks for the support :)
+
+So I therefore end my #30DaysOfCode
