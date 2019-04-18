@@ -1,0 +1,77 @@
+Explanation of whole code in this file,
+It is suggested to open code in half of the desktop
+
+
+1. Initially an abstract class named 'properties' is made because
+these properties is common among all the subjects.
+2. All the assumptions and paratamers are stated in the file named
+'Approach.txt' in this folder.
+3. Class 'subject' has inherited the abstract class, and as it is
+necessary to overload the pure virtual function of the abstract Class in the
+derived class, so the function 'chapter_assignment' has been overloaded.
+
+4. The class is having the vector of a tuple with the the first element of tuple
+be the unit number and the another is the chapter.
+
+5. 'subject()' is the default constructor which is performing the following
+tasks :
+  - Input of the name of the subject
+  - calling the function 'chapter_assignment()'
+  - calling the function 'unit_choosing()'.
+  - initialising the variable subtopics_done with 0.
+
+6. the task of the function 'chapter_assignment()' is :
+  - initialise a random seed with srand.
+  - assign the number of chapters to the units randomly.
+  - The assignment of the chapter is done in the range of 1-4
+
+7. Now the unit and their assignmenti stored in the vector of tuple with
+two paratamers (unit, chapter).
+
+8. the task of function 'unit_choosing()'
+  - Now as we want to optiise the study plan and want to learn the units which
+  have the minimum no. of chapter as each unit has equal marks assigned.
+  - Sorted the vector tuple according the the firs index of the tuple i.e.
+  according to the number of chapters.
+  - function 'sortbysec()' is used in the sorting of the tuple.
+
+9. Now come to the main function (), a vector of type 'subject' is made,
+basically a vector array which will keep the objects of class 'subject'.
+
+10. A array of marks which will keep the record of marks in each subject.
+
+11. Inputs are taken from the user.
+12. As soon as object is created the constructor is called and it performs the
+tasks as defined above.
+
+13. the task of 'marks_distribution()' function is to distribute the marks to
+each subtopic of a particular unit according to the number of chapters .
+
+14. the task of the 'display()' function is to display the index of each subject
+      - units in sorted order according to the subjects
+      - number of chapters in each unit and the marks distribution i.e the marks
+      associated with 1 subtopic of that unit.
+
+15. now the loop for 23 days is executed as we have only 23 days to prepare for RTU exams.
+16. The 'studyplan ()' function is defined as a friend funtion, (not used as such here but could be used
+if we want to access functions of class like 'display()' etc.)
+17. the task of function ' studyplan()' is to read each subject in 1 hour slot everyday to get
+optimum results so as we score the maximum in every subject.
+  - As we read a subject, then the marks[] is updated to the marks of the read content worth.
+  - We then find the subject which is having the minimum marks till now and then study that
+  subject, so as to maintain balance between each subject and perform equally well in each
+  subject .
+  - the vector of objects is passed as the ' reference' to the 'studyplan ()' function because there
+  will be updates in the variable 'subtopics_done' which id defined in the class.
+
+18. studyplan() function is calling the function study(), after the selection of the subject to study
+we need to study that subject.
+  - study function determines two conditions and mark the subtopics to be done (like or not).
+  - now if the subtopics of the unit is read completely then we will go to the next unit.
+  - the marker which is telling us the unit is 'index_of_unit' in the code.
+  - returning the score of the currently studied material, and the marks[] is updated.
+
+19. The marks table of each subject is printed out.
+
+20. This code depicts the approach, the practical problem is o ddifferent.
+It can be solved in the similar manner.
