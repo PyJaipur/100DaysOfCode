@@ -302,14 +302,14 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Google Code Jam questions.
    * Solved Codechef [April long challenge](https://www.codechef.com/APRIL19B).
    * Solved First 2 questions and 6th question of codechef.
-   * [Access private members] (https://github.com/soumilk/Secrets_of_Cpp/blob/master/access_privtae_outside.cpp) outside of a class using a virtual keyword. 
-   
+   * [Access private members] (https://github.com/soumilk/Secrets_of_Cpp/blob/master/access_privtae_outside.cpp) outside of a class using a virtual keyword.
+
 ### Day 62
    * Computer network for exams.
    * Tried solving CodeChef problem using Hashing.
    * Solved 3rd problem in codechef.
-   
-### Day 63 
+
+### Day 63
    * Learned about P,NP,NP-hard and NP-complete problems.
    * Tried to solve 4th problem of Codechef using Hashing.
    * Minimal spanning Tree and quick sort.
@@ -317,6 +317,6 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Learned about the significance of 'auto' keyword in newer version of C++.
    * Uploaded a code in Repo 'Secrets_of_Cpp [here] (https://github.com/soumilk/Secrets_of_Cpp/blob/master/tricky%20pointers.cpp), which will surely help everyone in understanding the concept behind auto and function pointer.
    * Learning hashing in python.
-   
 
-
+### Day 64
+   * Solved Coding question as a part of screening for an Internship.

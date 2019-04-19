@@ -1,0 +1,59 @@
+Total time to prepare = 23 days
+Total time to study in one day = 6 hours
+1 day = 6 hours
+23 days = 23*6 hours
+23 days = 138 hours
+So total time to prepare is 138 hours.
+
+6 Subjects:
+        like = 2
+        dislike = 4
+        could read 3 subtopics of like in one hour
+        could read 2 subtopics of dislike in one hour
+        Could not study 1 dislike subject for more than 2 hours a day
+
+STUDY PLAN :
+
+By following the optimization principal,
+GREEDY APPROACH is used here:
+We need to optimise the study plan so that student can score the maximum marks in the defined period of time
+
+1. Determine the order in which we need to study each subject, i.e the unit which takes minimum time need to be studied first as
+   each unit has equal marks.
+
+2. Make a proper study plan in which we need to study the maximum units from each subject so as to score maximum in each subject.
+3. Every subject contains 5 units and is equally important.
+
+=> 4. We are reading each subject each day, i.e. 6 subjects in 6 hours each day. 
+
+
+LIKE :
+Course coverage :
+1 subject = 10 chapters
+1 chapter = 6 subtopics
+1 hour = 3 subtopics
+2 hour = 6 subtopics = 1 chapter
+1 chapter = 2 hours
+10 chapter = 20 hours = 5 units
+5 unit = 20 hours
+1 subject = 5 units= 20 hours
+2 subjects = 40 hours
+
+DISLIKE :
+Course coverage :
+1 subject = 10 chapters
+1 chapter = 6 subtopics
+1 hour = 2 subtopics
+3 hour = 6 subtopics = 1 chapter
+1 chapter = 3 hours
+10 chapter = 30 hours = 5 units
+1 subject = 30 hours
+4 subjects = 120 hours
+
+So the net time required to complete the whole syllabus is 160 hours
+
+MARKS DISTRIBUTION :
+1 subject = 90 marks
+1 subject = 5 units
+1 unit = 90/15 = 18 marks
+1 unit = 18 marks

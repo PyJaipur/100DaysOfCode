@@ -1,0 +1,34 @@
+You need to prepare the study plan for the RTU semester examination as well as external practical exams, but there are certain constraints
+which you need to follow in order to make your action plan.
+
+Q.
+You have total of 6 subjects, and each subject has 5 unit (comprising 10 chapters). Assignment of number of chapters is up to you.
+Out of 6 subjects, you like 2 subjects and dislike 4 subjects. You cannot study the subjects you dislike more than 2 hours in a day
+and there is no constraint on the hours of study of the subjects you like (max 6 hours).
+Each chapter has 6 subtopics and you can read only 3 subtopics of the subject you like and 2 subtopics of the subject you dislike in an hour.
+You can only give a study of maximum 6 hours a day.
+Each subject is of 90 marks which is divided into 5 units.
+
+
+Your RTU exams are approaching and there are only 23 days left to complete the course. You need to be really efficient in choosing the
+units (basically with minimum no. of chapters) and complete the course as soon as possible.
+
+
+1. You need to study in such a way that you can score maximum.
+2. Print the study of each day in the format (subject_unit_chapter_subtopic).
+
+Q.
+Right after the RTU examination you have the practical exams.
+There are 4 practical labs and each lab has total 12 practical. You will study for the 3 hours a day and can learn total of 4 practical.
+You have 7 days to prepare for the practical exams.
+
+//// Whats the optimisation question for this one sir, if I need to learn the practical then its constant ,i.e.
+     in 1 day=>  3 hours= 4 practical
+     in 7 days=> 3*7= 21 hours of study.
+                 21 hours = 28 practical
+
+                 1 subject= 12 practical
+                 4 subject= 48 practical
+
+Please pardon the question.
+///

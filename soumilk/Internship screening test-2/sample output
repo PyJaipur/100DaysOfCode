@@ -1,0 +1,127 @@
+soumil@soumil-VirtualBox:~/Desktop/All tasks/Airavath$ clear
+
+soumil@soumil-VirtualBox:~/Desktop/All tasks/Airavath$ g++ RTU1.cpp
+soumil@soumil-VirtualBox:~/Desktop/All tasks/Airavath$ ./a.out
+Total number of Subjects = 6
+Each subject has= units=5      Each unit has chapters=10      subtopics in each chapter=6
+Enter the details of subject 1
+Name of the subject ?
+OS
+Do you like OS subject yes/no ?
+yes
+Enter the details of subject 2
+Name of the subject ?
+DLD
+Do you like DLD subject yes/no ?
+no
+Enter the details of subject 3
+Name of the subject ?
+EDC
+Do you like EDC subject yes/no ?
+no
+Enter the details of subject 4
+Name of the subject ?
+TEF
+Do you like TEF subject yes/no ?
+no
+Enter the details of subject 5
+Name of the subject ?
+DBMS
+Do you like DBMS subject yes/no ?
+yes
+Enter the details of subject 6
+Name of the subject ?
+ITC
+Do you like ITC subject yes/no ?
+no
+******* This is the Index of the subjects ********
+Name Of Subject : OS
+Unit - 2	 Chapters - 1 Marks distribution 3
+Unit - 3	 Chapters - 1 Marks distribution 3
+Unit - 0	 Chapters - 2 Marks distribution 1.5
+Unit - 1	 Chapters - 3 Marks distribution 1
+Unit - 4	 Chapters - 3 Marks distribution 1
+Name Of Subject : DLD
+Unit - 1	 Chapters - 1 Marks distribution 3
+Unit - 2	 Chapters - 1 Marks distribution 3
+Unit - 3	 Chapters - 1 Marks distribution 3
+Unit - 4	 Chapters - 3 Marks distribution 1
+Unit - 0	 Chapters - 4 Marks distribution 0.666667
+Name Of Subject : EDC
+Unit - 2	 Chapters - 1 Marks distribution 3
+Unit - 3	 Chapters - 1 Marks distribution 3
+Unit - 1	 Chapters - 2 Marks distribution 1.5
+Unit - 0	 Chapters - 3 Marks distribution 1
+Unit - 4	 Chapters - 3 Marks distribution 1
+Name Of Subject : TEF
+Unit - 2	 Chapters - 1 Marks distribution 3
+Unit - 3	 Chapters - 1 Marks distribution 3
+Unit - 0	 Chapters - 2 Marks distribution 1.5
+Unit - 1	 Chapters - 3 Marks distribution 1
+Unit - 4	 Chapters - 3 Marks distribution 1
+Name Of Subject : DBMS
+Unit - 1	 Chapters - 1 Marks distribution 3
+Unit - 2	 Chapters - 1 Marks distribution 3
+Unit - 3	 Chapters - 2 Marks distribution 1.5
+Unit - 0	 Chapters - 3 Marks distribution 1
+Unit - 4	 Chapters - 3 Marks distribution 1
+Name Of Subject : ITC
+Unit - 0	 Chapters - 1 Marks distribution 3
+Unit - 2	 Chapters - 1 Marks distribution 3
+Unit - 3	 Chapters - 1 Marks distribution 3
+Unit - 4	 Chapters - 3 Marks distribution 1
+Unit - 1	 Chapters - 4 Marks distribution 0.666667
+***********DAY 1 **************
+OS_2	DLD_1	EDC_2	TEF_2	DBMS_1	ITC_0
+***********DAY 2 **************
+DLD_1	EDC_2	TEF_2	ITC_0	OS_2	DBMS_1
+***********DAY 3 **************
+DLD_1	EDC_2	TEF_2	ITC_0	OS_3	DLD_2
+***********DAY 4 **************
+EDC_3	TEF_3	DBMS_2	ITC_2	DLD_2	EDC_3
+***********DAY 5 **************
+TEF_3	ITC_2	OS_3	DBMS_2	DLD_2	EDC_3
+***********DAY 6 **************
+TEF_3	ITC_2	OS_0	DLD_3	EDC_1	TEF_0
+***********DAY 7 **************
+DBMS_3	ITC_3	EDC_1	TEF_0	OS_0	DBMS_3
+***********DAY 8 **************
+DLD_3	EDC_1	TEF_0	ITC_3	OS_0	DBMS_3
+***********DAY 9 **************
+EDC_1	TEF_0	OS_0	DLD_3	EDC_1	TEF_0
+***********DAY 10 **************
+DBMS_3	ITC_3	EDC_1	TEF_0	OS_1	DBMS_0
+***********DAY 11 **************
+DLD_4	EDC_0	TEF_1	ITC_4	OS_1	DBMS_0
+***********DAY 12 **************
+DLD_4	EDC_0	TEF_1	ITC_4	OS_1	DLD_4
+***********DAY 13 **************
+EDC_0	TEF_1	DBMS_0	ITC_4	DLD_4	EDC_0
+***********DAY 14 **************
+TEF_1	ITC_4	OS_1	DBMS_0	DLD_4	EDC_0
+***********DAY 15 **************
+TEF_1	ITC_4	OS_1	DLD_4	EDC_0	TEF_1
+***********DAY 16 **************
+DBMS_0	ITC_4	DLD_4	EDC_0	TEF_1	ITC_4
+***********DAY 17 **************
+OS_1	DBMS_0	DLD_4	EDC_0	TEF_1	ITC_4
+***********DAY 18 **************
+OS_4	DLD_4	EDC_0	TEF_1	DBMS_4	ITC_4
+***********DAY 19 **************
+DLD_0	EDC_4	TEF_4	ITC_1	OS_4	DLD_0
+***********DAY 20 **************
+DBMS_4	ITC_1	DLD_0	EDC_4	TEF_4	ITC_1
+***********DAY 21 **************
+DLD_0	ITC_1	OS_4	DLD_0	EDC_4	TEF_4
+***********DAY 22 **************
+DBMS_4	ITC_1	DLD_0	ITC_1	DLD_0	EDC_4
+***********DAY 23 **************
+TEF_4	ITC_1	OS_4	DLD_0	DBMS_4	ITC_1
+************* MARKS SCORED **************
+marks scored in each subject
+OS	82
+DLD	80
+EDC	80
+TEF	80
+DBMS	82
+ITC	80
