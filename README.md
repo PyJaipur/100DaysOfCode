@@ -23,7 +23,6 @@
 * A community where you can always discuss your troubles seek mentorships etc.
  
 ## Rules:
-- [ ]  Fill the [Form](https://goo.gl/forms/64osD7FxMaIquX8g2)
 - [ ] Join the [Telegram Group](https://web.telegram.org/#/im?p=@pyjaipur)
 - [ ]  Make a commitment on Twitter on 1st January with #100DaysOfCode and #PyJaipur or #PyJaipurIsAwesome in order to get elligble for rewards from PyJ.
 - [ ] **In this repo find the folders with the Username, you can update README.md in your folder for daily logs start with your Introduction.**
