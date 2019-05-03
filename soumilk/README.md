@@ -320,3 +320,8 @@ Start of the #100DaysOfCode is really a great start to 2k19.
 
 ### Day 64
    * Solved Coding question as a part of screening for an Internship.
+   
+### Day 65
+   * Solved a Hackerrank Problem [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) and the solution is at the (https://github.com/soumilk/HackerRank_Programs/blob/master/implementation/Bigger%20is%20Greater.py).
+   * Codechef  competition 
+   * Learned Tkinter and made a cool BOUNCE GAME in python. [here](https://github.com/soumilk/Tkinter_and_Python_Game).
