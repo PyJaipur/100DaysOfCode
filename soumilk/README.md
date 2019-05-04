@@ -325,3 +325,7 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Solved a Hackerrank Problem [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) and the solution is at the (https://github.com/soumilk/HackerRank_Programs/blob/master/implementation/Bigger%20is%20Greater.py).
    * Codechef  competition 
    * Learned Tkinter and made a cool BOUNCE GAME in python. [here](https://github.com/soumilk/Tkinter_and_Python_Game).
+   
+### Day 66
+   * Solved the first question of Codechef may long challenge.
+   * Learned the basics of colors composite and RGB values importance in OpenCV.
