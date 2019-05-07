@@ -329,3 +329,11 @@ Start of the #100DaysOfCode is really a great start to 2k19.
 ### Day 66
    * Solved the first question of Codechef may long challenge.
    * Learned the basics of colors composite and RGB values importance in OpenCV.
+   
+### Day 67
+   * Continued Open CV
+   * Developed another python game [Pong Game] (https://github.com/soumilk/Tkinter_and_Python_Game/blob/master/PONG%20GAME!.py).
+   * Worked on Python GUI.
+   * Intership Tasks 
+   * Learned TDD and BDD testing in python. About Unittest and pytest module.
+   * Hackerearth algorithms Array complete along with examples.
