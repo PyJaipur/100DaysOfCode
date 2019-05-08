@@ -7,7 +7,7 @@ Start of the #100DaysOfCode is really a great start to 2k19.
 # Target for the upcomming 100 Days
   * Get a strong grip on DSA.
   * Be a 6 star Problem solver , 5 star batches in both C++, Python on hackerrank.
-  * Learn OpenCL.
+  * Learn OpenCV.
   * Practice SPOJ 250 famous problems.
   * Make a good python project.
 
@@ -337,3 +337,8 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Intership Tasks 
    * Learned TDD and BDD testing in python. About Unittest and pytest module.
    * Hackerearth algorithms Array complete along with examples.
+   
+### Day 68 
+   * Started to learn some basics of Numpy.
+   * Solved Hackerearth questions.
+   * Stack Data structure complete. 
