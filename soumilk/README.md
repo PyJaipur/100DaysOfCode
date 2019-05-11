@@ -342,3 +342,8 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Started to learn some basics of Numpy.
    * Solved Hackerearth questions.
    * Stack Data structure complete. 
+   
+### Day 69
+   * Taught Git and Github at internship to new teammates.
+   * Learned Pandas and Numpy. 
+   * solved Questions in Hackerearth. 
