@@ -347,3 +347,9 @@ Start of the #100DaysOfCode is really a great start to 2k19.
    * Taught Git and Github at internship to new teammates.
    * Learned Pandas and Numpy. 
    * solved Questions in Hackerearth. 
+
+### Day 70
+   * Learned Matplolib complete.
+   * Solved [Hackerearth questions](https://github.com/soumilk/HackerEarth_Programs).
+   * Working on a mini python project.
+   * Learned about python sockets and multithreding.
