@@ -5,6 +5,15 @@
     - Update `userlinks` dictionary in `update_readme.py` file.
     - Open a pull request.
 
+To regenerate this README file:
+
+```bash
+git log | python3 update_readme.py > new
+mv new README.md
+```
+
+ 
+
 -------------- 
 
 
