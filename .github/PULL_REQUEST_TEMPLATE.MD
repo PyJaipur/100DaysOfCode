@@ -1,5 +1,5 @@
 
 **Checklist (Mandatory)**
-- [ ] Introduction
-- [ ] Progress
-- [ ] Tweeted the Weekly/Daily Progress.
+
+- [ ] Link to question
+- [ ] Code
