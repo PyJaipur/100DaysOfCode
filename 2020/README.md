@@ -29,3 +29,6 @@
 ## Problems
 
 - Day 01: https://leetcode.com/problems/brick-wall/
+- Day 02: https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/
+- Day 03: https://leetcode.com/problems/remove-comments/
+- Day 04: https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
