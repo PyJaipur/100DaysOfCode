@@ -32,3 +32,4 @@
 - Day 02: https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/
 - Day 03: https://leetcode.com/problems/remove-comments/
 - Day 04: https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+- Day 05: https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/
